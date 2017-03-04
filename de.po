@@ -711,7 +711,7 @@ msgstr "Neue Duplikanten sind verfügbar"
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "The Printing Pod is ready to print a new colony member\n\nPlease select a DNA blueprint"
-msgstr "Die Druck-Kammer ist bereit ein neues Kolonie Mitglied zu drucken\n\nbitte wähle eine DNA Blaupause aus"
+msgstr "Der Biodrucker ist bereit ein neues Kolonie Mitglied zu drucken\n\nbitte wähle eine DNA Blaupause aus"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
@@ -1112,7 +1112,7 @@ msgstr "Nächster Duplikant:  {TimeRemaining}s"
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP"
 msgid "The Printing Pod can print out new Duplicants over time.\nThe next one will be ready in {TimeRemaining}s"
-msgstr "Die Druck-Kapsel Kann nach einiger Zeit neue Duplikanten drucken.\nDer nächste ist in {TimeRemaining}s bereit."
+msgstr "Der Biodrucker kann nach einiger Zeit neue Duplikanten drucken.\nEr ist in {TimeRemaining}s bereit."
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME"
@@ -1187,12 +1187,12 @@ msgstr "Du weist es ist an, wenn die kleine Fahne wackelt."
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
 msgid "Cools the <style=\"gas\">Gas</style> piped through it, but outputs <style=\"heat\">Heat</style> in its immediate vicinity."
-msgstr "Kühlt das<style=\"gas\">Gas</style>, das durchgepumpt wird, aber erzeugt<style=\"heat\">Hitze</style> in der Umgebung."
+msgstr "Kühlt das<style=\"gas\">Gas</style>, das durchgepumpt wird, aber erzeugt<style=\"heat\">Wärme</style> in der Umgebung."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
 msgid "Thermo Regulator"
-msgstr "Klima Regler"
+msgstr "Klimagerät"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
@@ -1217,12 +1217,12 @@ msgstr "Um ehrlich zu sein, die destillierten Algen sehen noch immer sehr schlei
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
 msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>."
-msgstr "Wandelt <style=\"misc\">Schleime</style> in <style=\"misc\">Algen</style> um."
+msgstr "Wandelt <style=\"misc\">Schleim</style> in <style=\"misc\">Algen</style> um."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
 msgid "Bio Distiller"
-msgstr "Bio-Destillator"
+msgstr "Bio-Destille"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
@@ -1502,12 +1502,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT"
 msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nCan be used as floor tile."
-msgstr "Lässt eine einzelne <style=\"plant\">Pflanze</style>wachsen, wenn ein <style=\"seed\">Samen</style>gesät wird.\n\nKann als Boden Fließe benutzt werden."
+msgstr "Lässt eine einzelne <style=\"plant\">Pflanze</style>wachsen, wenn ein <style=\"seed\">Samen</style>gesät wird.\n\nKann als Boden-feld benutzt werden."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
 msgid "Farm Tile"
-msgstr "Acker-Fließe"
+msgstr "Acker"
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
@@ -1577,7 +1577,7 @@ msgstr "transportiere Gase einfach mit diesem einfachen, luftdichten Rohr."
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT"
 msgid "Transports <style=\"gas\">Gas</style> between <style=\"GasPiping\">Gas Intakes</style> and <style=\"GasPiping\">Gas Outputs</style>.\n\nCan be run through floor and wall tiles."
-msgstr "Transportiert <style=\"gas\">Gas</style> zwischen <style=\"GasPiping\">Gas Einlässe</style> und <style=\"GasPiping\">Gas Ausgänge</style>.\n\nKann in Boden und Wand Fliesen verlegt werden."
+msgstr "Transportiert <style=\"gas\">Gas</style> zwischen <style=\"GasPiping\">Gas Einlässe</style> und <style=\"GasPiping\">Gas Ausgänge</style>.\n\nKann in Boden- und Wandziegel verlegt werden."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME"
@@ -1623,12 +1623,12 @@ msgstr "It's like walking on a dream!"
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
 msgid "Used as wall and floor tile to build rooms.\n\nBlocks the flow of <style=\"liquid\">Liquid</style> without obstructing the flow of <style=\"gas\">Gas</style>."
-msgstr "Wird als Wand- und Boden Fließen genutzt um Räume zu bauen.\n\nLässt keine <style=\"liquid\">Flüssigkeiten</style>durch. Lässt <style=\"gas\">Gase</style> durch."
+msgstr "Wird als Wand- und Boden Ziegel genutzt um Räume zu bauen.\n\nLässt keine <style=\"liquid\">Flüssigkeiten</style>durch. Lässt <style=\"gas\">Gase</style> durch."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
 msgid "Gas Permeable Tile"
-msgstr "Gas durchlässige Fließen"
+msgstr "Gasdurchlässige Ziegel"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
@@ -1733,7 +1733,7 @@ msgstr "Ein Biodrucker der periodisch neue Duplikanten druckt."
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME"
 msgid "Printing Pod"
-msgstr "Druckzelle"
+msgstr "Biodrucker"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC"
@@ -1803,7 +1803,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT"
 msgid "Used as wall and floor tile to build rooms.\n\nReduces <style=\"heat\">Heat</style> transfer between walls."
-msgstr ""
+msgstr "Wird als Wand- und Boden Ziegel genutzt um Räume zu bauen.\n\nReduziert den <style=\"heat\">Temperatur</style>transfer zwischen Wänden."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
@@ -1833,7 +1833,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT"
 msgid "Enables vertical mobility for Duplicants."
-msgstr ""
+msgstr "Ermöglicht Duplikanten sich Vertikal fortzubewegen. "
 
 #. STRINGS.BUILDINGS.PREFABS.LADDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.NAME"
@@ -2043,12 +2043,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT"
 msgid "Can be used as wall or floor tile to enclose rooms.\n\nDoes not obstruct the flow of <style=\"liquid\">Liquid</style> or <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "Kann als Wand- oder Bodenziegel verwendet werden, um Räume zu bauen.\n\nLässt <style=\"liquid\">Flüssigkeiten</style> und <style=\"gas\">Gase</style> durch."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME"
 msgid "Mesh Tile"
-msgstr ""
+msgstr "Gitter Ziegel"
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC"
@@ -2068,7 +2068,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
 msgid "Breathe easy knowing you've crushed a bunch of helpless algae into oblivion."
-msgstr ""
+msgstr "Entspann dich. Du hast gerade nur ein paar hilflose Algen zerquetscht."
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT"
@@ -2078,7 +2078,7 @@ msgstr "Wandelt <style=\"misc\">Algen</style> in <style=\"oxygen\">Sauerstoff</s
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "Algae Deoxydizer"
-msgstr ""
+msgstr "Algen Deoxydizer"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
@@ -2143,17 +2143,17 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
 msgid "Storing food in a box?\nSeems rational!"
-msgstr ""
+msgstr "Nahrung in einer Box lagern?\nklingt Logisch!"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
 msgid "Stores a small amount of <style=\"food\">Food</style>."
-msgstr ""
+msgstr "Lagert eine kleine menge <style=\"food\">Nahrung</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
 msgid "Ration Box"
-msgstr ""
+msgstr "Rationsbox"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC"
@@ -2197,8 +2197,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT"
-msgid ""
-"Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be sculpted by a Duplicant."
+msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be sculpted by a Duplicant."
 msgstr "Steigert <style=\"decor\">Dekorations meinung</style> und reduziert den <style=\"stress\">Stress</style> von Duplikanten.\n\nMuss von einem Duplikanten gemeißelt werden."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME
@@ -2324,7 +2323,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
 msgid "Used as wall and floor tile to build rooms."
-msgstr ""
+msgstr "Kann als Wand- und Bodenziegel zum bau von Räumen verwendet werden."
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
@@ -2349,12 +2348,12 @@ msgstr "Lampe"
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC"
 msgid "You know it's just going to get dirty again."
-msgstr ""
+msgstr "Du weißt, es wird wieder schmutzig."
 
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.EFFECT"
 msgid "Uses <style=\"misc\">Sand</style> to purify <style=\"liquid\">Contaminated Water</style>."
-msgstr ""
+msgstr "Benutzt <style=\"misc\">Sand</style> um <style=\"liquid\">Kontaminiertes Wasser</style>zu reinigen."
 
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME"
@@ -2519,12 +2518,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC"
 msgid "A large, chlorine-dwelling <style=\"plant\">Plant</style> that can be dug up and agriculturally domesticated.\n\nIt grows inedible buds that emit toxic hydrogen gas."
-msgstr ""
+msgstr "Eine große, in Chlor-Beheimatete <style=\"plant\">Pflanze</style>, die ausgegraben und angebaut werden kann.\n\nSie hat nicht essbare Knospen, die giftigen Wasserstoff absondern."
 
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DOMESTICATEDDESC"
 msgid "A large, chlorine-dwelling <style=\"plant\">Plant</style> that grows inedible buds which emit toxic hydrogen gas."
-msgstr ""
+msgstr "Eine große, in Chlor-Beheimatete <style=\"plant\">Pflanze</style>, die ausgegraben und nicht essbare Knospen hat, die giftigen Wasserstoff absondern."
 
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.NAME"
@@ -2568,8 +2567,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC"
-msgid "A prickly, invasive weed that can be dug up and domesticated.\n"
-"\nSome find it quite pleasing to the eye."
+msgid "A prickly, invasive weed that can be dug up and domesticated.\n\nSome find it quite pleasing to the eye."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC
@@ -3529,7 +3527,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC"
 msgid "Deliver <style=\"solid\">Contaminated Dirt</style> to compost to produce <style=\"solid\">Fertilizer</style>."
-msgstr ""
+msgstr "Liefere <style=\"solid\">Kontaminierte Erde</style> um  <style=\"solid\">Dünger</style>."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME"
@@ -4464,8 +4462,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP"
 msgid "{Symptoms}\n\nInfected by {InfectionSource}\nDuration remaining: {Duration}\nRemedies: <style=\"medicine\">{Cures}</style>"
-msgstr "{Symptoms}\n"
-"\nInfiziert von {InfectionSource}\nRestlaufzeit: {Duration}\nHeilmittel: <style=\"medicine\">{Cures}</style>"
+msgstr "{Symptoms}\n\nInfiziert von {InfectionSource}\nRestlaufzeit: {Duration}\nHeilmittel: <style=\"medicine\">{Cures}</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
@@ -4520,17 +4517,17 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE"
 msgid "Obtained through prolonged digging or construction"
-msgstr ""
+msgstr "Erlangt durch langes Graben oder Bauen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME"
 msgid "Dirty Hands"
-msgstr ""
+msgstr "Schmutzige Hände"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP"
 msgid "This Duplicant needs to <style=\"hygiene\">Wash</style> their hands"
-msgstr "Dieser Duplikant muss sich seine <style =\"hygiene\"> waschen </ style>"
+msgstr "Dieser Duplikant muss sich seine Hände <style =\"hygiene\">waschen</ style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME"
@@ -5320,7 +5317,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.DESC"
 msgid "A {0} deeply relishes the feeling of dirt beneath her nails."
-msgstr ""
+msgstr "{0} genügt das Gefühl von Schmutz unter ihren Nägeln."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.NAME"
@@ -5480,7 +5477,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.LENNY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LENNY.DESC"
 msgid "Dirt's great. Space's great. Everything's great, according to {0}s."
-msgstr ""
+msgstr "Schmutz ist großartig. Der Raum ist großartig. Alles ist toll, nach {0}s."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LENNY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LENNY.NAME"
@@ -7875,17 +7872,17 @@ msgstr "Biohazard"
 #. STRINGS.ELEMENTS.ALGAE.DESC
 msgctxt "STRINGS.ELEMENTS.ALGAE.DESC"
 msgid "A cluster of non-motile, single-celled lifeforms.\n\nAlgae can be used as a renewable source of <style=\"oxygen\">Oxygen</style> when domesticated with Algae Terrariums."
-msgstr ""
+msgstr "Algen können als erneuerbare Quelle von <style=\"oxygen\">Sauerstoff</style verwendet werden, wenn sie in Algen-Terrarien domestiziert werden."
 
 #. STRINGS.ELEMENTS.ALGAE.NAME
 msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
 msgid "Algae"
-msgstr ""
+msgstr "Algen"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.DESC"
 msgid "An unstable compound that emits toxic <style=\"gas\">Chlorine Gas</style>.\n\nBleach Stone is useful in <style=\"hygiene\">Hygienic</style> processes."
-msgstr ""
+msgstr "Eine instabile Verbindung, die giftige <style=\"gas\">Chlorgase</style> absondert.\n\nBleichstein ist nützlich in <style=\"hygiene\">Hygiene</style> Prozessen."
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
@@ -7910,12 +7907,12 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBON.DESC
 msgctxt "STRINGS.ELEMENTS.CARBON.DESC"
 msgid "A combustible fossil fuel composed of carbon.\n\nCoal is useful in <style=\"power\">Power</style> production."
-msgstr ""
+msgstr "Ein brennbarer fossiler Brennstoff aus Kohlenstoff.\n\nKohle ist nützlich zur <style=\"power\">Strom</style> Produktion."
 
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
 msgid "Coal"
-msgstr ""
+msgstr "Kohle"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
@@ -7950,22 +7947,22 @@ msgstr ""
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
 msgid "(Cl) An extremely toxic element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(Cl) Eine extrem toxische Chemikalie in seiner <style =\"solid\">Festen</ style> Form."
 
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "Chlor"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
 msgid "(Cl) An extremely toxic chemical in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(Cl) Eine extrem toxische Chemikalie in seiner <style =\"solid\">Gas</ style> Form."
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "Chlor"
 
 #. STRINGS.ELEMENTS.CLAY.DESC
 msgctxt "STRINGS.ELEMENTS.CLAY.DESC"
@@ -8040,12 +8037,12 @@ msgstr ""
 #. STRINGS.ELEMENTS.CUPRITE.DESC
 msgctxt "STRINGS.ELEMENTS.CUPRITE.DESC"
 msgid "(Cu20) A conductive <style=\"RawMetal\">Metal</style>.\n\nCopper ore is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "(Cu20) Ein leitendes <style=\"RawMetal\">Metall</style>.\n\nKupfererz eignet sich für den Aufbau von <style =\"power\">Strom</ style>-Netzen."
 
 #. STRINGS.ELEMENTS.CUPRITE.NAME
 msgctxt "STRINGS.ELEMENTS.CUPRITE.NAME"
 msgid "Copper Ore"
-msgstr ""
+msgstr "Kupfererz"
 
 #. STRINGS.ELEMENTS.DIAMOND.DESC
 msgctxt "STRINGS.ELEMENTS.DIAMOND.DESC"
@@ -8060,32 +8057,32 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIRT.DESC
 msgctxt "STRINGS.ELEMENTS.DIRT.DESC"
 msgid "A soft, nutrient-rich substance capable of supporting life.\n\nNecessary in some forms of <style=\"food\">Food</style> production."
-msgstr ""
+msgstr "Eine weiche, nährstoffreiche Substanz, die das Leben unterstützen kann.\n\nNotwendig um einige Arten von <style =\"food\">Nahrung</style> herzustellen."
 
 #. STRINGS.ELEMENTS.DIRT.NAME
 msgctxt "STRINGS.ELEMENTS.DIRT.NAME"
 msgid "Dirt"
-msgstr ""
+msgstr "Erde"
 
 #. STRINGS.ELEMENTS.DIRTYICE.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.DESC"
 msgid "Toxic water frozen into a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "Toxisches Wasser in <style =\"solid\"> Fester</style> Form."
 
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
 msgid "Contaminated Ice"
-msgstr ""
+msgstr "Kontaminiertes Eis"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.DESC"
 msgid "<style=\"disease\">Disease</style> infested <style=\"liquid\">Water</style>, not fit for consumption."
-msgstr ""
+msgstr "Mit <style=\"disease\">Krankheitserreger</style> Infiziertes <style=\"liquid\">Wasser</style>, nicht für den Konsum geeignet."
 
 #. STRINGS.ELEMENTS.DIRTYWATER.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
 msgid "Contaminated Water"
-msgstr ""
+msgstr "Kontaminiertes Wasser"
 
 #. STRINGS.ELEMENTS.ELECTRUM.DESC
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.DESC"
@@ -8560,7 +8557,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SAND.DESC
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
 msgid "A composite of granular rock.\n\nSand is useful as a <style=\"misc\">filtration medium</style>."
-msgstr ""
+msgstr "Ein Verbund aus körnigem Gestein.\n\nSand ist nützlich als <style =\"misc\">Filtermaterial</style>."
 
 #. STRINGS.ELEMENTS.SAND.NAME
 msgctxt "STRINGS.ELEMENTS.SAND.NAME"
@@ -8570,12 +8567,12 @@ msgstr "Sand"
 #. STRINGS.ELEMENTS.SANDSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.DESC"
 msgid "A composite of relatively soft sedimentary rock.\n\nSandstone is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr ""
+msgstr "Ein Verbund aus relativ weichem Sedimentgestein\n\nSandstein ist nützlich als <style=\"RawMineral\">Baumaterial</style>."
 
 #. STRINGS.ELEMENTS.SANDSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.NAME"
 msgid "Sandstone"
-msgstr ""
+msgstr "Sandstein"
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC"
@@ -8590,7 +8587,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SLIMEMOLD.DESC
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.DESC"
 msgid "A thick biomixture of algae, fungi, and mucopolysaccarides.\n\n<style=\"solid\">Algae</style> is useful for <style=\"oxygen\">Oxygen</style> production when isolated."
-msgstr ""
+msgstr "Eine dicke Biomasse von Algen, Pilzen und Mukopolysacchariden.\n\n<Style =\"solid\">Algen</style>sind nützlich zur <style =\"oxygen\">Sauerstoff</style> Produktion."
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.NAME
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.NAME"
@@ -8610,7 +8607,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
 msgid "(Cl) A toxic chemical element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "Cl) Eine extrem toxische Chemikalie in seiner <style =\"solid\">Festen</ style> Form."
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
@@ -8720,7 +8717,7 @@ msgstr "Stahl"
 #. STRINGS.ELEMENTS.TOXICSAND.DESC
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.DESC"
 msgid "A <style=\"disease\">Disease</style> infested amalgam of toxic waste.\n\nEmits <style=\"disease\">Contaminated Oxygen</style> over time."
-msgstr ""
+msgstr "Ein von <style=\"disease\">Krankheitserreger</ style> befallene Ansammlung von giftigen Abfällen.\n\nSondert <style =\"disease\">Kontaminierten Sauerstoff</style> im Laufe der Zeit ab."
 
 #. STRINGS.ELEMENTS.TOXICSAND.NAME
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.NAME"
@@ -9065,7 +9062,7 @@ msgstr "Diese Ressourcen sind jetzt verfügbar:"
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
 msgid "- Use the <color=#833A5FFF>WASD</color> keys to pan your camera and the <color=#833A5FFF>MOUSE WHEEL</color> to zoom in or out. <color=#833A5FFF>[H]</color> will return your screen to the Printing Pod.\n\n- Your simulation can be sped up or slowed down by using the speed buttons in the top left, or by pressing <color=#833A5FFF>[TAB]</color>.\n\n- <color=#833A5FFF>[SPACE]</color> will pause or resume your game."
-msgstr ""
+msgstr "- Benutze die<color=#833A5FFF>WASD</color> Tasten um deine Kamera zu schwenken und das <color=#833A5FFF>MAUSRAD</color> zum rein und rauszoomen. <color=#833A5FFF>[H]</color> Bewegt die Kamera zurück zum Biodrucker.\n\n- Das Spiel kann mit <color=#833A5FFF>[TAB]</color> beschleunigt oder verlangsamt werden.\n\n-die <color=#833A5FFF>[LEERTASTE]</color> pausiert das spiel."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
@@ -9319,9 +9316,8 @@ msgstr "Diese Duplikanten erlebten einen einzigartigen Tod:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY"
-msgid ""
-"New Duplicants are no longer available for printing.\nCountdown to the next production was rebooted."
-msgstr ""
+msgid "New Duplicants are no longer available for printing.\nCountdown to the next production was rebooted."
+msgstr "Neue Duplikanten stehen zum Drucken nicht mehr zur Verfügung.\nDer Countdown zur nächsten Produktion wurde neu gestartet."
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.NAME"
@@ -9356,7 +9352,7 @@ msgstr "Diese Fabrikatoren haben keine Rezepte in der Warteschlange:"
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
 msgid "Duplicants will seek out and collect water and other <style=\"liquid\">Liquids</style> up to two tiles away and deliver it to buildings."
-msgstr ""
+msgstr "Duplikanten werden losziehen und Wasser oder andere <style=\"liquid\">Flüssigkeiten</style> suchen. Sie können die <style=\"liquid\">Flüssigkeiten</style> über 2 Fließen hinweg Sammeln oder Liefern."
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
@@ -9501,7 +9497,7 @@ msgstr "Harte Arbeit und Wiederholungen haben diese Fähigkeiten des Duplikants 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
 msgid "Duplicants must have accessible paths to their job tasks in order to work. When placing tasks, keep in mind that Duplicants can only climb obstacles two tiles high and are themselves two tiles tall.\n\nIf you are unsure if a task you've placed is accessible, select a Duplicant and click <color=#833A5FFF>SHOW NAVIGATION</color> to view all areas within their reach."
-msgstr ""
+msgstr "Duplikanten brauchen passierbare Wege, um gestellte Aufträge erfüllen zu können. Denk daran,  dass Duplikanten zwei Kästchen groß sind und nur über zwei Kästchen klettern können.\n\nWenn du dir nicht sicher bist, ob ein Auftrag Erreichbar ist, wähle einen Duplikanten aus und klicken Sie auf <color=#833A5FFF>WEGFINDUNG ANZEIGEN</color>, um alle Bereiche in seiner Reichweite anzuzeigen."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
@@ -9526,7 +9522,7 @@ msgstr "Diese Ressourcen sind nicht verfügbar:"
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
 msgid "<style=\"liquid\">Contaminated Water</style> is a yucky substance that emits <style=\"gas\">Contaminated Oxygen</style> and can cause <style=\"disease\">Disease</style> in your Duplicants.\n\nSmall accidents can be cleaned up by clicking and dragging with the <color=#833A5FFF>MOP TOOL</color> [M], while larger bodies may be worth filtering. Dirty water also <style=\"stress\">Stresses</style> out any Duplicants that come into contact with it, so it is best removed quickly for your colony's safety."
-msgstr "<style=\"liquid\">Kontaminiertes Wasser</style> ist a ekelhafte Substanz Die <style=\"gas\">Kontaminierten Sauerstoff</style> erzeugt und <style=\"disease\">Krankheiten</style> verursacht.\n\nKleine Unfälle können durch Klicken und ziehen des <color=#833A5FFF>MOP TOOLs</color> [M] beseitigt werden, größere Objekte sind es wahrscheinlich wert gefiltert zu werden. Schmutziges Wasser <style=\"stress\">Stresst</style> alle Duplikanten die damit in Kontakt kommen, das beste ist es schnell zu entfernen zur sicherung deiner Kolonie."
+msgstr "<style=\"liquid\">Kontaminiertes Wasser</style> ist eine ekelhafte Substanz, die <style=\"gas\">Kontaminierten Sauerstoff</style> erzeugt und <style=\"disease\">Krankheiten</style> verursacht.\n\nKleine Unfälle können durch Klicken und ziehen des <color=#833A5FFF>MOP TOOLs</color> [M] beseitigt werden, größere Objekte sind es wahrscheinlich wert gefiltert zu werden. Schmutziges Wasser <style=\"stress\">Stresst</style> alle Duplikanten die damit in Kontakt kommen, das beste ist es schnell zu entfernen zur Sicherung deiner Kolonie."
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
@@ -9641,7 +9637,7 @@ msgstr "Ein blockiertes Rohr hält dieses System von der Funktion ab"
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
 msgid "Duplicants will choose what work they do based on the priorities you set. To set priorities, use the priority buttons under the tool menu. Many buildings also let you change their priority on selection."
-msgstr ""
+msgstr "Duplikanten werden die zu erledigenden Aufgaben je nach gesetzter Priorität abarbeiten. Du kannst Prioritäten mit der  Prioritätsschaltfläche unten im Werkzeugmenü festlegen. Bei viele Objekten lassen sich die Prioritäten im Info-Fenster ändern."
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
@@ -9666,7 +9662,7 @@ msgstr "Die Kolonie priorisiert die Arbeit über das individuelles Wohlbefinden"
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
 msgid "Eureka!\n<style=\"research\">{0} Technology</style> was unlocked through the power of science!\n\nNew buildings have become available:\n<style=\"misc\">{1}</style>"
-msgstr ""
+msgstr "Eureka!\n<style=\"research\">{0} Technologie</style> wurde durch die macht der Wissenschaft freigeschaltet!\n\nNeue Baupläne sind nun verfügbar:\n<style=\"misc\">{1}</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME"
@@ -9691,7 +9687,7 @@ msgstr "Diese Ressourcen sind geschmolzen:"
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
 msgid "Duplicants crave structure and will only eat, sleep, work or bathe during the times you allot for these activities.\n\nTo make the best use of your time, open the <color=#833A5FFF>SCHEDULE TAB</color> [U] to adjust your colony's agenda and plan how your Duplicants should utilize their day."
-msgstr ""
+msgstr "Duplikanten sehnen sich nach Struktur und werden nur essen, schlafen, arbeiten oder duschen während der Zeit, die du für diese Aktivitäten zuteilst.\n\nUm die Zeit optimal nutzen zu können, öffne den <color=#833A5FFF>ZEITPLAN TAB</color> [U] , um Festzulegen wie deine Duplikanten ihren Tag nutzen sollen. deiner Kolonie anzupassen und zu planen, wie deine Duplikanten ihren Tag nutzen sollten."
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME"
@@ -9831,7 +9827,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Bleachstone</style> deposit is not exposed to air and cannot emit <style=\"gas\">Chlorine</style>"
-msgstr "Dieser <style=\"solid\">Bleichstein</style> Ablagerung ist verschüttet und kann kein <style=\"gas\">Chlor</style> auszustoßen"
+msgstr "Dieser <style=\"solid\">Bleichstein</style> ist verschüttet und kann kein <style=\"gas\">Chlor</style> absondern"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.NAME"
@@ -9841,7 +9837,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Bleachstone</style> deposit to emit <style=\"gas\">Chlorine</style>"
-msgstr "Der Luftdruck ist zu hoch für diese <style=\"solid\">Bleichstein</style> Ablagerung um <style=\"gas\">Chlor</style> auszustoßen"
+msgstr "Der Luftdruck ist zu hoch für diesen <style=\"solid\">Bleichstein</style> um <style=\"gas\">Chlor</style> abzusondern"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.NAME"
@@ -9851,7 +9847,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Bleachstone</style> deposit has no room to emit <style=\"gas\">Chlorine</style>"
-msgstr "Diese <style=\"solid\">Bleichstein</style> Ablagerung hat keinen platz <style=\"gas\">Chlor</style> auszustoßen"
+msgstr "Diese <style=\"solid\">Bleichstein</style> Ablagerung hat keinen platz um <style=\"gas\">Chlor</style> abzusondern"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.NAME"
@@ -9871,7 +9867,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Bleachstone</style> deposit to emit <style=\"gas\">Chlorine</style>"
-msgstr "Der Luftdruck ist zu hoch für diese <style=\"solid\">Bleichstein</style> Ablagerung um <style=\"gas\">Chlor</style> auszustoßen"
+msgstr "Der Luftdruck ist zu hoch für diesen <style=\"solid\">Bleichstein</style> um <style=\"gas\">Chlor</style> abzusondern"
 
 #. STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME"
@@ -10146,7 +10142,7 @@ msgstr "Blockiert"
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP"
 msgid "Undug material is blocking off an essential tile"
-msgstr "nicht gegrabenes Material blockiert eine wichtige Fließe"
+msgstr "nicht gegrabenes Material blockiert eine wichtiges Feld"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME"
@@ -10156,7 +10152,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP"
 msgid "Use tiles to build walls around this region"
-msgstr "Verwenden Sie Fliesen, um Mauern um dieses Gebiet zu bauen"
+msgstr "Verwenden Sie Ziegel, um Mauern um dieses Gebiet zu bauen"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME"
@@ -10186,7 +10182,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.TOOLTIP"
 msgid "This region must be a minimum of {0} tiles high and {0} tiles wide"
-msgstr "Dieses Gebiet muss mindestens {0} Fliesen hoch und {0} Fliesen breit sein"
+msgstr "Dieses Gebiet muss mindestens {0} Kästchen hoch und {0} breit sein"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME"
@@ -10794,7 +10790,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
 msgid "<style=\"decor\">Decor</style>: <style=\"{0}\">{1}</style> ({2} tile radius)"
-msgstr ""
+msgstr "<style=\"decor\">Deko</style>: <style=\"{0}\">{1}</style> ({2} Felder radius)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST"
@@ -10969,12 +10965,12 @@ msgstr "Verringert Dekorationswert um {0} in einem radius von {1}"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
 msgid "Improves Decor values by {0} in a {1} tile radius"
-msgstr "Verbessert Dekorationswerte um {0} in einem radius bon {1}"
+msgstr "Verbessert Dekorationswerte um {0} in einem radius von {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
 msgid "Duplicants walk {0} faster on this tile"
-msgstr "Duplikanten laufen {0} schneller auf dieser"
+msgstr "Duplikanten laufen {0} schneller auf diesem Feld"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED"
@@ -11674,7 +11670,7 @@ msgstr "<b>Willkommen zu Oxygen Not Included!</b>"
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY"
 msgid "Stay up to date by joining our mailing list, or head on over to the forums and join the discussion."
-msgstr "Bleib up to date! Tritt unserer e-mail liste bei, oder Schau im Forum vorbei und nimm an Diskussionen teil."
+msgstr "Bleib Up to Date! Tritt unserer E-Mail liste bei, oder schau im Forum vorbei und nimm an Diskussionen teil."
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON"
@@ -12369,7 +12365,7 @@ msgstr "Abrechen"
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
 msgid "Are you sure you want to reject all Duplicants?\n\nIt won't hurt their feelings, but it'll be awhile before the Printing Pod can print again."
-msgstr "Bist du sicher, dass du alle  Duplikanten abweisen willst?\n\nEs wird nicht ihre Gefühle verletzen, aber die Druck Kapsel braucht etwas bevor sie wieder drucken kann."
+msgstr "Bist du sicher, dass du alle  Duplikanten abweisen willst?\n\nEs wird nicht ihre Gefühle verletzen, aber der Biodrucker braucht etwas bevor er wieder drucken kann."
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
@@ -13898,8 +13894,7 @@ msgstr ""
 
 #. STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION
 msgctxt "STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION"
-msgid "Accommodate your Duplicant's needs to manage their <style=\"stress\">Stress</style>.\n"
-"\nLow <style=\"stress\">Stress</style> can provide a productivity boost, while high <style=\"stress\">Stress</style> can impair production or even lead to a nervous breakdown."
+msgid "Accommodate your Duplicant's needs to manage their <style=\"stress\">Stress</style>.\n\nLow <style=\"stress\">Stress</style> can provide a productivity boost, while high <style=\"stress\">Stress</style> can impair production or even lead to a nervous breakdown."
 msgstr "Komm dienen Duplikanten entgegen und hilf ihnen, ihren <style=\"stress\">Stress</style> zu managen.\n\nNiedriger <style=\"stress\">Stress</style> sorgt für einen Produktivität boost, hoher <style=\"stress\">Stress</style>schränkt die Produktion ein und kann zum Nervenzusammenbruch führen."
 
 #. STRINGS.UI.TOOLTIPS.STRESSPANEL
@@ -14565,7 +14560,7 @@ msgstr "Graben abbrechen"
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME"
 msgid "Show Navigation"
-msgstr ""
+msgstr "Wegfindung Anzeigen"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF"
@@ -14820,7 +14815,7 @@ msgstr "STARTEN"
 #. STRINGS.UI.WELCOMEMESSAGEBODY
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
 msgid "Your crew has awoken miles beneath the surface of an unfamiliar terrestrial body. Oddly, they have no recollection of how they got here.\n\nIt might be best to start digging."
-msgstr "Deine Crew ist Kilometertief unter der Oberfläche eines terrestrischen Körpers aufgewacht. Seltsamerweise haben sie keine Erinnerung wie sie hierher gekommen sind.\n\nEs wird wahrscheinlich das beste sein, mit Graben anzufangen."
+msgstr "Deine Crew ist Kilometertief unter der Oberfläche eines terrestrischen Körpers aufgewacht. Seltsamerweise erinnert sich niemand, wie sie hierher gekommen sind.\n\nEs wird wahrscheinlich das beste sein, mit Graben anzufangen."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
