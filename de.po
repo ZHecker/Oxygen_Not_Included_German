@@ -20,7 +20,7 @@ msgstr "Assigned to: {Assignee}"
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP"
 msgid "Only {Assignee} can use this amenity"
-msgstr "Nur {Assignee} kann diese Annehmlichkeit benutzen"
+msgstr "Nur {Assignee} kann diese Einrichtung benutzen"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
@@ -406,7 +406,7 @@ msgstr "Ungültige Platzierung"
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.TOOLTIP"
 msgid "Cannot construct building in this location"
-msgstr "Konstrukt kann nicht hier Platziert werden"
+msgstr "Objekt kann nicht hier Platziert werden"
 
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME"
@@ -576,7 +576,7 @@ msgstr "Fundament fehlt"
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
 msgid "Build Tiles beneath this building\n------------------\nTiles can be found in the Base Tab <color=#FF0000>(1)</color> of the Build Menu"
-msgstr "Baue Ziegel unter diesem Konstrukt\n------------------\nZiegel können im Basis Tab<color=#FF0000>(1)</color> im Baumenü gefunden werden"
+msgstr "Baue Ziegel unter diesem Objekt\n------------------\nZiegel können im Basis Tab<color=#FF0000>(1)</color> im Baumenü gefunden werden"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
@@ -1011,7 +1011,7 @@ msgstr "{FlushesRemaining} \"Besuche\" übrig"
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
 msgid "This amenity can handle {FlushesRemaining} more \"visits\" before needing maintenance"
-msgstr "Diese \"Annehmlichkeit\" kann noch {FlushesRemaining}  mal \"besucht\" werden bevor sie \"gewartet\" werden muss"
+msgstr "sDiese Ausstattung kann noch {FlushesRemaining}  mal \"besucht\" werden bevor sie \"gewartet\" werden muss"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
@@ -1021,7 +1021,7 @@ msgstr "Benötigt Leerung"
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP"
 msgid "This amenity cannot be used while full\n------------------\nEmptying it will produce <style=\"solid\">Contaminated Dirt</style>"
-msgstr "Diese \"Annehmlichkeit\" kann nicht benutzt werden, da sie voll ist\n------------------\ndie Reinigung erzeugt <style=\"solid\">Kontaminierte Erde</style>"
+msgstr "Diese Ausstattung kann nicht benutzt werden, da sie voll ist\n------------------\ndie Reinigung erzeugt <style=\"solid\">Kontaminierte Erde</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -1061,7 +1061,7 @@ msgstr "Außer Betrieb"
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
 msgid "This amenity requires maintenance"
-msgstr "Diese \"Annehmlichkeit\" erfordert Wartung"
+msgstr "Diese Einrichtung erfordert Wartung"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
@@ -1085,8 +1085,7 @@ msgstr "Warte auf einen Duplikanten um Flussrate zu Justierern"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME"
-msgid ""
-"Awaiting Material Delivery\n{ItemsRemaining}"
+msgid "Awaiting Material Delivery\n{ItemsRemaining}"
 msgstr "Warte auf Materiallieferung...\n{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP
@@ -1286,7 +1285,8 @@ msgstr "Batterie"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
-msgid "A soft patch in a hard world.\nYour Duplicants will be grateful to have their own bed."
+msgid ""
+"A soft patch in a hard world.\nYour Duplicants will be grateful to have their own bed."
 msgstr "Ein weicher Fleck in einer harten Welt\ndeine Duplikanten werden dankbar sein ihr eigenes Bett zu haben."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
@@ -3562,7 +3562,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Graben"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC"
@@ -7749,7 +7749,7 @@ msgstr "Dieser Duplikant verbraucht wesentlich mehr <style=\\oxygen\\>Sauerstoff
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME"
 msgid "Mouth Breather"
-msgstr "Mond Atmer"
+msgstr "Mund Atmer"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC"
@@ -7917,12 +7917,12 @@ msgstr "Kohle"
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic, atomically heavy chemical compound in a <style=\"gas\">Gaseous</style> state.\n\nCarbon Dioxide tends to sink below other gases."
-msgstr ""
+msgstr "(CO2) Eine toxische, atomar schwere chemische Verbindung im  <style=\"gas\">gasförmigen</style> Zustand.\n\nKohlenstoffdioxid neigt dazu, unter andere Gase zu sinken."
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "Kohlenstoffdioxid"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
@@ -8312,7 +8312,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr "Kohlenstoff Dioxid"
+msgstr "Kohlenstoffdioxid"
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
@@ -8587,12 +8587,12 @@ msgstr ""
 #. STRINGS.ELEMENTS.SLIMEMOLD.DESC
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.DESC"
 msgid "A thick biomixture of algae, fungi, and mucopolysaccarides.\n\n<style=\"solid\">Algae</style> is useful for <style=\"oxygen\">Oxygen</style> production when isolated."
-msgstr "Eine dicke Biomasse von Algen, Pilzen und Mukopolysacchariden.\n\n<Style =\"solid\">Algen</style>sind nützlich zur <style =\"oxygen\">Sauerstoff</style> Produktion."
+msgstr "Eine dicke Biomasse von Algen, Pilzen und Mukopolysacchariden.\n\n<style=\"solid\">Algen</style> sind nützlich zur  <style=\"oxygen\">Sauerstoff</style> Produktion."
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.NAME
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.NAME"
 msgid "Slime"
-msgstr ""
+msgstr "Schleim"
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC"
@@ -8602,7 +8602,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "Kohlenstoffdioxid"
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
@@ -9547,7 +9547,7 @@ msgstr "Diese Duplikanten werden bald verdursten:"
 #. STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.NAME"
 msgid "Colony requires a <style=\"power\">Power</style> source"
-msgstr ""
+msgstr "Kolonie benötigt eine <style=\"power\">Strom</style>quelle"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP"
@@ -9557,7 +9557,7 @@ msgstr "<style=\"power\">Energie</style> ist erforderlich, um elektrische Gebäu
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME"
 msgid "Colony requires a food source"
-msgstr ""
+msgstr "Kolonie benötigt eine Nahrungsquelle"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP"
@@ -9577,7 +9577,7 @@ msgstr "Ihre Kolonie hat heute {EmittingRate} <style=\"oxygen\">Sauerstoff</styl
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
 msgid "Colony requires beds"
-msgstr ""
+msgstr "Kolonie benötigt Betten"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP"
@@ -9587,7 +9587,7 @@ msgstr "Deine Duplikanten würden einen Platz zum Schlafen schätzen wissen"
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME"
 msgid "Colony requires toilets"
-msgstr ""
+msgstr "Kolonie benötigt Toiletten"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP"
@@ -9797,7 +9797,7 @@ msgstr "Ein Rohrleitungssystem hat den idealen Druck überschritten"
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY"
 msgid "Duplicants are generally self-motivated and do not need to be individually managed in order to perform tasks in the colony.\n\nYou can use the <color=#833A5FFF>DIG TOOL</color> [G] and the <color=#833A5FFF>BUILD MENU</color> in the lower left of the screen to begin planning job tasks. Once you have a few placed, your Duplicants will automatically get to work for you."
-msgstr ""
+msgstr "Duplikanten sind in der Regel selbst motiviert und müssen nicht einzeln verwaltet werden, um Aufgaben in der Kolonie durchzuführen.\n\nDu kannst das <color=#833A5FFF>GRABEN TOOL</color> [G] and the <color=#833A5FFF>BAU MENÜ</color>  unten links auf dem Bildschirm verwenden, um mit der Planung von Jobaufgaben zu beginnen. Sobald Du ein paar platziert hast, werden deine Duplikanten automatisch arbeiten."
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME"
@@ -13390,7 +13390,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Graben"
 
 #. STRINGS.UI.TOOLS.DIG.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLACTION"
@@ -13400,7 +13400,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.DIG.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLNAME"
 msgid "Dig tool"
-msgstr ""
+msgstr "Graben-Tool"
 
 #. STRINGS.UI.TOOLS.ERASEREGION.NAME
 msgctxt "STRINGS.UI.TOOLS.ERASEREGION.NAME"
@@ -14545,7 +14545,7 @@ msgstr "Abriss abbrechen"
 #. STRINGS.UI.USERMENUACTIONS.DIG.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Graben"
 
 #. STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP"
