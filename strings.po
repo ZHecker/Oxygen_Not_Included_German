@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
@@ -10,12 +10,12 @@ msgstr ""
 "X-Generator: Poedit 1.8.12\n"
 "Last-Translator: Xandras\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: de_DE\n"
+"Language: de_DE\n
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
 msgid "Assigned to: {Assignee}"
-msgstr "Assigned to: {Assignee}"
+msgstr "Zugewiesen an: {Assignee}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP"
@@ -11059,7 +11059,7 @@ msgstr "Braucht <style={0}>{1}</style> um zu Arbeiten"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT"
 msgid "Must receive gas from a gas pipe system"
-msgstr "Braut Gas aus einem Rohrsystem"
+msgstr "Braucht Gas aus einem Rohrsystem"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT"
@@ -11119,17 +11119,17 @@ msgstr "Entfernt {0} Stress von Duplikanten jede ununterbrochene Minute"
 #. STRINGS.UI.CALCULATING
 msgctxt "STRINGS.UI.CALCULATING"
 msgid "Calculating..."
-msgstr ""
+msgstr "Berechne...."
 
 #. STRINGS.UI.CANCELPLACEINRECEPTACLE
 msgctxt "STRINGS.UI.CANCELPLACEINRECEPTACLE"
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #. STRINGS.UI.CANCELREMOVALFROMRECEPTACLE
 msgctxt "STRINGS.UI.CANCELREMOVALFROMRECEPTACLE"
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #. STRINGS.UI.CHANGEPERCYCLE
 msgctxt "STRINGS.UI.CHANGEPERCYCLE"
@@ -11139,7 +11139,7 @@ msgstr "Veränderung pro Zyklus: {0}"
 #. STRINGS.UI.CHANGEPERSECOND
 msgctxt "STRINGS.UI.CHANGEPERSECOND"
 msgid "Change per second: {0}"
-msgstr ""
+msgstr "Änderung pro Sekunde: {0}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE"
@@ -11149,12 +11149,12 @@ msgstr "ZUSÄTZLICH"
 #. STRINGS.UI.CHARACTERCONTAINER_NEED
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_NEED"
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE"
 msgid " {0} {1}"
-msgstr ""
+msgstr " {0} {1}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE"
@@ -11179,7 +11179,7 @@ msgstr "KOLONIE VERLOREN"
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION"
 msgid "All Duplicants are dead or incapacitated."
-msgstr ""
+msgstr "Alle Duplikanten sind tot oder außer Gefecht gesetzt."
 
 #. STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON"
@@ -11189,37 +11189,37 @@ msgstr ""
 #. STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON"
 msgid "MAIN MENU"
-msgstr ""
+msgstr "HAUPTMENÜ"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT"
 msgid "Press <color=#F44A47>[ESC]</color> to return to a previous colony, or begin a new one."
-msgstr ""
+msgstr "Drücke <color=#F44A47>[ESC]</color> um zu einer früheren Kolonie zurückzukehren oder eine neue zu beginnen."
 
 #. STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO"
 msgid "Assigned To:"
-msgstr ""
+msgstr "Zugewiesen an:"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT"
 msgid "Can't reach"
-msgstr ""
+msgstr "Kann nicht erreichen"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCURE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCURE"
 msgid "Can cure"
-msgstr ""
+msgstr "Kann heilen"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANMOVETO
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANMOVETO"
 msgid "Can't reach"
-msgstr ""
+msgstr "Kann nicht erreichen"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP"
 msgid "Can't reach"
-msgstr ""
+msgstr "Kann nicht erreichen"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE"
@@ -11229,7 +11229,7 @@ msgstr ""
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL"
 msgid "Not operational"
-msgstr ""
+msgstr "Nicht betriebsbereit"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION"
@@ -11244,7 +11244,7 @@ msgstr "Alarmstufe Rot"
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL"
 msgid "Not operational"
-msgstr ""
+msgstr "Nicht betriebsbereit"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED"
@@ -11259,7 +11259,7 @@ msgstr ""
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS"
 msgid "No resources available"
-msgstr ""
+msgstr "Keine Ressourcen verfügbar"
 
 #. STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE"
@@ -11284,7 +11284,7 @@ msgstr "SPIEL FORTSETZEN"
 #. STRINGS.UI.CRASHSCREEN.HEADER
 msgctxt "STRINGS.UI.CRASHSCREEN.HEADER"
 msgid "OPTIONAL CRASH DESCRIPTION"
-msgstr ""
+msgstr "OPTIONALE CRASH BESCHREIBUNG"
 
 #. STRINGS.UI.CRASHSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.QUITBUTTON"
@@ -11294,32 +11294,32 @@ msgstr "ZURÜCK ZUM DESKTOP"
 #. STRINGS.UI.CRASHSCREEN.REPORTBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTBUTTON"
 msgid "REPORT CRASH"
-msgstr ""
+msgstr "MELDE CRASH"
 
 #. STRINGS.UI.CRASHSCREEN.REPORTING
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTING"
 msgid "REPORTING, PLEASE WAIT..."
-msgstr ""
+msgstr "SENDE, BITTE WARTEN ..."
 
 #. STRINGS.UI.CRASHSCREEN.THANKYOU
 msgctxt "STRINGS.UI.CRASHSCREEN.THANKYOU"
 msgid "Thank you!\n\nYou're making our game better, one crash at a time."
-msgstr ""
+msgstr "Vielen Dank!\n\nDu machst unser Spiel mit jeder Meldung besser."
 
 #. STRINGS.UI.CRASHSCREEN.TITLE
 msgctxt "STRINGS.UI.CRASHSCREEN.TITLE"
 msgid "Whoops! We're sorry, but it seems your game has encountered an error.\nIt's okay though - these errors are how we find and fix problems to make our game more fun for everyone.\nIf you use the box below to submit a crash report to us, we can use this information to get the issue sorted out."
-msgstr ""
+msgstr "Hoppla! Es tut uns leid, aber es scheint, dass bei deinem Spiel ein Fehler aufgetreten ist.\nEs ist okay - diese Fehler helfen uns, Probleme zu finden und zu beheben, um mehr Spielspaß für alle zu schaffen.\nWenn du das Feld unten verwendest, um uns einen Crash-Bericht zu übermitteln, können wir diese Informationen nutzen, um das Problem zu beheben."
 
 #. STRINGS.UI.CRASHSCREEN.UPLOADINFO
 msgctxt "STRINGS.UI.CRASHSCREEN.UPLOADINFO"
 msgid "UPLOAD ADDITIONAL INFO ({0})"
-msgstr ""
+msgstr "ZUSATZINFOS HOCHLADEN ({0})"
 
 #. STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON
 msgctxt "STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON"
 msgid "CLOSE"
-msgstr ""
+msgstr "SCHLIESSEN"
 
 #. STRINGS.UI.CREDITSSCREEN.TITLE
 msgctxt "STRINGS.UI.CREDITSSCREEN.TITLE"
@@ -11329,7 +11329,7 @@ msgstr ""
 #. STRINGS.UI.DELIVERED
 msgctxt "STRINGS.UI.DELIVERED"
 msgid "Delivered: {0} {1}"
-msgstr ""
+msgstr "Geliefert: {0} {1}"
 
 #. STRINGS.UI.DEMOOVERSCREEN.DEMOOVER
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DEMOOVER"
@@ -11349,12 +11349,12 @@ msgstr ""
 #. STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON"
 msgid "RESET"
-msgstr ""
+msgstr "RESET"
 
 #. STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING"
 msgid "Demo time remaining:"
-msgstr ""
+msgstr "Demo verbleibende Zeit:"
 
 #. STRINGS.UI.DEMOOVERSCREEN.TIMERINACTIVE
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMERINACTIVE"
@@ -11704,57 +11704,57 @@ msgstr "Masse"
 #. STRINGS.UI.ELEMENTAL.MASS.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.TOOLTIP"
 msgid "This object has a mass of {0}"
-msgstr ""
+msgstr "Dieses Objekt hat eine Masse von {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME"
 msgid "Melting Point"
-msgstr ""
+msgstr "Schmelzpunkt"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP"
 msgid "Melting point describes the temperature at which this object will melt into liquid"
-msgstr ""
+msgstr "Schmelzpunkt beschreibt die Temperatur, bei der dieses Objekt flüssig wird"
 
 #. STRINGS.UI.ELEMENTAL.SHC.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.NAME"
 msgid "Specific Heat Capacity"
-msgstr ""
+msgstr "Spezifische Wärmekapazität"
 
 #. STRINGS.UI.ELEMENTAL.SHC.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.TOOLTIP"
 msgid "Specific heat capacity is the amount of energy required to raise this object's temperature"
-msgstr ""
+msgstr "Die spezifische Wärmekapazität ist die Energiemenge, die erforderlich ist, um die Temperatur dieses Objekts zu erhöhen"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME"
 msgid "Thermal Conductivity"
-msgstr ""
+msgstr "Wärmeleitfähigkeit"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP"
 msgid "Thermal conductivity indicates how well this object conducts <style=\"heat\">Heat</style>"
-msgstr ""
+msgstr "Wärmeleitfähigkeit zeigt an, wie gut dieses Objekt <style=\"heat\">Wärme</style> leitet"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
 msgid "Added"
-msgstr ""
+msgstr "Hinzugefügt"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
 msgid "Calorie Generation:"
-msgstr ""
+msgstr "Kalorienerzeugung:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "Ihre Kolonie verbrauchte {0} <style=\"food\">Nahrung</style> im Laufe des Tages"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony produced {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "Ihre Kolonie produzierte {0} <style=\"food\">Nahrung</style> im Laufe des Tages"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE"
@@ -11774,52 +11774,52 @@ msgstr "Zyklus {0} - Gestern"
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME"
 msgid "<style=\"disease\">Diseases</style> Contracted:"
-msgstr ""
+msgstr "An <style=\"disease\">Krankheit</style> erkrankt:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
 msgid "{0} Duplicant(s) were cured of a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "{0} Duplikant(en) wurden von einer <style=\"disease\">Krankheit</style> geheilt"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP"
 msgid "{0} Duplicant(s) contracted a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "{0} Duplikant(en) haben sich mit einer <style=\"disease\">Krankheit</style> angesteckt"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME"
 msgid "<style=\"power\">Power</style> Usage:"
-msgstr ""
+msgstr "<style=\"power\">Stromverbrauch</style>verbrauch:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr ""
+msgstr "Ihre Kolonie verbrauchte {0} <style=\"power\">Strom</style> im Laufe des Tages"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr ""
+msgstr "Ihre Kolonie produzierte {0} <style=\"power\">Strom</style> im Laufe des Tages"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
 msgid "<style=\"power\">Power</style> Wasted:"
-msgstr ""
+msgstr "<style=\"power\">Strom</style> verschwendet:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> today that was not used or stored in a battery"
-msgstr ""
+msgstr "Deine Kolonie Produzierte heute {0} <style=\"power\">Strom</style> , der nicht verwendet oder in einer Batterie gespeichert wurde"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
 msgid "Idle Time:"
-msgstr ""
+msgstr "Wartezeit:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} idling over the course of the day"
-msgstr ""
+msgstr "Deine Duplikanten warteten insgesamt {0} im Laufe des Tages"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
