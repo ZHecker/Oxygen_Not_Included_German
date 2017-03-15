@@ -1,4 +1,4 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
@@ -1285,8 +1285,7 @@ msgstr "Batterie"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
-msgid ""
-"A soft patch in a hard world.\nYour Duplicants will be grateful to have their own bed."
+msgid "A soft patch in a hard world.\nYour Duplicants will be grateful to have their own bed."
 msgstr "Ein weicher Fleck in einer harten Welt\ndeine Duplikanten werden dankbar sein ihr eigenes Bett zu haben."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
@@ -2728,8 +2727,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP"
 msgid "Growth Progress\n----------\n"
-msgstr "Wachstum im Gange\n"
-"----------\n"
+msgstr "Wachstum im Gange\n----------\n"
 
 #. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING"
@@ -8172,8 +8170,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.GRANITE.DESC
 msgctxt "STRINGS.ELEMENTS.GRANITE.DESC"
-msgid ""
-"A dense composite of <style=\"RawMineral\">Igneous Rock</style>.\n\nGranite is useful as a <style=\"RawMineral\">Construction Material</style>."
+msgid "A dense composite of <style=\"RawMineral\">Igneous Rock</style>.\n\nGranite is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
 
 #. STRINGS.ELEMENTS.GRANITE.NAME
@@ -11827,7 +11824,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
 msgid "Skill Increases:"
-msgstr "Fähigkeit erhöht"
+msgstr "Fähigkeiten erhöht:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
@@ -11847,12 +11844,12 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE"
 msgid "Cycle {0} report ready"
-msgstr "Zyklus {0} Bericht bereit"
+msgstr "Bericht für Zyklus {0} bereit"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP"
 msgid "View the end of day report for Cycle {0}"
-msgstr "Tagesabschlussbericht für Zyklus {0}"
+msgstr "Zeige Abschlussbericht für Zyklus {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME"
@@ -11887,17 +11884,17 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
 msgid "<style=\"stress\">Stress</style> Change:"
-msgstr "<style=\"stress\">Stress</style> veränderung:"
+msgstr "<style=\"stress\">Stress</style>-Veränderung:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has decreased by {0}"
-msgstr "Der gesamt <style=\"stress\">Stress</style> deiner Kolonie wurde um {0} gesenkt."
+msgstr "Der gesamte <style=\"stress\">Stress</style> deiner Kolonie wurde um {0} gesenkt."
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has increased by {0}"
-msgstr "Der gesamt <style=\"stress\">Stress</style> deiner Kolonie wurde um {0} gesteigert."
+msgstr "Der gesamte <style=\"stress\">Stress</style> deiner Kolonie wurde um {0} gesteigert."
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME"
@@ -11947,17 +11944,17 @@ msgstr "{0}s"
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "Fertig"
+msgstr "Erledigt"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
 msgid "AUDIO OPTIONS"
-msgstr "AUDIO OPTIONEN"
+msgstr "AUDIOOPTIONEN"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES"
 msgid "Accept Changes?"
-msgstr "Änderungen akzeptieren"
+msgstr "Änderungen akzeptieren?"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON"
@@ -11967,12 +11964,12 @@ msgstr "Anwenden"
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "Erledigt"
+msgstr "Fertig"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN"
 msgid "Fullscreen:"
-msgstr "Fullscreen:"
+msgstr "Vollbild:"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION"
@@ -11982,42 +11979,42 @@ msgstr "Auflösung:"
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON"
 msgid "Revert"
-msgstr "zurück"
+msgstr "Zurück"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE"
 msgid "GRAPHICS OPTIONS"
-msgstr "GRAPHICS OPTIONEN"
+msgstr "GRAFIKOPTIONEN"
 
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.DUPLICATE
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.DUPLICATE"
 msgid "{0} was already bound to {1} and is now unbound."
-msgstr "{0}  war schon belegt mit {1} und ist nun nicht mehr belegt."
+msgstr "{0} war schon belegt mit {1} und ist nun nicht mehr belegt."
 
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.MULTIPLE_UNBOUND_ACTIONS
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.MULTIPLE_UNBOUND_ACTIONS"
 msgid "You have multiple unbound actions, this may result in difficulty playing the game. Are you sure you want to continue?"
-msgstr "Du hast viele unbelegte Aktionen, dies könnte das spiel erschweren. bist du dir sicher, dass du fortfahren möchtest?"
+msgstr "Du hast viele unbelegte Aktionen, dies könnte das Spiel erschweren. Bist du sicher, dass du fortfahren möchtest?"
 
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION"
 msgid "{0} is unbound. Are you sure you want to continue?"
-msgstr "{0} ist nicht belegt. bist du dir sicher, dass du fortfahren willst?"
+msgstr "{0} ist nicht belegt. Bist du sicher, dass du fortfahren möchtest?"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
 msgid " <b><color=#ff0000>(Auto Save: This file will get deleted as new Auto Saves are created)</color></b>"
-msgstr " <b><color=#ff0000>(Auto Save: Dieser Speicherstand wird Gelöscht, wenn neue Auto Saves erstellt werden)</color></b>"
+msgstr " <b><color=#ff0000>(Autosave: Dieser Speicherstand wird gelöscht, wenn neue Autosaves erstellt werden)</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE"
 msgid "Are you sure you want to delete {0}?\nYou cannot undo this action."
-msgstr "Bist du dir sicher, dass du {0} Löschen willst?\ndu kannst es nicht mehr rückgängig machen"
+msgstr "Bist du dir sicher, dass du {0} löschen möchtest?\nDiese Aktion kann nicht rückgängig gemacht werden."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE"
 msgid "<b><color=#ff0000>Could not load file {0}. Its data may be corrupted.</color></b>"
-msgstr "<b><color=#ff0000>Konnte Datei {0} nicht Laden. Die Datei ist womöglich Beschädigt.</color></b>"
+msgstr "<b><color=#ff0000>Datei {0} konnte nicht geladen werden. Sie ist womöglich beschädigt.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON"
@@ -12027,28 +12024,27 @@ msgstr "Lösche Slot"
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW"
 msgid "<b><color=#ff0000>Could not load file {0}. File is using build {1}. This build is {2}.</color></b>"
-msgstr "<b><color=#ff0000>Konnte Datei {0} nicht Laden.  Datei benutzt Build {1}. Aktuell benutzter Build ist {2}.</color></b>"
+msgstr "<b><color=#ff0000>Datei {0} konnte nicht geladen werden. Datei benutzt Build {1}. Aktuell benutzter Build ist {2}.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS"
 msgid "<b>File:</b> {0}\n\n<b>Save Date:</b>\n{1}\n\n<b>Base Name:</b> {2}\n<b>Duplicants Alive:</b> {3}\n<b>Cycles Survived:</b> {4}"
-msgstr "<b>Datei:</b> {0}\n\n"
-"<b>Speicherdatum:</b>\n{1}\n\n<b>Name der Basis:</b> {2}\n<b>Duplikanten am Leben:</b> {3}\n<b>Zyklen Überlebt:</b> {4}"
+msgstr "<b>Datei:</b> {0}\n\n<b>Speicherdatum:</b>\n{1}\n\n<b>Name der Basis:</b> {2}\n<b>Lebende Duplikanten:</b> {3}\n<b>Überlebte Zyklen:</b> {4}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE"
 msgid "LOAD GAME"
-msgstr "LADE SPEICHERSTAND"
+msgstr "SPIEL LADEN"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE_INSPECT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE_INSPECT"
 msgid "LOAD GAME"
-msgstr "LADE SPEICHERSTAND"
+msgstr "SPIEL LADEN"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
 msgid "LOAD GAME"
-msgstr "LADE SPEICHERSTAND"
+msgstr "SPIEL LADEN"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.NEWGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.NEWGAME"
@@ -12063,7 +12059,7 @@ msgstr "OPTIONEN"
 #. STRINGS.UI.FRONTEND.MAINMENU.QUITCONFIRM
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.QUITCONFIRM"
 msgid "Are you sure you want to quit?\nAll unsaved progress will be lost."
-msgstr "Bist du dir sicher, dass du Beenden möchtest?\nAller nicht gespeicherte Fortschritt geht Verloren! "
+msgstr "Bist du dir sicher, dass du Beenden möchtest?\nNicht gespeicherter Fortschritt geht verloren."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.QUITTODESKTOP
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.QUITTODESKTOP"
@@ -12073,7 +12069,7 @@ msgstr "BEENDEN"
 #. STRINGS.UI.FRONTEND.MAINMENU.RESTARTCONFIRM
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESTARTCONFIRM"
 msgid "Are you sure you want to quit?\nAll unsaved progress will be lost."
-msgstr "Bist du dir sicher, dass du Beenden möchtest?\nAller nicht gespeicherte Fortschritt geht Verloren! "
+msgstr "Bist du dir sicher, dass du Beenden möchtest?\nNicht gespeicherter Fortschritt geht verloren."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME"
@@ -12168,7 +12164,7 @@ msgstr "OPTIONEN"
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNITS"
 msgid "Temperature Units"
-msgstr "Temperatur Einheiten"
+msgstr "Temperatureinheiten"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
@@ -12188,7 +12184,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
 msgid "IMPORTANT UPDATE NOTES"
-msgstr "WICHTIGE UPDATE NOTIZEN"
+msgstr "WICHTIGE UPDATENOTIZEN"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT"
@@ -12248,7 +12244,7 @@ msgstr "Neuer Speicherstand"
 #. STRINGS.UI.FRONTEND.SAVESCREEN.OVERWRITEMESSAGE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.OVERWRITEMESSAGE"
 msgid "Are you sure you want to overwrite {0}?"
-msgstr "Bist du dir sicher, dass du {0} Überschreiben willst?"
+msgstr "Bist du dir sicher, dass du {0} überschreiben willst?"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.SAVENAMETITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.SAVENAMETITLE"
@@ -12258,7 +12254,7 @@ msgstr "SPEICHERNAME"
 #. STRINGS.UI.FRONTEND.SAVESCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.TITLE"
 msgid "SAVE SLOTS"
-msgstr "SPEICHER SLOT"
+msgstr "SPEICHERSLOTS"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS"
@@ -12268,7 +12264,7 @@ msgstr "Celsius"
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
 msgid "Change temperature unit to Celsius (�C)"
-msgstr "Ändere Temperatureinheit  zu Celsius ( C)"
+msgstr "Ändere Temperatureinheit zu Celsius ( C)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
@@ -12278,7 +12274,7 @@ msgstr "Fahrenheit"
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
 msgid "Change temperature unit to Fahrenheit (�F)"
-msgstr "Ändere Temperatureinheit  zu Fahrenheit ( F)"
+msgstr "Ändere Temperatureinheit zu Fahrenheit ( F)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN"
@@ -12288,7 +12284,7 @@ msgstr "Kelvin"
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP"
 msgid "Change temperature unit to Kelvin (K)"
-msgstr "Ändere Temperatureinheit  zu Kelvin (K)"
+msgstr "Ändere Temperatureinheit zu Kelvin (K)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE"
@@ -12308,7 +12304,7 @@ msgstr "LADE WELT..."
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT"
 msgid "A new world is about to be created. Please select its size."
-msgstr "Eine neue Welt wird gerade erstellt. Bitte wähle die Größe."
+msgstr "Eine neue Welt wird gleich erstellt. Bitte wähle die Größe."
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE"
@@ -12373,7 +12369,7 @@ msgstr "Bist du sicher, dass du alle  Duplikanten abweisen willst?\n\nEs wird ni
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
 msgid "Reject Duplicants?"
-msgstr "Duplikanten abweißen?"
+msgstr "Duplikanten abweisen?"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.EMBARK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.EMBARK"
@@ -12383,7 +12379,7 @@ msgstr "LOS GEHT'S"
 #. STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE"
 msgid "Select a DNA Blueprint"
-msgstr "Wähle eine DNA Blaupause"
+msgstr "Wähle eine DNA-Blaupause"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON"
@@ -12393,7 +12389,7 @@ msgstr "Drucken"
 #. STRINGS.UI.IMMIGRANTSCREEN.REJECTALL
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.REJECTALL"
 msgid "Reject All"
-msgstr "alle Abweisen"
+msgstr "Alle Abweisen"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS"
@@ -12408,12 +12404,12 @@ msgstr "STELLE DEINE CREW ZUM START ZUSAMMEN"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE"
 msgid "SHUFFLE"
-msgstr "SHUFFLE"
+msgstr "ZUFALL"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Reshuffle this dupe for a different one"
-msgstr "Tausche diesen Narren einem anderen aus"
+msgstr "Generiere einen zufälligen anderen Duplikant"
 
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
@@ -12478,7 +12474,7 @@ msgstr "Unermesslich"
 #. STRINGS.UI.OVERLAYS.DECOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.BUTTON"
 msgid "Decor Overlay"
-msgstr "Dekorations Übersicht"
+msgstr "Dekorations-Overlay"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
@@ -12488,7 +12484,7 @@ msgstr "Unordnung"
 #. STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR"
 msgid "High Decor"
-msgstr "Hohe Dekorations werte"
+msgstr "Hohe Dekorationswerte"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LIGHTING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LIGHTING"
@@ -12498,12 +12494,12 @@ msgstr "Beleuchtung"
 #. STRINGS.UI.OVERLAYS.DECOR.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LOWDECOR"
 msgid "Low Decor"
-msgstr "Niedrige Dekorations werte"
+msgstr "Niedrige Dekorationswerte"
 
 #. STRINGS.UI.OVERLAYS.DECOR.NAME
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.NAME"
 msgid "DECOR OVERLAY"
-msgstr "DEKORATIONS ÜBERSICHT"
+msgstr "DEKORATIONS-OVERLAY"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR"
@@ -12523,7 +12519,7 @@ msgstr "Gesamt"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON"
 msgid "Power Grid Overlay"
-msgstr "Stromversorgungs Übersicht"
+msgstr "Stromnetz-Overlay"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1"
@@ -12563,7 +12559,7 @@ msgstr "Verschmort"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"
 msgid "POWER GRID OVERLAY"
-msgstr "STROMNETZ ÜBERSICHT"
+msgstr "STROMNETZ-OVERLAY"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
@@ -13688,7 +13684,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES"
 msgid "The following attributes affect a Duplicant's efficiency at this job:"
-msgstr "Folgende Attribute haben Auswirkungen auf die Effizienz mit dem ein Duplikant diese Arbeit erledigen kann: "
+msgstr "Folgende Attribute beeinflussen die Effizienz, mit der Duplikanten diese Arbeit erledigen:"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK"
@@ -13833,7 +13829,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.RED_ALERT
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT"
 msgid "Toggle Red Alert\nDuplicants will enter a state of emergency and ignore their basic needs to work"
-msgstr "Schaltet Alarmstufe Rot an/aus\nDuplikanten werden in einen Notfall modus Arbeiten und ihre Grundbedürfnisse Ignorieren"
+msgstr "Schaltet Alarmstufe Rot an/aus\nDuplikanten werden in einem Notfallmodus arbeiten und ihre Grundbedürfnisse ignorieren"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF"
@@ -13843,7 +13839,7 @@ msgstr "Alarmstufe Rot deaktivieren"
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON"
 msgid "Enable Red Alert"
-msgstr "Alarmstufe Rot Aktivieren"
+msgstr "Alarmstufe Rot aktivieren"
 
 #. STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING"
@@ -13898,7 +13894,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION
 msgctxt "STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION"
 msgid "Accommodate your Duplicant's needs to manage their <style=\"stress\">Stress</style>.\n\nLow <style=\"stress\">Stress</style> can provide a productivity boost, while high <style=\"stress\">Stress</style> can impair production or even lead to a nervous breakdown."
-msgstr "Komm dienen Duplikanten entgegen und hilf ihnen, ihren <style=\"stress\">Stress</style> zu managen.\n\nNiedriger <style=\"stress\">Stress</style> sorgt für einen Produktivität boost, hoher <style=\"stress\">Stress</style>schränkt die Produktion ein und kann zum Nervenzusammenbruch führen."
+msgstr "Komm deinen Duplikanten entgegen und hilf ihnen, ihren <style=\"stress\">Stress</style> zu managen.\n\nNiedriger <style=\"stress\">Stress</style> sorgt für einen Produktivitätsschub, hoher <style=\"stress\">Stress</style> schränkt die Produktion ein und kann zum Nervenzusammenbruch führen."
 
 #. STRINGS.UI.TOOLTIPS.STRESSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.STRESSPANEL"
@@ -14067,8 +14063,7 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.LIQUID
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.LIQUID"
-msgid "Liquid Output:\n"
-"All"
+msgid "Liquid Output:\nAll"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.CURRENT_THRESHOLD
@@ -14434,7 +14429,7 @@ msgstr "Angriff abbrechen"
 #. STRINGS.UI.USERMENUACTIONS.CANCELATTACK.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELATTACK.TOOLTIP"
 msgid "Cancel this attack order"
-msgstr "Angriff abbrechen"
+msgstr "Angriffsbefehl abbrechen"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELCLEANTOILET.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELCLEANTOILET.NAME"
@@ -14539,7 +14534,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP"
 msgid "Demolish this building\n------------------\nRefunds all resources"
-msgstr "reist Gebäude ab\n------------------\ngibt alle Ressourcen zurück"
+msgstr "Reißt Gebäude ab\n------------------\nErstattet alle Ressourcen"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF"
@@ -14564,7 +14559,7 @@ msgstr "Graben abbrechen"
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME"
 msgid "Show Navigation"
-msgstr "Wegfindung Anzeigen"
+msgstr "Wegfindung anzeigen"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF"
@@ -14574,12 +14569,12 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP"
 msgid "Show all areas within this Duplicant's reach"
-msgstr "Zeigt alle gebiete in der Reichweite der Duplikanten"
+msgstr "Zeigt alle Gebiete in der Reichweite dieses Duplikanten"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP_OFF"
 msgid "Hide areas within this Duplicant's reach"
-msgstr "Versteckt alle Gebiete die von Duplikanten erreicht werden können"
+msgstr "Versteckt alle Gebiete in der Reichweite dieses Duplikanten"
 
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME"
@@ -14649,7 +14644,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP"
 msgid "Manually control this Duplicant\nControlled Duplicants cannot perform tasks unless ordered"
-msgstr "Steuert Duplikant\nKontrollierte Duplikanten führen keine Aufgaben aus die nicht befohlen wurden"
+msgstr "Duplikant manuell kontrollieren\nKontrollierte Duplikanten führen nur befohlene Aufgaben aus"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP_OFF"
@@ -14664,7 +14659,7 @@ msgstr "Gehe zu"
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP"
 msgid "Tell this Duplicant to move to a specific spot"
-msgstr "Weist diesen Duplikanten an, zu einem bestimmten punkt zu gehen"
+msgstr "Weist diesen Duplikanten an, an einen bestimmten Ort zu gehen"
 
 #. STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.NAME"
@@ -14674,7 +14669,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.TOOLTIP"
 msgid "Force this Duplicant to perform a specific task"
-msgstr "Befielt dem Duplikant eine bestimmt Aufgabe zu erledigen"
+msgstr "Befiehlt dem Duplikant, eine bestimmte Aufgabe zu erledigen"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME"
@@ -14729,7 +14724,7 @@ msgstr "Verschiebe das Objekt an einen neuen Platz\n------------------\nKostet k
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP_OFF"
 msgid "Cancel this relocation order"
-msgstr "Umsetzen abbrechen"
+msgstr "Verschieben abbrechen"
 
 #. STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME"
@@ -14819,7 +14814,7 @@ msgstr "STARTEN"
 #. STRINGS.UI.WELCOMEMESSAGEBODY
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
 msgid "Your crew has awoken miles beneath the surface of an unfamiliar terrestrial body. Oddly, they have no recollection of how they got here.\n\nIt might be best to start digging."
-msgstr "Deine Crew ist Kilometertief unter der Oberfläche eines terrestrischen Körpers aufgewacht. Seltsamerweise erinnert sich niemand, wie sie hierher gekommen sind.\n\nEs wird wahrscheinlich das beste sein, mit Graben anzufangen."
+msgstr "Deine Crew ist kilometertief unter der Oberfläche eines terrestrischen Körpers aufgewacht. Seltsamerweise erinnert sich niemand, wie sie hierher gekommen sind.\n\nEs wird wahrscheinlich das Beste sein, mit dem Graben anzufangen."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
@@ -14829,7 +14824,7 @@ msgstr "! ACHTUNG !"
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLD"
 msgid "Shuffling DNA Blueprints..."
-msgstr "DNA Baupläne durchmischen..."
+msgstr "DNA-Baupläne durchmischen..."
 
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE"
@@ -15246,12 +15241,12 @@ msgstr "Ideales Sauerstofflevel erreicht..."
 #. STRINGS.UI.WORLDGEN.SETTLESIM6
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM6"
 msgid "Planting space flora..."
-msgstr "Weltraumpflanzen sähen..."
+msgstr "Weltraumpflanzen säen..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM7
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM7"
 msgid "Planting space flora..."
-msgstr "Weltraumpflanzen sähen..."
+msgstr "Weltraumpflanzen säen..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM8
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM8"
