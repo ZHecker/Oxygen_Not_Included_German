@@ -13346,7 +13346,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON"
 msgid "Gas Plumbing Overlay"
-msgstr ""
+msgstr "Gas-Overlay"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED"
@@ -13381,7 +13381,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NAME"
 msgid "GAS PLUMBING OVERLAY"
-msgstr ""
+msgstr "GAS-OVERLAY"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK"
@@ -13426,7 +13426,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.HEATFLOW.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.BUTTON"
 msgid "Thermal Comfort Overlay"
-msgstr ""
+msgstr "Temperaturkomfort-Overlay"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.COOLING
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.COOLING"
@@ -13441,37 +13441,37 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.HEATFLOW.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.HOVERTITLE"
 msgid "THERMAL COMFORT"
-msgstr ""
+msgstr "TEMPERATURKOMFORT"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.NAME
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.NAME"
 msgid "THERMAL COMFORT OVERLAY"
-msgstr ""
+msgstr "TEMPERATURKOMFORT-OVERLAY"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.NEUTRAL
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.NEUTRAL"
 msgid "Comfort Zone"
-msgstr ""
+msgstr "Komfortzone"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.COOLING
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.COOLING"
 msgid "Uncomfortable Area\n------------------\nDuplicants shed more heat than they can absorb from this environment, making them too cold"
-msgstr ""
+msgstr "Ungemütlicher Bereich\n\n------------------\nDuplikanten geben hier mehr Energie ab als sie aufnehmen können, wodurch sie unterkühlen"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.HEATING
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.HEATING"
 msgid "Uncomfortable Area\n------------------\nDuplicants absorb more heat from this environment than they can shed, making them too hot"
-msgstr ""
+msgstr "Ungemütlicher Bereich\n------------------\nDuplikanten absorbieren hier mehr Energie als sie abgeben können, wodurch sie überhitzen"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.NEUTRAL
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.NEUTRAL"
 msgid "Comfortable Area\n------------------\nDuplicants can regulate their internal temperatures in this environment"
-msgstr ""
+msgstr "Angenehmer Bereich\n------------------\nIn dieser Umgebung können Duplikanten ihre interne Temperatur regulieren"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.BUTTON"
 msgid "Light Overlay"
-msgstr ""
+msgstr "Licht-Overlay"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.DARK"
@@ -13486,7 +13486,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.LIGHTING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.NAME"
 msgid "LIGHT OVERLAY"
-msgstr ""
+msgstr "LICHT-OVERLAY"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK"
@@ -13501,12 +13501,12 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.NAME"
 msgid "LIGHT OVERLAY"
-msgstr ""
+msgstr "LICHT-OVERLAY"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON"
 msgid "Liquid Plumbing Overlay"
-msgstr ""
+msgstr "Flüssigkeits-Overlay"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED"
@@ -13541,7 +13541,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NAME"
 msgid "LIQUID PLUMBING OVERLAY"
-msgstr ""
+msgstr "FLÜSSIGKEITS-OVERLAY"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NETWORK"
@@ -13656,7 +13656,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON"
 msgid "Priority Overlay"
-msgstr ""
+msgstr "Prioritäts-Overlay"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT"
@@ -13816,7 +13816,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON"
 msgid "Temperature Overlay"
-msgstr ""
+msgstr "Temperatur-Overlay"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.COLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.COLD"
@@ -13961,7 +13961,7 @@ msgstr "BERICHTE"
 #. STRINGS.UI.RESEARCH
 msgctxt "STRINGS.UI.RESEARCH"
 msgid "RESEARCH"
-msgstr "FORSCHUNG"
+msgstr "FORSCHG."
 
 #. STRINGS.UI.RESEARCHPOINTS
 msgctxt "STRINGS.UI.RESEARCHPOINTS"
@@ -14101,7 +14101,7 @@ msgstr "ZIEHEN ZUM ERNTEN"
 #. STRINGS.UI.TOOLS.ATTACK.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLNAME"
 msgid "Harvest tool"
-msgstr ""
+msgstr "Ernte-Tool"
 
 #. STRINGS.UI.TOOLS.BUILD.NAME
 msgctxt "STRINGS.UI.TOOLS.BUILD.NAME"
@@ -14136,7 +14136,7 @@ msgstr "ZIEHE ZUM ABBRECHEN"
 #. STRINGS.UI.TOOLS.CANCEL.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLNAME"
 msgid "Cancel tool"
-msgstr "Abbrechen-Tool"
+msgstr "Abbruch-Tool"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME"
@@ -14161,7 +14161,7 @@ msgstr "ZIEHEN ZUM ABREISSEN"
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME"
 msgid "Deconstruct tool"
-msgstr ""
+msgstr "Abriss-Tool"
 
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
@@ -14171,7 +14171,7 @@ msgstr "Graben"
 #. STRINGS.UI.TOOLS.DIG.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLACTION"
 msgid "DRAG TO DIG"
-msgstr ""
+msgstr "ZIEHEN ZUM GRABEN"
 
 #. STRINGS.UI.TOOLS.DIG.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLNAME"
