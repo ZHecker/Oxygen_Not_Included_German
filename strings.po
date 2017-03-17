@@ -888,17 +888,17 @@ msgstr "Neue Duplikanten sind verfügbar"
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "The Printing Pod <color=#F44A47>[H]</color> is ready to print a new Duplicant.\nPlease select a DNA blueprint:"
-msgstr "Der Biodrucker <color=#F44A47>[H]</color> ist bereit ein neuen Duplikanten zu drucken.\nbitte wähle eine DNA Blaupause aus:"
+msgstr "Der Biodrucker <color=#F44A47>[H]</color> ist bereit ein neuen Duplikanten zu drucken.\nBitte wähle eine DNA-Blaupause aus:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
 msgid "A new colony member is ready to be printed"
-msgstr "Ein neues Kolonie Mitglied ist bereit gedruckt zu werden"
+msgstr "Ein neues Kolonie-Mitglied ist bereit gedruckt zu werden"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME"
 msgid "Inapplicable Research"
-msgstr "nicht anwendbare Forschung"
+msgstr "Nicht anwendbare Forschung"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_NAME"
@@ -908,12 +908,12 @@ msgstr "<style=\"research\">Forschungszentrum</style> ist untätig"
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid "These buildings cannot produce the correct <style=\"research\">Research Type</style> for the selected <style=\"research\">Research Task</style>:"
-msgstr "Diese Konstruktion kann nicht die richtigen <style=\"research\">forschungs Punkte</style> Für die ausgewählte <style=\"research\">Forschung</style> herstellen:"
+msgstr "Diese Konstruktion kann nicht den richtigen <style=\"research\">Forschungstyp</style> für die ausgewählte <style=\"research\">Forschung</style> herstellen:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP"
 msgid "This building cannot produce the correct <style=\"research\">Research Type</style> for the selected <style=\"research\">Research Task</style>"
-msgstr "Diese Konstruktion kann nicht den richtigen <style=\"research\">forschungs Punkte</style> Für die ausgewählte <style=\"research\">Forschung</style> herstellen"
+msgstr "Diese Konstruktion kann nicht den richtigen <style=\"research\">Forschungstyp</style> für die ausgewählte <style=\"research\">Forschung</style> herstellen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME"
@@ -968,7 +968,7 @@ msgstr "Die Pumpe muss in <style=\"liquid\">Flüssigkeit</style> sein um zu arbe
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME"
 msgid "No Power Consumers"
-msgstr "Keine strom Verbraucher"
+msgstr "Keine Stromverbraucher"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.TOOLTIP"
@@ -983,7 +983,7 @@ msgstr "Keine Energie"
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERSOURCE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERSOURCE.TOOLTIP"
 msgid "This building must be connected to a <style=\"power\">Power</style> source"
-msgstr "Diese Konstruktion muss an eine <style=\"power\">Energie</style> Quelle angeschlossen sein"
+msgstr "Diese Konstruktion muss an eine <style=\"power\">Energie</style>-Quelle angeschlossen sein"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME"
@@ -1013,7 +1013,7 @@ msgstr "Normal"
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORMAL.TOOLTIP"
 msgid "Nothing out of the ordinary here"
-msgstr "Nichts Auergewöhnliches hier"
+msgstr "Nichts außergewöhnliches hier"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME"
@@ -3341,7 +3341,8 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP"
 msgid "Insufficient <style=\"oxygen\">Oxygen</style>"
-msgstr "zu wenig <style=\"oxygen\">Sauerstoff</style>"
+msgstr "Zu wenig <style=\"oxygen\">Sauerstoff</style>"
+
 #. STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME"
 msgid "Beached"
@@ -3585,7 +3586,8 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.SCALDING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SCALDING.TOOLTIP"
 msgid "Current external temperature is perilously high ({ExternalTemperature} / {TargetTemperature})"
-msgstr ""
+msgstr "Aktuelle Außentemperatur ist gefährlich hoch ({ExternalTemperature} / {TargetTemperature})"
+
 #. STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME"
 msgid "Sleeping"
@@ -3599,7 +3601,7 @@ msgstr "Diese Kreatur regeneriert ihre Ausdauer"
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME"
 msgid "Rotten"
-msgstr ""
+msgstr "Verrottet"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP"
@@ -3615,15 +3617,17 @@ msgstr "Abgestanden {RotPercentage}"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP"
 msgid "This <style=\"food\">Food</style> is approaching its expiry date"
 msgstr "Diese <style=\"food\">Nahrung</style> nähert sich ihrem Verfallsdatum "
+
 #. STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME"
 msgid "Sterile Atmosphere"
-msgstr ""
+msgstr "Sterile Atmosphäre"
 
 #. STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.TOOLTIP"
 msgid "Ambient conditions are preventing this <style=\"food\">Food</style>'s from decaying"
 msgstr ""
+
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME"
 msgid "Struggling"
@@ -3637,7 +3641,7 @@ msgstr "Diese Kreatur versucht, wegzukommen"
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME"
 msgid "Suffocating"
-msgstr "Erstickt "
+msgstr "Erstickt"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP"
@@ -3647,30 +3651,32 @@ msgstr "Kann nicht atmen"
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.NAME"
 msgid "Fatigued"
-msgstr ""
+msgstr "Erschöpft"
 
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP"
 msgid "This creature needs to rest"
 msgstr "Diese Kreatur muss sich ausruhen"
+
 #. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME"
 msgid "Unrefrigerated"
-msgstr ""
+msgstr "Ungekühlt"
 
 #. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP"
 msgid "Temperatures above <style=\"heat\">{RotTemperature}</style> will spoil food more quickly"
-msgstr ""
+msgstr "Nahrung verdirbt schneller bei Temperaturen über <style=\"heat\">{RotTemperature}</style>"
+
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
 msgid "Stifled"
-msgstr ""
+msgstr "Gehemmt"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
 msgid "Current conditions prevent this <style=\"plant\">Plant</style> from growing further"
-msgstr "Aktuelle Bedingungen verhindern, dass diese <style = \"plant\"> Pflanze </ style> weiter wächst"
+msgstr "Aktuelle Bedingungen verhindern, dass diese <style=\"plant\">Pflanze</ style> weiter wächst"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC"
@@ -3690,7 +3696,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC"
 msgid "Creativity affects the speed and quality of a Duplicant's artistic creations."
-msgstr "Kreativität beeinflusst die Geschwindigkeit und Qualität der Kunstwerke die der Duplikant kreiert. "
+msgstr "Kreativität beeinflusst die Geschwindigkeit und Qualität der Kunstwerke die der Duplikant kreiert."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME"
@@ -3710,7 +3716,7 @@ msgstr "$value% Dekorationsgeschwindigkeit"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC"
 msgid "The Athletics attribute determines a Duplicant's movement speed."
-msgstr "Athletik  beeinflusst die Bewegungsgeschwindigkeit eines Duplikanten."
+msgstr "Athletik beeinflusst die Bewegungsgeschwindigkeit eines Duplikanten."
 
 # Geht um die Attribute macht klarer was es bewirkt ohne Tooltipp
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME
@@ -3736,7 +3742,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME"
 msgid "Bladder Change"
-msgstr "Blasen Entleerung:"
+msgstr "Blasenentleerung:"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC"
@@ -3746,7 +3752,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME"
 msgid "Calories Burn Rate"
-msgstr "Kalorien verbennungsrate:"
+msgstr "Kalorienverbrennungsrate:"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
@@ -5405,11 +5411,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.NAME"
 msgid "Unrefrigerated"
-msgstr ""
+msgstr "Ungekühlt"
+
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME"
 msgid "Rotting"
-msgstr ""
+msgstr "Verrottet"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME"
@@ -6087,12 +6094,12 @@ msgstr "Dekoration\n----------\nEin Duplikant wird <style=\"stress\">Gestresst</
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
 msgid "External Temperature"
-msgstr ""
+msgstr "Außentemperatur"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP"
 msgid "External Temperature\n----------\nThis Duplicant's immediate environment is {0}"
-msgstr "Außentemperatur\n----------\nDie unmittelbare Umgebung dieses Duplikats hat {0}"
+msgstr "Außentemperatur\n----------\nDie unmittelbare Umgebung dieses Duplikants hat {0}"
 
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME"
@@ -6122,7 +6129,7 @@ msgstr "Ausdauer"
 #. STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP"
 msgid "Stamina\n----------\nA Duplicant will pass out from fatigue at 0%"
-msgstr "Ausdauer\n----------\nEin Duplikant wird bei 0% Ausdauer Ohnmächtig"
+msgstr "Ausdauer\n----------\nEin Duplikant wird bei 0% Ausdauer ohnmächtig"
 
 #. STRINGS.DUPLICANTS.STATS.STRESS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.NAME"
@@ -6137,12 +6144,12 @@ msgstr "Stress\n----------\nEin Duplikant wird einen Nervenzusammenbruch haben b
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME"
 msgid "Body Temperature"
-msgstr ""
+msgstr "Körpertemperatur"
 
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP"
 msgid "Body Temperature\n----------\nA healthy Duplicant's body temperature is {1}"
-msgstr "Körpertemperatur\n----------\neine Gesunde Körpertemperatur für eine Duplikanten ist {1}"
+msgstr "Körpertemperatur\n----------\nEine gesunde Körpertemperatur für einen Duplikanten ist {1}"
 
 #. STRINGS.DUPLICANTS.STATS.TOXICITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TOXICITY.NAME"
@@ -9578,7 +9585,7 @@ msgstr "Deine Kolonie wird aussterben wenn sie keine regelmäßige <style=\"food
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME"
 msgid "Insufficient oxygen generation"
-msgstr ""
+msgstr "Unzureichende Sauerstoffproduktion"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP"
@@ -9603,7 +9610,7 @@ msgstr "Kolonie benötigt Toiletten"
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP"
 msgid "Your Duplicants have nowhere to relieve themselves"
-msgstr "Deine Duplikanten haben keinen platz um sich zu erleichtern"
+msgstr "Deine Duplikanten haben keinen Platz um sich zu erleichtern"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME"
@@ -9633,7 +9640,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP"
 msgid "You have no defined storage regions.\nUse the <color=#833A5FFF>CREATE STORAGE TOOL</color> [Y] to create storage for these items:\n{0}"
-msgstr "Du hast keinen Definierten Lagerraum.\nBenutze das <color=#833A5FFF>ERSTELLE LAGER TOOL</color> [Y] um ein Lager für diese Items zu erstellen:\n{0}"
+msgstr "Du hast keinen definierten Lagerraum.\nBenutze das <color=#833A5FFF>ERSTELLE LAGER TOOL</color> [Y] um ein Lager für diese Items zu erstellen:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME"
@@ -9648,7 +9655,7 @@ msgstr "Ein blockiertes Rohr hält dieses System von der Funktion ab"
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
 msgid "Duplicants will choose what work they do based on the priorities you set. To set priorities, use the priority buttons under the tool menu. Many buildings also let you change their priority on selection."
-msgstr "Duplikanten werden die zu erledigenden Aufgaben je nach gesetzter Priorität abarbeiten. Du kannst Prioritäten mit der  Prioritätsschaltfläche unten im Werkzeugmenü festlegen. Bei viele Objekten lassen sich die Prioritäten im Info-Fenster ändern."
+msgstr "Duplikanten werden die zu erledigenden Aufgaben je nach gesetzter Priorität abarbeiten. Du kannst Prioritäten mit der Prioritätsschaltfläche unten im Werkzeugmenü festlegen. Bei viele Objekten lassen sich die Prioritäten im Info-Fenster ändern."
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
@@ -9658,7 +9665,7 @@ msgstr "TIPP: Prioritäten"
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
 msgid "Understanding your Duplicants' priorities"
-msgstr "Erklärung des Prioritäten-systems deiner Duplikanten "
+msgstr "Erklärung des Prioritätensystems deiner Duplikanten "
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
@@ -9723,7 +9730,7 @@ msgstr "TIPP: Lagergebiete"
 #. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.TOOLTIP"
 msgid "Learn how to improve efficiency through organization"
-msgstr "Lerne, wie du die Effizienz durch die Organisation verbessern kannst"
+msgstr "Lerne, wie du die Effizienz durch Organisation verbessern kannst"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY"
@@ -9733,7 +9740,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME"
 msgid "TIP: Stress Management"
-msgstr "TIP: Stress Management"
+msgstr "TIP: Stressmanagement"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP"
@@ -9778,7 +9785,7 @@ msgstr "Lerne, wie du die Aufgaben deiner Duplikanten verwalten kannst"
 #. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME"
 msgid "Materials are out of reach"
-msgstr ""
+msgstr "Materialien außer Reichweite"
 
 #. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.TOOLTIP"
@@ -11681,7 +11688,7 @@ msgstr "<b>Willkommen zu Oxygen Not Included!</b>"
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY"
 msgid "Stay up to date by joining our mailing list, or head on over to the forums and join the discussion."
-msgstr "Bleib Up to Date! Tritt unserer E-Mail liste bei, oder schau im Forum vorbei und nimm an Diskussionen teil."
+msgstr "Halte dich auf dem Laufenden! Tritt unserer Mailingliste bei, oder schau im Forum vorbei und diskutiere mit."
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON"
@@ -11696,7 +11703,7 @@ msgstr "DEVELOPMENT BUILD"
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST"
 msgid "MAILING LIST"
-msgstr "E-MAIL LISTE"
+msgstr "MAILINGLISTE"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.BUILDWATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.BUILDWATERMARK"
@@ -11761,12 +11768,12 @@ msgstr "Kalorienerzeugung:"
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr "Ihre Kolonie verbrauchte {0} <style=\"food\">Nahrung</style> im Laufe des Tages"
+msgstr "Deine Kolonie hat {0} <style=\"food\">Nahrung</style> im Laufe des Tages verbraucht"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony produced {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr "Ihre Kolonie produzierte {0} <style=\"food\">Nahrung</style> im Laufe des Tages"
+msgstr "Deine Kolonie hat {0} <style=\"food\">Nahrung</style> im Laufe des Tages proouziert"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE"
@@ -11806,12 +11813,12 @@ msgstr "<style=\"power\">Stromverbrauch</style>verbrauch:"
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr "Ihre Kolonie verbrauchte {0} <style=\"power\">Strom</style> im Laufe des Tages"
+msgstr "Deine Kolonie hat {0} <style=\"power\">Strom</style> im Laufe des Tages verbraucht"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr "Ihre Kolonie produzierte {0} <style=\"power\">Strom</style> im Laufe des Tages"
+msgstr "Deine Kolonie hat {0} <style=\"power\">Strom</style> im Laufe des Tages erzeugt"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
@@ -11821,7 +11828,7 @@ msgstr "<style=\"power\">Strom</style> verschwendet:"
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> today that was not used or stored in a battery"
-msgstr "Deine Kolonie Produzierte heute {0} <style=\"power\">Strom</style> , der nicht verwendet oder in einer Batterie gespeichert wurde"
+msgstr "Deine Kolonie hat heute {0} <style=\"power\">Strom</style> erzeugt, der nicht verwendet oder in einer Batterie gespeichert wurde"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
@@ -11841,7 +11848,7 @@ msgstr "Fähigkeiten erhöht:"
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
 msgid "Your Duplicants gained a total of {0} skill levels today"
-msgstr ""
+msgstr "Deine Duplikanten haben heute {0} Fähigkeitsstufen erlangt"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
@@ -11956,7 +11963,7 @@ msgstr "{0}s"
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "Erledigt"
+msgstr "Fertig"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
@@ -12096,7 +12103,7 @@ msgstr "WEITERSPIELEN"
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "Erledigt"
+msgstr "Fertig"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON"
@@ -12111,7 +12118,7 @@ msgstr "METRIKOPTIONEN"
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP"
 msgid "Collect metrics to help us improve the game"
-msgstr "Sammle Metrik um uns bei der Verbesserung des Siels zu helfen"
+msgstr "Sammle Metriken, um uns bei der Verbesserung des Spiels zu helfen"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY"
@@ -12131,12 +12138,12 @@ msgstr "Beenden"
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.SIMFAILEDTOLOAD
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.SIMFAILEDTOLOAD"
 msgid "A problem occurred loading Oxygen Not Included. This is usually caused by the Visual Studio C++ 2015 runtime being improperly installed on the system. Please exit the game, run Windows Update and try re-launching Oxygen Not Included."
-msgstr "Ein Problem ist beim laden von Oxygen Not Included aufgetreten. Dies wird normal von einer nicht korrekten Installation von Visual Studio C++ 2015 runtime verursacht. Bitte schließe das Spiel und führe dem Windows Updater aus und versuche es neu zu starten."
+msgstr "Ein Problem ist beim Laden von Oxygen Not Included aufgetreten. Dies wird normal von einer nicht korrekten Installation der Visual Studio C++ 2015 Runtime verursacht. Bitte schließe das Spiel, führe Windows Update aus und versuche dann, es neu zu starten."
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.TITLE"
 msgid "WARNING!"
-msgstr "WARNUNG"
+msgstr "WARNUNG!"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO"
@@ -12376,7 +12383,7 @@ msgstr "Abrechen"
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
 msgid "Are you sure you want to reject all Duplicants?\n\nIt won't hurt their feelings, but it'll be awhile before the Printing Pod can print again."
-msgstr "Bist du sicher, dass du alle  Duplikanten abweisen willst?\n\nEs wird nicht ihre Gefühle verletzen, aber der Biodrucker braucht etwas bevor er wieder drucken kann."
+msgstr "Bist du sicher, dass du alle Duplikanten abweisen willst?\n\nEs wird nicht ihre Gefühle verletzen, aber der Biodrucker braucht etwas bevor er wieder drucken kann."
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
