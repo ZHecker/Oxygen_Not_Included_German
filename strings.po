@@ -5228,7 +5228,7 @@ msgstr "Schmutzige Hände"
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP"
 msgid "This Duplicant needs to <style=\"hygiene\">Wash</style> their hands"
-msgstr "Dieser Duplikant muss sich seine Hände <style =\"hygiene\">waschen</ style>"
+msgstr "Dieser Duplikant muss sich seine Hände <style=\"hygiene\">waschen</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME"
@@ -5599,7 +5599,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME"
 msgid "Grimy"
-msgstr "Schmutzig"
+msgstr "Dreckig"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP"
@@ -7519,7 +7519,7 @@ msgstr "Wäscht die Hände"
 #. STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning</style> their hands"
-msgstr "Dieser Duplikant <style=\"hygiene\">Reinigt</style> seine Hände"
+msgstr "Dieser Duplikant <style=\"hygiene\">wäscht</style> seine Hände"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.ANGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.ANGRY.TOOLTIP"
