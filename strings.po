@@ -6131,7 +6131,7 @@ msgstr "Dekoration"
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
 msgid "Decor\n----------\nA Duplicant will become stressed in areas where decor doesn't meet their expectations"
-msgstr "Dekoratio\n----------\nEin Duplikant wird <style=\"stress\">gestresst</style> in Räumen die nicht ihren Erwartungen enstprechen"
+msgstr "Dekoration\n----------\nEin Duplikant wird <style=\"stress\">gestresst</style> in Räumen die nicht ihren Erwartungen enstprechen"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
@@ -6626,12 +6626,12 @@ msgstr "Dieser Duplikant würde eine Toilette wirklich schätzen"
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME"
 msgid "Generating power"
-msgstr ""
+msgstr "Erzeugt Energie"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP"
 msgid "This Duplicant is using the {Target} to produce electrical <style=\"power\">Power</style>"
-msgstr "Dieser Duplikant benutzt das {Target}, um elektrische<style=\"power\">Energie</style> zu erzeugen"
+msgstr "Dieser Duplikant benutzt {Target}, um elektrische <style=\"power\">Energie</style> zu erzeugen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME"
