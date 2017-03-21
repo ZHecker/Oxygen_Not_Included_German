@@ -10,7 +10,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.12\n"
 "Last-Translator: Xandras\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: de_DE\n
+"Language: de_DE\n"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME"
@@ -2740,7 +2740,7 @@ msgstr "Einschalten"
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.DESC"
-msgid "Make this colony is a meltdown-free zone!"
+msgid "Make this colony a meltdown-free zone!"
 msgstr "Verwandele die Kolonie in eine schmelzfreie Zone!"
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.EFFECT
@@ -2870,12 +2870,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC"
-msgid "A fleshy, <style=\"heat\">Cold</style>-dwelling plant.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous skin."
+msgid "A fleshy, <style=\"heat\">Cold</style>-dwelling plant.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous outer membrane."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC"
-msgid "A fleshy plant that thrives in <style=\"heat\">Cold</style> environments.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous skin."
+msgid "A fleshy plant that thrives in <style=\"heat\">Cold</style> environments.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous outer membrane."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.NAME
@@ -3245,7 +3245,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.STATS.ROT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.ROT.TOOLTIP"
-msgid "Freshness\n----------\n<style=\"food\">Food</style> items will become stale at fifty percent freshness, and will rot zero percent"
+msgid "Freshness\n----------\n<style=\"food\">Food</style> items will become stale at fifty percent freshness, and will rot at zero percent"
 msgstr ""
 
 #. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME
@@ -3701,7 +3701,7 @@ msgstr "Nahrung verdirbt schneller bei Temperaturen über <style=\"heat\">{RotTe
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
 msgid "Stifled"
-msgstr "Gehemmt"
+msgstr "Erstickt"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
@@ -4785,8 +4785,8 @@ msgstr "Forschung"
 
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS"
-msgid "Geht forschen"
-msgstr ""
+msgid "Going to research"
+msgstr "Geht forschen"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME"
@@ -5435,7 +5435,7 @@ msgstr "Dieser Duplikant ist <style=\"stress\">Gestresst</style> durch Alarmstuf
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME"
-msgid "Restful Sleep"
+msgid "Sleeping Peacefully"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP
@@ -8120,12 +8120,12 @@ msgstr "Erde"
 
 #. STRINGS.ELEMENTS.DIRTYICE.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.DESC"
-msgid "Toxic water frozen into a <style=\"solid\">Solid</style> state."
+msgid "<style=\"disease\">Disease</style> infested water frozen into a <style=\"solid\">Solid</style> state."
 msgstr "Toxisches Wasser in <style =\"solid\"> Fester</style> Form."
 
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
-msgid "Contaminated Ice"
+msgid "Polluted Ice"
 msgstr "Verschmutztes Eis"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
@@ -8135,7 +8135,7 @@ msgstr "Mit <style=\"disease\">Krankheitserreger</style> Infiziertes <style=\"li
 
 #. STRINGS.ELEMENTS.DIRTYWATER.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
-msgid "Contaminated Water"
+msgid "Polluted Water"
 msgstr "Verschmutztes Wasser"
 
 #. STRINGS.ELEMENTS.ELECTRUM.DESC
@@ -8900,7 +8900,7 @@ msgstr "Wasser"
 
 #. STRINGS.ELEMENTS.WOLFRAMITE.DESC
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.DESC"
-msgid "(H20) Clean <style=\"liquid\">Water</style>, suitable for consumption."
+msgid "((Fe,Mn)WO4) A dense <style=\"RawMetal\">Metallic</style> element in a <style=\"solid\">Solid</style> state.\n\nWolframite is a source of <style=\"metal\">Tungsten</style> and is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
 
 #. STRINGS.ELEMENTS.WOLFRAMITE.NAME
@@ -9135,7 +9135,7 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC"
-msgid "A seedless fruit with an upsettingly bland aftertaste."
+msgid "A seedless fruit with an upsettingly bland aftertaste.\n\nIt cannot be replanted."
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME
@@ -9361,7 +9361,7 @@ msgstr "Diese Ressourcen sind jetzt verfügbar:"
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
 msgid "- Use the <color=#F44A47>WASD</color> keys to pan your camera and the <color=#F44A47>MOUSE WHEEL</color> to zoom in or out. <color=#F44A47>[H]</color> will return your screen to the Printing Pod.\n\n- Your simulation can be sped up or slowed down by using the speed buttons in the top left, or by pressing <color=#F44A47>[TAB]</color>.\n\n- <color=#F44A47>[SPACE]</color> will pause or resume your game."
-msgstr "- Benutze die<color=#F44A47>WASD</color> Tasten um deine Kamera zu schwenken und das <color=#F44A47>MAUSRAD</color> zum rein und rauszoomen. <color=#F44A47>[H]</color> Bewegt die Kamera zurück zum Biodrucker.\n\n- Das Spiel kann mit <color=#F44A47>[TAB]</color> beschleunigt oder verlangsamt werden.\n\n-die <color=#F44A47>[LEERTASTE]</color> pausiert das spiel."
+msgstr "- Benutze die <color=#F44A47>WASD</color> Tasten um deine Kamera zu schwenken und das <color=#F44A47>MAUSRAD</color> zum rein und rauszoomen. <color=#F44A47>[H]</color> Bewegt die Kamera zurück zum Biodrucker.\n\n- Das Spiel kann mit <color=#F44A47>[TAB]</color> beschleunigt oder verlangsamt werden.\n\n-die <color=#F44A47>[LEERTASTE]</color> pausiert das spiel."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
@@ -9392,11 +9392,6 @@ msgstr ""
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.TOOLTIP"
 msgid "These buildings have collapsed from a lack of foundation:\n{0}"
 msgstr "Diese Objekte sind zusammengebrochen, da der Untergrund fehlt:\n{0}"
-
-#. STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.NAME
-msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.NAME"
-msgid "Building meltdown"
-msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME"
@@ -9945,8 +9940,8 @@ msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP"
-msgid "You have no defined storage regions.\nUse the <color=#833A5FFF>CREATE STORAGE TOOL</color> [Y] to create storage for these items:\n{0}"
-msgstr "Du hast keinen definierten Lagerraum.\nBenutze das <color=#833A5FFF>ERSTELLE LAGER TOOL</color> [Y] um ein Lager für diese Items zu erstellen:\n{0}"
+msgid "You have no defined storage regions.\nUse the <color=#833A5FFF>CREATE STORAGE TOOL</color> <color=#F44A47>[Y]</color> to create storage for these items:\n{0}"
+msgstr "Du hast keinen definierten Lagerraum.\nBenutze das <color=#833A5FFF>ERSTELLE LAGER TOOL</color> <color=#F44A47>[Y]</color> um ein Lager für diese Items zu erstellen:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME"
@@ -10101,6 +10096,21 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP"
 msgid "Help your Duplicants keep their cool"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY"
+msgid "When constructing buildings, take note of their <style=\"heat\">Overheat Temperature</style> and plan their locations accordingly. Maintaining low ambient temperatures and good ventilation will help keep building temperatures down.\n\nBuildings that exceed their Overheat Temperature will begin to take damage and if left untended, will meltdown and stop functioning until repaired."
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME"
+msgid "TIP: Building Temperature"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP"
+msgid "Learn how to prevent meltdowns"
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME
@@ -11030,7 +11040,7 @@ msgstr ""
 
 #. STRINGS.RESEARCH.TYPES.BETA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
-msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at an <style=\"research\">Super Computer</style>."
+msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at a <style=\"research\">Super Computer</style>."
 msgstr "<style=\"research\">Fortgeschrittene Forschung</style> wird für verbesserte Technologien benötigt.\nSie wird an einem <style=\"research\">Super-Computer</style> durchgeführt."
 
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
@@ -12090,7 +12100,7 @@ msgstr ""
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP"
-msgid "Status and basic information"
+msgid "Basic information and current status"
 msgstr ""
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES
@@ -12990,7 +13000,7 @@ msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION"
-msgid "Submersed in liquid"
+msgid "Liquid Submersion"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE
@@ -13006,6 +13016,20 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN"
 msgid "Rotten"
+msgstr ""
+
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY"
+msgid "Consumes <style=\"seed\">Seed</style>"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT"
+msgid "Fruit produces <style=\"seed\">Seeds</style>"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST"
+msgid "Harvest produces <style=\"seed\">Seeds</style>"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES
@@ -13045,12 +13069,12 @@ msgstr "Diese Pflanze benötigt {0} um nach der Ernte zu wachsen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE"
-msgid "This plant must be in an atmosphere of at least {0} of any gas"
-msgstr "Diese Pflanze muss sich einer Atmosphäre von mindestens {0} eines beliebigen Gases befinden"
+msgid "Atmospheric gas pressure must be at least {0} to grow"
+msgstr "Eine Atmosphäre von mindestens {0} druck wird für Wachstum benötigt "
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
-msgid "This plant must be fully submersed to grow"
+msgid "This plant must be fully submerged in liquid to grow"
 msgstr "Diese Pflanze muss vollständig untergetaucht sein, um zu Wachsen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE
@@ -13062,6 +13086,21 @@ msgstr "Diese Pflanze muss zwischen {0} und {1} gehalten werden, um zu wachsen"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
 msgid "This plant requires {1} <style=\"solid\">{0}</style> in order to grow"
 msgstr "Diese Pflanze benötigt {1} <style=\"solid\">{0}</style> zum Wachsen"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
+msgid "This plant can be transplanted but will produce no further <style=\"seed\">Seeds<style>"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT"
+msgid "Consuming this <style=\"plant\">Plant</style>'s fruit will yield additional <style=\"seed\">Seeds</style>"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
+msgid "Harvesting this <style=\"plant\">Plant</style> will yield additional <style=\"seed\">Seeds</style>"
+msgstr ""
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.BACK"
@@ -13075,8 +13114,8 @@ msgstr "Abrechen"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
-msgid "Are you sure you want to reject all Duplicants?\n\nIt won't hurt their feelings, but it'll be awhile before the Printing Pod can print again."
-msgstr "Bist du sicher, dass du alle Duplikanten abweisen willst?\n\nEs wird nicht ihre Gefühle verletzen, aber der Biodrucker braucht etwas bevor er wieder drucken kann."
+msgid "The Printing Pod will need some time to recharge if you Ooze these Duplicants."
+msgstr "Der Biodrucker braucht etwas Zeit zum Aufladen, wenn du diese Duplikanen abweist."
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
@@ -13195,8 +13234,8 @@ msgstr ""
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
-msgid "Clutter"
-msgstr "Unordnung"
+msgid "Debris"
+msgstr "Schutt"
 
 #. STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR"
@@ -13405,7 +13444,7 @@ msgstr ""
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER"
-msgid "Sends gas into pipes from a building\n* Must connect to at least one <style=\"GasDestination\">Intake</style* Must be connected to a <style=\"GasDestination\">Destination</style>"
+msgid "Sends gas into pipes from a building\n* Must connect to at least one <style=\"GasDestination\">Intake</style>"
 msgstr ""
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED
@@ -14825,17 +14864,17 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE"
-msgid "No power: Access control is offline and anyone may pass through the door."
+msgid "Emergency Access Permissions:\nAll Duplicants are permitted to use this door until <style=\"power\">Power</style> is restored."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO"
-msgid "Door will open automatically."
+msgid "Door is automated."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING"
-msgid "Waiting for a duplicant to switch the door to auto."
+msgid "Awaiting Duplicant to automate door."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE
@@ -14845,17 +14884,17 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING"
-msgid "Waiting for a duplicant to lock the door."
+msgid "Awaiting Duplicant to lock door."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN"
-msgid "Door is Open."
+msgid "Door is open."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING"
-msgid "Waiting for a duplicant to open the door."
+msgid "Awaiting Duplicant to open door."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.PENDING_FORMAT
@@ -14995,7 +15034,7 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS"
-msgid ""
+msgid "Filtered Gas Output:\n{0}"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.LIQUID
@@ -15245,7 +15284,7 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP"
-msgid "Allow {0} materials to be stored here"
+msgid "Enable or disable the storage of {0} materials"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.MATERIALBUTTONTOOLTIP
@@ -15260,7 +15299,7 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTONTOOLTIP"
-msgid "If enabled, only objects marked for sweeping will be stored here"
+msgid "If enabled, only objects marked for sweep tasks will be stored here"
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE
