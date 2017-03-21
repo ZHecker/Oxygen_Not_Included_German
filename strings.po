@@ -16469,8 +16469,7 @@ msgstr "Wandelt <style=\"solid\">kontaminierte Erde</style> in <style=\"solid\">
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT"
-msgid "Separates any <style=\"liquid\">Contaminated Water</style> piped through it into <style=\"gas\">Steam</style> and <style=\"solid\">Contaminated Dirt</"
-"style>."
+msgid "Separates any <style=\"liquid\">Contaminated Water</style> piped through it into <style=\"gas\">Steam</style> and <style=\"solid\">Contaminated Dirt</style>."
 msgstr "Trennt <style=\"liquid\">Kontaminiertes Wasser</style> zu <style=\"gas\">Dampf</style> und <style=\"solid\">Kontaminierte Erde</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE
@@ -16540,10 +16539,8 @@ msgstr "Neu gedruckte Duplikanten kommen hier raus, aber gottseidank, werden sie
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT"
-msgid "Transports <style=\"gas\">Gas</style> between <style=\"GasPiping\">Intakes</style> and <style=\"GasPiping\">Outputs</style> with minimal change in <style="
-"\"heat\">Temperature</style>.\n\nCan be run through floor and wall tiles."
-msgstr "Transportiert  <style=\"gas\">Gas</style> zwischen <style=\"GasPiping\">Ein-</style> und <style=\"GasPiping\">Auslässen</style> mit geringen <style=\"heat"
-"\">Temperatur</style>änderungen.\n\nKann in Wand- und Bodenfließen verlegt werden."
+msgid "Transports <style=\"gas\">Gas</style> between <style=\"GasPiping\">Intakes</style> and <style=\"GasPiping\">Outputs</style> with minimal change in <style=\"heat\">Temperature</style>.\n\nCan be run through floor and wall tiles."
+msgstr "Transportiert  <style=\"gas\">Gas</style> zwischen <style=\"GasPiping\">Ein-</style> und <style=\"GasPiping\">Auslässen</style> mit geringen <style=\"heat\">Temperatur</style>änderungen.\n\nKann in Wand- und Bodenfließen verlegt werden."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT"
@@ -16797,10 +16794,8 @@ msgstr "Dieser Duplikant würde eine <style=\"hygiene\"> Dusche</style> schätze
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
-msgid "Areas with <style=\"decor\">Decor</style> values lower than a Duplicant's <style=\"decor\">Decor Expectations</style> will cause their <style=\"stress"
-"\">Stress</style>\nto rise, while high decor values will cause their stress to fall.\n\nA Duplicant's expectations will increase as they level up and become better at their jobs."
-msgstr "Gebiete mit <style=\"decor\">Dekorations</style> werten unter der <style=\"decor\">Dekorations  Erwartung</style> verusacht einen anstieg des <style="
-"\"stress\">Stress</style>\nlevels, höhere Dekorationswerte verringern den Stress.\n\nDie Erwartungen eines Duplikanten werden mit jeden Level anstieg  steigen."
+msgid "Areas with <style=\"decor\">Decor</style> values lower than a Duplicant's <style=\"decor\">Decor Expectations</style> will cause their <style=\"stress\">Stress</style>\nto rise, while high decor values will cause their stress to fall.\n\nA Duplicant's expectations will increase as they level up and become better at their jobs."
+msgstr "Gebiete mit <style=\"decor\">Dekorations</style> werten unter der <style=\"decor\">Dekorations  Erwartung</style> verusacht einen anstieg des <style=\"stress\">Stress</style>\nlevels, höhere Dekorationswerte verringern den Stress.\n\nDie Erwartungen eines Duplikanten werden mit jeden Level anstieg  steigen."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.DESC"
@@ -17000,8 +16995,7 @@ msgstr "Diese Duplikanten starben an einer extremen <style=\"heat\">Kälte</styl
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
 msgid "Duplicants will seek out and collect water and other <style=\"liquid\">Liquids</style> up to two tiles away and deliver it to buildings."
-msgstr "Duplikanten werden losziehen und Wasser oder andere <style=\"liquid\">Flüssigkeiten</style> suchen. Sie können die <style=\"liquid\">Flüssigkeiten</style> "
-"über 2 Fließen hinweg Sammeln oder Liefern."
+msgstr "Duplikanten werden losziehen und Wasser oder andere <style=\"liquid\">Flüssigkeiten</style> suchen. Sie können die <style=\"liquid\">Flüssigkeiten</style> über 2 Felder hinweg sammeln und liefern."
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP"
@@ -17025,14 +17019,8 @@ msgstr "Diese Verletzungen des Duplikanten wurden nicht richtig behandelt. Er ha
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
-msgid "<style=\"liquid\">Contaminated Water</style> is a yucky substance that emits <style=\"gas\">Contaminated Oxygen</style> and can cause <style=\"disease"
-"\">Disease</style> in your Duplicants.\n\nSmall accidents can be cleaned up by clicking and dragging with the <color=#833A5FFF>MOP TOOL</color> [M], while larger bodies may be worth filtering. "
-"Dirty water also <style=\"stress\">Stresses</style> out any Duplicants that come into contact with it, so it is best removed quickly for your colony's "
-"safety."
-msgstr "<style=\"liquid\">Kontaminiertes Wasser</style> ist eine ekelhafte Substanz, die <style=\"gas\">Kontaminierten Sauerstoff</style> erzeugt und <style="
-"\"disease\">Krankheiten</style> verursacht.\n\nKleine Unfälle können durch Klicken und ziehen des <color=#833A5FFF>MOP TOOLs</color> [M] beseitigt werden, größere Objekte sind es wahrscheinlich wert "
-"gefiltert zu werden. Schmutziges Wasser <style=\"stress\">Stresst</style> alle Duplikanten die damit in Kontakt kommen, das beste ist es schnell zu "
-"entfernen zur Sicherung deiner Kolonie."
+msgid "<style=\"liquid\">Contaminated Water</style> is a yucky substance that emits <style=\"gas\">Contaminated Oxygen</style> and can cause <style=\"disease\">Disease</style> in your Duplicants.\n\nSmall accidents can be cleaned up by clicking and dragging with the <color=#833A5FFF>MOP TOOL</color> [M], while larger bodies may be worth filtering. Dirty water also <style=\"stress\">Stresses</style> out any Duplicants that come into contact with it, so it is best removed quickly for your colony's safety."
+msgstr "<style=\"liquid\">Kontaminiertes Wasser</style> ist eine ekelhafte Substanz, die <style=\"gas\">Kontaminierten Sauerstoff</style> erzeugt und <style=\"disease\">Krankheiten</style> verursacht.\n\nKleine Unfälle können durch Klicken und ziehen des <color=#833A5FFF>MOP TOOLs</color> [M] beseitigt werden, größere Objekte sind es wahrscheinlich wert gefiltert zu werden. Schmutziges Wasser <style=\"stress\">stresst</style> alle Duplikanten die damit in Kontakt kommen, das beste ist es schnell zu entfernen, um deine Kolonie zu sichern."
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
@@ -17056,10 +17044,8 @@ msgstr "Eureka!\nDie Technologie <style=\"research\">{0}</style> wurde durch die
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
-msgid "Duplicants crave structure and will only eat, sleep, work or bathe during the times you allot for these activities.\n\nTo make the best use of your time, open the <color=#833A5FFF>SCHEDULE TAB</color> [U] to adjust your colony's agenda and plan how your Duplicants should "
-"utilize their day."
-msgstr "Duplikanten sehnen sich nach Struktur und werden nur essen, schlafen, arbeiten oder duschen während der Zeit, die du für diese Aktivitäten zuteilst.\n\nUm die Zeit optimal nutzen zu können, öffne den <color=#833A5FFF>ZEITPLAN TAB</color> [U], um festzulegen wie deine Duplikanten ihren Tag nutzen sollen. "
-"deiner Kolonie anzupassen und zu planen, wie deine Duplikanten ihren Tag nutzen sollten."
+msgid "Duplicants crave structure and will only eat, sleep, work or bathe during the times you allot for these activities.\n\nTo make the best use of your time, open the <color=#833A5FFF>SCHEDULE TAB</color> [U] to adjust your colony's agenda and plan how your Duplicants should utilize their day."
+msgstr "Duplikanten sehnen sich nach Struktur und werden nur essen, schlafen, arbeiten oder duschen während der Zeit, die du für diese Aktivitäten zuteilst.\n\nUm die Zeit optimal nutzen zu können, öffne den <color=#833A5FFF>ZEITPLAN-TAB</color> [U], um festzulegen wie deine Duplikanten ihren Tag nutzen sollen."
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP"
@@ -17078,10 +17064,8 @@ msgstr "Ein Rohrleitungssystem hat den idealen Druck überschritten"
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY"
-msgid "Duplicants are generally self-motivated and do not need to be individually managed in order to perform tasks in the colony.\n\nYou can use the <color=#833A5FFF>DIG TOOL</color> [G] and the <color=#833A5FFF>BUILD MENU</color> in the lower left of the screen to begin planning job "
-"tasks. Once you have a few placed, your Duplicants will automatically get to work for you."
-msgstr "Duplikanten sind in der Regel selbstmotiviert und müssen nicht einzeln verwaltet werden, um Aufgaben in der Kolonie durchzuführen.\n\nDu kannst das <color=#833A5FFF>GRABEN-TOOL</color> [G] und das <color=#833A5FFF>BAUMENÜ</color> unten links auf dem Bildschirm verwenden, um mit der "
-"Planung von Jobaufgaben zu beginnen. Sobald Du ein paar platziert hast, werden deine Duplikanten automatisch arbeiten."
+msgid "Duplicants are generally self-motivated and do not need to be individually managed in order to perform tasks in the colony.\n\nYou can use the <color=#833A5FFF>DIG TOOL</color> [G] and the <color=#833A5FFF>BUILD MENU</color> in the lower left of the screen to begin planning job tasks. Once you have a few placed, your Duplicants will automatically get to work for you."
+msgstr "Duplikanten sind in der Regel selbstmotiviert und müssen nicht einzeln verwaltet werden, um Aufgaben in der Kolonie durchzuführen.\n\nDu kannst das <color=#833A5FFF>GRABEN-TOOL</color> [G] und das <color=#833A5FFF>BAUMENÜ</color> unten links auf dem Bildschirm verwenden, um mit der Planung von Jobaufgaben zu beginnen. Sobald Du ein paar platziert hast, werden deine Duplikanten automatisch arbeiten."
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP"
