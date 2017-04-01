@@ -8,9 +8,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0\n"
-"Last-Translator: Xandras\n"
+"Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: de\n"
+"Language: de_DE\n"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME"
@@ -70,7 +70,8 @@ msgstr "Warte auf Lieferung"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected seed"
-msgstr "Warte auf Lieferung des ausgewählten Samens
+msgstr "Warte auf Lieferung des ausgewählten Samens"
+
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME"
 msgid "Awaiting Compostables"
@@ -1284,7 +1285,8 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP"
 msgid "Too little air pressure to operate"
-msgstr "
+msgstr ""
+
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
 msgid "Out of Order"
@@ -13150,6 +13152,56 @@ msgstr "Diese Pflanze muss sich einer Atmosphäre von mindestens {0} eines belie
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
 msgid "This plant must be fully submerged in liquid to grow"
 msgstr "Diese Pflanze muss vollständig untergetaucht sein, um zu Wachsen"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE"
+msgid "This plant must be kept between {0} and {1} to grow"
+msgstr "Diese Pflanze muss zwischen {0} und {1} gehalten werden, um zu wachsen"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
+msgid "This plant requires {1} <style=\"solid\">{0}</style> in order to grow"
+msgstr "Diese Pflanze benötigt {1} <style=\"solid\">{0}</style> zum Wachsen"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
+msgid "This plant can be transplanted but will produce no further <style=\"seed\">Seeds<style>"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT"
+msgid "Consuming this <style=\"plant\">Plant</style>'s fruit will yield additional <style=\"seed\">Seeds</style>"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
+msgid "Harvesting this <style=\"plant\">Plant</style> will yield additional <style=\"seed\">Seeds</style>"
+msgstr ""
+
+#. STRINGS.UI.IMMIGRANTSCREEN.BACK
+msgctxt "STRINGS.UI.IMMIGRANTSCREEN.BACK"
+msgid "BACK"
+msgstr "ZURÜCK"
+
+#. STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON
+msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON"
+msgid "Cancel"
+msgstr "Abrechen"
+
+#. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
+msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
+msgid "The Printing Pod will need time to recharge if you Ooze these Duplicants."
+msgstr "Der Biodrucker braucht Zeit zum Aufladen, wenn du diese Duplikanen abweist."
+
+#. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
+msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
+msgid "Reject All Duplicants?"
+msgstr "Duplikanten abweisen?"
+
+#. STRINGS.UI.IMMIGRANTSCREEN.EMBARK
+msgctxt "STRINGS.UI.IMMIGRANTSCREEN.EMBARK"
+msgid "EMBARK"
+msgstr "LOS GEHT'S"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE"
