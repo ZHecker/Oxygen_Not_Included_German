@@ -8,29 +8,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0\n"
-"Last-Translator: \n"
+"Last-Translator: Xandras\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: de_DE\n"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME"
 msgid "Access Restrictions"
-msgstr ""
+msgstr "Zugriffsbeschränkungen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.TOOLTIP"
 msgid "Some Duplicants are prohibited from passing through this door by the current access settings"
-msgstr ""
+msgstr "Einige Duplikanten ist es verboten, diese Tür durch die aktuellen Zugangseinstellungen zu benutzen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME"
 msgid "Access Control Offline"
-msgstr ""
+msgstr "Zugriffskontrolle Offline"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP"
 msgid "This door has granted Emergency Access Permissions\n----------\nAll Duplicants are permitted to pass through it until power is restored"
-msgstr ""
+msgstr "Diese Tür hat Notfallzugriffsberechtigungen aktiviert\n----------\nAlle Duplikanten können die Türe benutzen, bis die Stromversorgung Wiederhergestellt ist"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
@@ -190,7 +190,7 @@ msgstr "Gas zu kalt"
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP"
 msgid "This building cannot cool incoming pipe contents below {0}\n\nCurrent Pipe Contents: {0}"
-msgstr ""
+msgstr "Dieses Objekt kann die eingehende Rohrinhalte nicht unter {0} abkühlen\n\nAktueller Rohrinhalt: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME"
@@ -200,7 +200,7 @@ msgstr "Gas zu heiß"
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.TOOLTIP"
 msgid "Incoming pipe contents cannot be cooled more than {2} below the surrounding environment\n\nEnvironment: {0}\nCurrent Pipe Contents: {1}"
-msgstr ""
+msgstr "Eingehende Rohrinhalte können nicht mehr als {2} unterhalb der Umgebung abgekühlt werden\n\nUmgebung: {0}\nAktueller Rohrinhalt: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO"
@@ -350,22 +350,22 @@ msgstr "Muss von einem Duplikanten ausgegraben werden"
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.NAME"
 msgid "Armed"
-msgstr ""
+msgstr "Scharf"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.TOOLTIP"
 msgid "Stand back, this baby's ready to blow!"
-msgstr ""
+msgstr "Geh in Deckung, die Bombe ist bereit!"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.NAME"
 msgid "Countdown: ({0})"
-msgstr ""
+msgstr "Countdown: ({0})"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.TOOLTIP"
 msgid "{0} seconds until detonation"
-msgstr ""
+msgstr "{0} Sekunden bis zur Detonation"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.NAME"
@@ -550,22 +550,22 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.NAME"
 msgid "Low Atmospheric Pressure"
-msgstr ""
+msgstr "Niedriger atmosphärischer Druck"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.TOOLTIP"
 msgid "A minimum air pressure of {TargetPressure} is needed for this building to heat up"
-msgstr ""
+msgstr "Für dieses Gebäude wird ein Mindestluftdruck von {TargetPressure} benötigt, um zu heizen"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.NAME"
 msgid "Not Submerged In Liquid"
-msgstr ""
+msgstr "Nicht in Flüssigkeit untergetaucht"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.TOOLTIP"
 msgid "This building must be submerged in <style=\"liquid\">Liquid</style> to function"
-msgstr ""
+msgstr "Dieses Gebäude muss in <style=\"liquid\">Flüssigkeit</style> eintaucht sein"
 
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME"
@@ -690,12 +690,12 @@ msgstr "Der Duplikant steht unter deiner Kontrolle"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS"
 msgid "• {0}: {1}"
-msgstr ""
+msgstr "• {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS"
 msgid "• {0}"
-msgstr ""
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME"
@@ -1045,7 +1045,7 @@ msgstr "Die Konstruktion ist nicht mit einem Stromnetz verbunden"
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING"
 msgid "Exhaust produced"
-msgstr ""
+msgstr "    • {0}: {1}\n"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
@@ -1065,12 +1065,11 @@ msgstr "Normalbetrieb"
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.PIPECONTENTS_TRANSFER
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.PIPECONTENTS_TRANSFER"
 msgid "Transferred from pipes"
-msgstr ""
+msgstr "Übertragen von Rohren"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.TOOLTIP"
 msgid "This building is producing {0} of energy\n\nSources:\n{1}"
-msgstr "Diese Maschine produziert {0} Energie\n\n\Quellen:\n{1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME"
@@ -1320,12 +1319,12 @@ msgstr "Warte auf einen Duplikanten um Flussrate zu justierern"
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS"
 msgid "• {0}: {1}"
-msgstr ""
+msgstr "• {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS"
 msgid "• {0}"
-msgstr ""
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME"
@@ -1340,7 +1339,7 @@ msgstr "Warte auf einen Duplikanten der folgendes liefert:\n{ItemsRemaining}"
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM"
 msgid "• {0}: {1}"
-msgstr ""
+msgstr "• {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.NAME"
@@ -1645,7 +1644,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.BURNER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.NAME"
 msgid "Burner"
-msgstr ""
+msgstr "Brenner"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
@@ -1695,12 +1694,12 @@ msgstr "Deckenlampe"
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC"
 msgid "What's the point of surviving a cosmic catastrophe if you can't look stylish?"
-msgstr ""
+msgstr "Was ist der Sinn, eine kosmische Katastrophe zu überleben, wenn man nicht stilvoll aussehen kann?"
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT"
 msgid "Tailors enhanced clothing items for Duplicants.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "Schneidern verbessert Kleidungsstücke für Duplikanten.\n\nDuplikanten werden nichts hergestellen, wenn Rezepte in der Warteschlange stehen."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME"
@@ -1860,7 +1859,7 @@ msgstr "Elektrolyseur"
 #. STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.DESC"
 msgid "What's yours is mined, what's mined is yours."
-msgstr ""
+msgstr "Was deines ist, ist abgebaut, was abgebaut ist, ist dein."
 
 #. STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.EFFECT"
@@ -1870,7 +1869,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.NAME"
 msgid "Mining Mine"
-msgstr ""
+msgstr "Bergbau Mine"
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC"
@@ -1950,17 +1949,17 @@ msgstr "Toilette"
 #. STRINGS.BUILDINGS.PREFABS.FUELBRICKMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FUELBRICKMAKER.DESC"
 msgid "A machine for most pressing matters."
-msgstr ""
+msgstr "Eine Maschine für die meisten drückenden Angelegenheiten."
 
 #. STRINGS.BUILDINGS.PREFABS.FUELBRICKMAKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FUELBRICKMAKER.EFFECT"
 msgid "Presses consumable ore into dense Fuel Bricks."
-msgstr ""
+msgstr "Drückt verbrauchbares Erz in dichte Brennstoffziegel."
 
 #. STRINGS.BUILDINGS.PREFABS.FUELBRICKMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FUELBRICKMAKER.NAME"
 msgid "Fuel Press"
-msgstr ""
+msgstr "Brennstoffpresse"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.DESC"
@@ -2226,12 +2225,12 @@ msgstr "Du wärst überrascht, wenn du wüsstest, wie viel Forschung für warme 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.EFFECT"
 msgid "Reduces <style=\"heat\">Heat</style> loss through colony walls."
-msgstr ""
+msgstr "Reduziert <style=\"heat\">Wärme</style> Verlust durch Kolonie Wände."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME"
 msgid "Insulation"
-msgstr ""
+msgstr "Isolierung"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.DESC"
@@ -2251,7 +2250,7 @@ msgstr "Leiter"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.DESC"
 msgid "Easily transport liquid with this simple, airtight piping."
-msgstr ""
+msgstr "Mit dieser einfachen, luftdichten Rohrleitung leicht transportieren."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT"
@@ -3326,7 +3325,6 @@ msgstr "Kühle Umgebung"
 #. STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP"
 msgid "This creature cannot retain enough heat in this environment to regulate its internal temperature.\n\nIt prefers environments between {0} and {1}."
-msgstr "Diese Kreatur kann in dieser Umgebung nicht genug Wärme speichern, um ihre Eigentemperatur zu halten.\n\n\Sie bevorzugt Temperaturen zwischen {0} und {1}."
 
 #. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME"
@@ -3516,7 +3514,6 @@ msgstr "Heiße Umgebung"
 #. STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP"
 msgid "This creature cannot let off enough heat in this environment to regulate its internal temperature.\n\nIt prefers environments between {0} and {1}."
-msgstr "Diese Kreatur kann in dieser Umgebung nicht genug Wärme abgeben, um ihre Eigentemperatur zu halten.\n\n\Sie bevorzugt Temperaturen zwischen {0} und {1}."
 
 #. STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME"
@@ -13003,7 +13000,6 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.COLDBREATHER"
 msgid "<style=\"heat\">Cooling Effect</style>"
 msgstr ""
 
-. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED"
 msgid "Circuit Overload Damage"
 msgstr ""
@@ -16386,3 +16382,4 @@ msgstr "Sand verstreuen..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Sand verstreuen..."
+
