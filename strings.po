@@ -2840,7 +2840,7 @@ msgstr "Kabelbrücke"
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC"
 msgid "An aquatic <style=\"plant\">Plant</style> that can be grown domestically in Aquatic Farm Tiles.\n\nThimble Reeds produce raw cellulose fiber that can be used in the production of <style=\"equipment\">Clothing</style> and textiles."
-msgstr "Eine Wasser<style=\"plant\">pflanze</style>, die in Aquatic Tiles Farm gezüchtet werden können.\n\nThimble Reeds produzieren rohe Cellulosefasern, die bei der Herstellung von <style=\"equipment\">Kleidung</style> und Textilien verwendet werden können."
+msgstr "Eine Wasser<style=\"plant\">pflanze</style>, die in Aquafarm-Ziegeln gezüchtet werden können.\n\nFingerhutschilf produziert rohe Cellulosefasern, die bei der Herstellung von <style=\"equipment\">Kleidung</style> und Textilien verwendet werden können."
 
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC"
@@ -2850,47 +2850,47 @@ msgstr "Eine Wasser-<style=\"plant\">Pflanze</style>, die Rohfasern für Kleidun
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.NAME"
 msgid "Thimble Reed"
-msgstr ""
+msgstr "Fingerhutschilf"
 
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC"
 msgid "An edible parthenocarpic fruit that cannot reproduce in the wild.\n\nIt can be harvested for a single, nonrenewable serving of <style=\"food\">Food</style>."
-msgstr ""
+msgstr "Eine essbare parthenokarpe Frucht, die sich nicht fortpflanzen kann.\n\nSie kann für eine einzelne nicht erneuerbare Portion <style=\"food\">Nahrung</style> geerntet werden."
 
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME"
 msgid "Buried Muckroot"
-msgstr ""
+msgstr "Vergrabene Schmutzwurzel"
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC"
 msgid "A nutritious, hardy <style=\"plant\">Plant</style> that can be grown domestically in Planter Boxes.\n\nIt produces an edible grain that is suspiciously capable of movement."
-msgstr ""
+msgstr "Eine nahrhafte, harte <style=\"plant\">Pflanze</style> die in Pflanzboxen gezogen werden kann.\n\nSie produziert ein essbares Korn, das sich verdächtigerweise bewegen kann."
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC"
 msgid "A nutritious, fast-growing <style=\"plant\">Plant</style> that produces a strangely ambulatory edible grain."
-msgstr ""
+msgstr "Eine nahrhafte, schnellwachsende <style=\"plant\">Pflanze</style>, die ein sonderbar bewegliches essbares Korn produziert."
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME"
 msgid "Mealwood"
-msgstr ""
+msgstr "Mehlholz"
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC"
 msgid "A fleshy, <style=\"heat\">Cold</style>-dwelling plant.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous outer membrane."
-msgstr ""
+msgstr "Eine fleischige Pflanze, die <style=\"heat\">Kälte</style> liebt.\n\nSie entfernt <style=\"heat\">Wärme</style> aus der Luft, indem sie diese durch ihre poröse Außenmembran atmet."
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC"
 msgid "A fleshy plant that thrives in <style=\"heat\">Cold</style> environments.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous outer membrane."
-msgstr ""
+msgstr "Eine fleischige Pflanze, die <style=\"heat\">Kälte</style> liebt.\n\nSie entfernt <style=\"heat\">Wärme</style> aus der Luft, indem sie diese durch ihre poröse Außenmembran atmet."
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.NAME"
 msgid "Wheezewort"
-msgstr ""
+msgstr "Keuchwurz"
 
 #. STRINGS.CREATURES.SPECIES.FLUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.FLUT.DESC"
@@ -2915,12 +2915,12 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.GEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.DESC"
 msgid "A highly pressurized geyser that periodically erupts, spraying boiling hot <style=\"liquid\">Water</style>."
-msgstr ""
+msgstr "Ein unter hohem Druck stehender Geysir, der regelmäßig ausbricht, und heißes <style=\"liquid\">Wasser</style> versprüht."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.NAME"
 msgid "Geyser"
-msgstr ""
+msgstr "Geysir"
 
 #. STRINGS.CREATURES.SPECIES.GLOM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.DESC"
@@ -3040,32 +3040,32 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
 msgid "A barbed, fruiting <style=\"plant\">Plant</style> that can be grown domestically in Planter Boxes.\n\nIt produces an edible bud, the growth of which coincides with the cycles of the colony."
-msgstr "Eine stachelige, Fruchttragende <style=\"plant\">Pflanze</style> die Ausgegraben und gezüchtet werden kann.\n\nSie produziert eine essbare Knospe, der Wachstum hängt mit den Zyklen der Kolonie zusammen."
+msgstr "Eine stachelige, fruchttragende <style=\"plant\">Pflanze</style>, die in Pflanzkisten gezogen werden kann.\n\nSie produziert eine essbare Knospe, deren Wachstum mit den Zyklen der Kolonie zusammenfällt."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC"
 msgid "A barbed, fruiting <style=\"plant\">Plant</style> that produces an edible bud."
-msgstr ""
+msgstr "Eine stachelige, fruchttragende <style=\"plant\">Pflanze</style>, die eine essbare Knospe produziert."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.NAME"
 msgid "Bristle Blossom"
-msgstr ""
+msgstr "Dornenblüte"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC"
 msgid "A prickly, invasive weed that can be grown domestically in Flower Vases.\n\nSome find it quite pleasing to the eye."
-msgstr ""
+msgstr "Ein stachliges, invasives Kraut, das in Blumenvasen gezogen werden kann.\n\nMach einer findet es ganz ansehnlich."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC"
 msgid "A prickly, invasive weed with an oddly aesthetic allure."
-msgstr ""
+msgstr "Ein stachlige, invasive Kraut mit einem eigentümlichen ästhetischen Reiz."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME"
 msgid "Bristle Briar"
-msgstr ""
+msgstr "Dornenstrauch"
 
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC"
@@ -3090,32 +3090,32 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Thimble Reed</style>.\n\nDigging up Buried Objects may uncover a Thimble Reed Seed."
-msgstr ""
+msgstr "Der <style=\"seed\">Samen</style> von <style=\"plant\">Fingerhutschilf</style>.\n\nFingerhutschilf-Samen können unter anderen Objekten vergraben sein."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.NAME"
 msgid "Thimble Reed Seed"
-msgstr ""
+msgstr "Fingerhutschilf-Samen"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Mealwood</style>.\n\nDigging up Buried Objects may uncover a Mealwood Seed."
-msgstr ""
+msgstr "Der <style=\"seed\">Samen</style> eines <style=\"plant\">Mehlholz</style>.\n\nMehlholz-Samen können unter anderen Objekten vergraben sein."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
 msgid "Mealwood Seed"
-msgstr ""
+msgstr "Mehlholz-Samen"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Wheezewort</style>.\n\nDigging up Buried Objects may uncover a Wheezewort Seed."
-msgstr ""
+msgstr "Der <style=\"seed\">Samen</style> eines <style=\"plant\">Keuchwurz</style>.\n\nKeuchwurz-Samen können unter anderen Objekten vergraben sein."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME"
 msgid "Wheezewort Seed"
-msgstr ""
+msgstr "Keuchwurz-Samen"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC"
@@ -3130,22 +3130,22 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Bristle Blossom</style>.\n\nDigging up Buried Objects may uncover a Blossom Seed."
-msgstr ""
+msgstr "Der <style=\"seed\">Samen</style> der <style=\"plant\">Dornenblüte</style>.\n\nBlütensamen können unter anderen Objekten vergraben sein."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME"
 msgid "Blossom Seed"
-msgstr ""
+msgstr "Blütensamen"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Bristle Briar</style>.\n\nDigging up Buried Objects may uncover a Briar Seed."
-msgstr ""
+msgstr "Der <style=\"seed\">Samen</style> eines <style=\"plant\">Dornenstrauchs</style>.\n\nStrauchsamen können unter andern Objekten vergraben sein."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME"
 msgid "Briar Seed"
-msgstr ""
+msgstr "Strauchsamen"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC"
@@ -3270,12 +3270,12 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME"
 msgid "Low Atmospheric Pressure"
-msgstr ""
+msgstr "Niedriger Atmosphärendruck"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.TOOLTIP"
 msgid "This plant requires a minimum pressure of {TargetPressure}"
-msgstr "Diese Pflanze braucht  einen Druck von mindsestens {TargetPressure}"
+msgstr "Diese Pflanze braucht einen Druck von mindestens {TargetPressure}"
 
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.NAME"
@@ -3290,7 +3290,7 @@ msgstr "Diese Pflanze kann keine Samen mehr produzieren"
 #. STRINGS.CREATURES.STATUSITEMS.BREATH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.NAME"
 msgid "Suffocating"
-msgstr ""
+msgstr "Erstickt"
 
 #. STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP"
@@ -9148,7 +9148,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Kleidung"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.NAME"
@@ -9163,12 +9163,12 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC"
 msgid "A seedless fruit with an upsettingly bland aftertaste.\n\nIt cannot be replanted.\n\nDigging up Buried Objects may uncover a Muckroot."
-msgstr ""
+msgstr "Eine samenlose Frucht mit beleidigend fadem Nachgeschmack.\n\nKann nicht neugepflanzt werden.\n\Schmutzwurzeln können unter anderen Objekten vergraben sein."
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME"
 msgid "Muckroot"
-msgstr ""
+msgstr "Schmutzwurzel"
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC"
@@ -9193,17 +9193,17 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME"
 msgid "Meal Lice"
-msgstr ""
+msgstr "Mehllaus"
 
 #. STRINGS.ITEMS.FOOD.FIELDRATION.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.DESC"
 msgid "Provides the most essential nutrients and nothing more. Tastes like chalk."
-msgstr ""
+msgstr "Versorgt mit den essentiellen Nährstoffen, und das war es auch schon. Schmeckt nach Kreide."
 
 #. STRINGS.ITEMS.FOOD.FIELDRATION.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.NAME"
 msgid "Field Ration"
-msgstr "Feld Ration"
+msgstr "Feldration"
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC"
@@ -9223,17 +9223,17 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.FRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRUIT.DESC"
 msgid "Fresh fruit from the vine. Chock full of vitamins!"
-msgstr ""
+msgstr "Frische Frucht von einer Rebe. Randvoll mit Vitaminen!"
 
 #. STRINGS.ITEMS.FOOD.FRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRUIT.NAME"
 msgid "Fruit"
-msgstr ""
+msgstr "Frucht"
 
 #. STRINGS.ITEMS.FOOD.MEAT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MEAT.DESC"
 msgid "Fresh meat from a very dead creature. Yum!"
-msgstr ""
+msgstr "Frisches Fleisch von einer sehr toten Kreatur. Lecker!"
 
 #. STRINGS.ITEMS.FOOD.MEAT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MEAT.NAME"
@@ -9258,12 +9258,12 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC"
 msgid "Pretty pleasant, unless you forget to eat around the thorns.\n\nEating a Bristle Berry produces a Bristle Blossom Seed."
-msgstr ""
+msgstr "Ziemlich lecker, solange man um die Dornen herum isst.\n\nEine Borstenbeere zu essen, produziert einen Dornenblüten-Samen."
 
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME"
 msgid "Bristle Berry"
-msgstr ""
+msgstr "Dornenbeere"
 
 #. STRINGS.ITEMS.FOOD.ROTPILE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.DESC"
@@ -9278,12 +9278,12 @@ msgstr ""
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC"
 msgid "A ball of raw cellulose used in the production of <style=\"equipment\">Clothing</style> and textiles."
-msgstr "Ein klumpen unbearbeiteter Zellulose für die Produktion von <style=\"equipment\">Kleidung</style> und Textilien."
+msgstr "Ein Klumpen unbearbeiteter Zellulose für die Produktion von <style=\"equipment\">Kleidung</style> und Textilien."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.NAME"
 msgid "Reed Fiber"
-msgstr ""
+msgstr "Schilffaser"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FUEL_BRICK.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FUEL_BRICK.DESC"
@@ -12178,7 +12178,7 @@ msgstr "FORUM"
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER"
 msgid "DEVELOPMENT BUILD"
-msgstr "DEVELOPMENT BUILD"
+msgstr "ENTWICKLUNGSVERSION"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST"
@@ -12208,7 +12208,7 @@ msgstr ""
 #. STRINGS.UI.DUPLICANTPRINTING
 msgctxt "STRINGS.UI.DUPLICANTPRINTING"
 msgid "Duplicant Printing"
-msgstr "Duplikant wird gedrukt"
+msgstr "Duplikant wird gedruckt"
 
 #. STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.NAME"
