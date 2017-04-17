@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0\n"
+"X-Generator: Poedit 2.0.1\n"
 "Last-Translator: Xandras\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: de_DE\n"
@@ -375,47 +375,47 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.TOOLTIP"
 msgid "Explosive disabled due to close Duplicant proximity"
-msgstr ""
+msgstr "Sprengstoff deaktiviert Duplikant in der Nähe"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.NAME"
 msgid "Exploding"
-msgstr ""
+msgstr "Explodiert"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.TOOLTIP"
 msgid "Kaboom!"
-msgstr ""
+msgstr "Kaboom!"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.NAME"
 msgid "Unarmed"
-msgstr ""
+msgstr "gesichert"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.TOOLTIP"
 msgid "This explosive is currently inactive"
-msgstr ""
+msgstr "Dieser Sprengstoff ist derzeit inaktiv"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXHAUSTENERGY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXHAUSTENERGY.NAME"
 msgid "Heat Transfer to Environment: {0}"
-msgstr ""
+msgstr "Wärmeabstrahlung an die Umgebung: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXHAUSTENERGY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXHAUSTENERGY.TOOLTIP"
 msgid "This building is outputting heat into the surrounding environment"
-msgstr ""
+msgstr "Dieses Objekt erwärmt die Umgebung"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXPIRED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXPIRED.NAME"
 msgid "Depleted"
-msgstr ""
+msgstr "Aufgebraucht"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXPIRED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXPIRED.TOOLTIP"
 msgid "This building has no more use"
-msgstr ""
+msgstr "Dieses Objekt hat keinen nutzen mehr"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME"
@@ -545,7 +545,7 @@ msgstr "Maximale Temperatur erreicht"
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDHOTENV.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDHOTENV.TOOLTIP"
 msgid "This building cannot heat the surrounding environment beyond {0}"
-msgstr ""
+msgstr "Dieses Objekt  kann die Umgebung nicht über {0} erwärmen"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.NAME"
@@ -1045,12 +1045,12 @@ msgstr "Die Konstruktion ist nicht mit einem Stromnetz verbunden"
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING"
 msgid "Exhaust produced"
-msgstr "    • {0}: {1}\n"
+msgstr "Abgase Produziert"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
 msgid "    • {0}: {1}\n"
-msgstr ""
+msgstr "    • {0}: {1}\n"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.NAME"
@@ -1070,6 +1070,7 @@ msgstr "Übertragen von Rohren"
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.TOOLTIP"
 msgid "This building is producing {0} of energy\n\nSources:\n{1}"
+msgstr "Diese Maschine produziert {0} Energie\n\nQuellen:\n{1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME"
@@ -1639,7 +1640,7 @@ msgstr "Manche Menschen wollen einfach nur die Welt brennen sehen"
 #. STRINGS.BUILDINGS.PREFABS.BURNER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.EFFECT"
 msgid "Consumes one <style=\"misc\">Fuel Brick</style> to produce a <style=\"heat\">Hot</style> jet of flame.\n\nHas one use."
-msgstr ""
+msgstr "Verbraucht einen <style=\"misc\">Fuel Brick</style> um einen <style=\"heat\">heißen</style> Flammenstrahl zu erzeugen.\n\nHat eine Verwendung."
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.NAME"
@@ -1864,7 +1865,7 @@ msgstr "Was deines ist, ist abgebaut, was abgebaut ist, ist dein."
 #. STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.EFFECT"
 msgid "Fractures and destroys unmined resources with an explosive shockwave.\n\nShockwaves travel further through hard substances."
-msgstr ""
+msgstr "Bricht und zerstört nicht abgebaute Ressourcen mit einer explosiven Schockwelle.\n\nSchockwellen werden durch harte Substanzen weiter übertragen."
 
 #. STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.NAME"
@@ -2040,7 +2041,7 @@ msgstr "Gaspumpe"
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC"
 msgid "It's the metal pipe equivalent of kinking a garden hose."
-msgstr ""
+msgstr "Es ist das Metallrohräquivalent zum Knicken eines Gartenschlauchs."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT"
@@ -2255,7 +2256,7 @@ msgstr "Mit dieser einfachen, luftdichten Rohrleitung leicht transportieren."
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT"
 msgid "Transports <style=\"liquid\">Liquid</style> between building <style=\"LiquidPiping\">Intakes</style> and <style=\"LiquidPiping\">Outputs</style>.\n\nCan be run through Tile."
-msgstr ""
+msgstr "Transportiert <style=\"liquid\">Flüssigkeiten</style> zwischen Machinen <style=\"LiquidPiping\">Eingang</style> and <style=\"LiquidPiping\">Ausgang</style>.\n\nKann in Ziegeln verlegt werden."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME"
@@ -2265,7 +2266,7 @@ msgstr "Rohr"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.DESC"
 msgid "A pipe bridge for making sure your streams don't cross."
-msgstr ""
+msgstr "Eine Rohrbrücke, um sicherzustellen, dass deine Ströme sich nicht kreuzen."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.EFFECT"
@@ -2280,12 +2281,12 @@ msgstr "Flüssig-Rohrbrücke"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
 msgid "It's almost like a real breeze.\nHow refreshing!"
-msgstr ""
+msgstr "Es ist fast wie eine echte Brise.\nWie erfrischend!"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.EFFECT"
 msgid "Dissipates a small amount of the <style=\"heat\">Heat</style>."
-msgstr ""
+msgstr "Verteilt eine kleine Menge der <style =\"heat\">Wärme </style>."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME"
@@ -2295,32 +2296,32 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC"
 msgid "Ever tried separating liquids with your bare hands?\nVery difficult!"
-msgstr ""
+msgstr "Jemals versucht, Flüssigkeiten mit deinen bloßen Händen zu trennen?\nSehr schwierig!"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.EFFECT"
 msgid "Sieves the selected <style=\"liquid\">Liquid</style> out of a liquid mixture, sending it into a separate <style=\"LiquidPiping\">Pipe</style>."
-msgstr ""
+msgstr "Filtert  die ausgewählte <style=\"liquid\">Flüssigkeit</style> aus einer Mischung und sendet sie in eine separates <style=\"LiquidPiping\">Rohr</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME"
 msgid "Liquid Filter"
-msgstr ""
+msgstr "Flüssigkeitsfilter"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.DESC"
 msgid "Just the right amount of heat for a nice, hot shower."
-msgstr ""
+msgstr "Genau die richtige Temperatur für eine schöne, heiße Dusche."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.EFFECT"
 msgid "Marginally <style=\"heat\">Warms</style> large bodies of <style=\"liquid\">Liquid</style>.\n\nMust be fully submerged."
-msgstr ""
+msgstr "<style=\"heat\">Erwärmt</style> geringfügig große mengen <style=\"liquid\">Flüssigkeit</style>.\n\nMuss vollständig untergetaucht sein."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME"
 msgid "Liquid Tepidizer"
-msgstr ""
+msgstr "Füssigkeitstemperierer"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC"
@@ -2340,22 +2341,22 @@ msgstr "Flüssig-Pumpe"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC"
 msgid "Store your colony's liquids for those not-so-rainy days."
-msgstr ""
+msgstr "Lagern Sie die Flüssigkeiten Ihrer Kolonie für die nicht-regnerischen Tage."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT"
 msgid "Manually accepts <style=\"liquid\">Liquid</style> and moves it through the connected <style=\"LiquidPiping\">Pipe</style>."
-msgstr ""
+msgstr "Akzeptiert  <style=\"liquid\">Flüssigkeiten</style> und bewegt sie durch das angeschlossene <style=\"LiquidPiping\">Rohr</style>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.NAME"
 msgid "Reservoir"
-msgstr ""
+msgstr "Reservoir"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.DESC"
 msgid "It's the metal pipe equivalent of kinking a garden hose."
-msgstr ""
+msgstr "Es ist das Metallrohräquivalent zum Knicken eines Gartenschlauchs."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.EFFECT"
@@ -2505,22 +2506,22 @@ msgstr "Algen Deoxydizer"
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
 msgid "Make your Duplicants faster, stronger... better!"
-msgstr ""
+msgstr "Mach deine Duplikanten schneller, stärker ... besser!"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT"
 msgid "Uses <style=\"RawMetal\">Raw Metal</style> or <style=\"RefinedMetal\">Refined Metal</style> to craft <style=\"equipment\">Multitools</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "Verwendet<style=\"RawMetal\">Rohmetalle</style> oder <style=\"RefinedMetal\">Raffinierte Metalle</style> um <style=\"equipment\">Multitools</style> herzustellen.\n\\\nDuplikanten werden nichts herstellen, wenn keine Rezepte in der Warteschlange stehen."
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"
 msgid "Crafting Station"
-msgstr ""
+msgstr "Handwerksstation"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC"
 msgid "Outhouses keep Duplicants from getting down in the dumps.\nNot building any'd be a real waste!"
-msgstr ""
+msgstr "Toilettenhäuschen halten Duplikanten davon ab, in einer Müllhalde zu leben.\nKeine zu bauen wäre eine echte Verschwendung!"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT"
@@ -2595,22 +2596,22 @@ msgstr "Kühlschrank"
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC"
 msgid "Duplicants' first chemistry set."
-msgstr ""
+msgstr "Duplikant's erstes Chemie-Set."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT"
 msgid "Can be worked by Duplicants to conduct <style=\"research\">Novice Research</style> and unlock new technologies."
-msgstr ""
+msgstr "Kann von Duplikanten verwendet werden, um <style=\"research\">Novice Research</style> zu vermitteln und neue Technologien freizuschalten."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
 msgid "Research Station"
-msgstr ""
+msgstr "Forschungsstation"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Sculpture"
-msgstr ""
+msgstr "Mittelmäßige Skulptur"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC"
@@ -2650,12 +2651,12 @@ msgstr "Dusche"
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.DESC"
 msgid "Whoever smelt it, dealt it!\nOh, goodness, that was a vulgar crack."
-msgstr ""
+msgstr "Wer es roch, hat es erschaffen!\nOh, Güte, das war ein vulgärer spruch."
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT"
 msgid "Converts <style=\"RawMetal\">Raw Metal</style> into <style=\"RefinedMetal\">Refined Metal</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "Konvertiert <style=\"RawMetal\">Rohmetall</style> in <style=\"RefinedMetal\">Raffiniertes Metall</style>.\n\nDuplikanten werden nichts herstellen, wenn keine Rezepte in der Warteschlange stehen."
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.NAME"
@@ -2665,7 +2666,7 @@ msgstr "Schmelzofen"
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC"
 msgid "Stave off frostbite with this heartwarming doodad.\n(Warms other body parts too!)"
-msgstr ""
+msgstr "Stave off frostbite with this heartwarming doodad.\n(Wärmt andere Körper auch!)"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT"
@@ -3325,6 +3326,7 @@ msgstr "Kühle Umgebung"
 #. STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP"
 msgid "This creature cannot retain enough heat in this environment to regulate its internal temperature.\n\nIt prefers environments between {0} and {1}."
+msgstr "Diese Kreatur kann in dieser Umgebung nicht genug Wärme speichern, um ihre Eigentemperatur zu halten.\n\nSie bevorzugt Temperaturen zwischen {0} und {1}."
 
 #. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME"
@@ -3514,6 +3516,7 @@ msgstr "Heiße Umgebung"
 #. STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP"
 msgid "This creature cannot let off enough heat in this environment to regulate its internal temperature.\n\nIt prefers environments between {0} and {1}."
+msgstr "Diese Kreatur kann in dieser Umgebung nicht genug Wärme abgeben, um ihre Eigentemperatur zu halten.\n\nSie bevorzugt Temperaturen zwischen {0} und {1}."
 
 #. STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME"
