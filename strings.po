@@ -25,7 +25,7 @@ msgstr "Einige Duplikanten ist es verboten, diese Tür durch die aktuellen Zugan
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME"
 msgid "Access Control Offline"
-msgstr "Zugriffskontrolle Offline"
+msgstr "Zugriffskontrolle offline"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP"
@@ -140,7 +140,7 @@ msgstr "Minimale Temperatur erreicht"
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP"
 msgid "This building cannot cool the surrounding environment below {0}"
-msgstr "Dieses Gebäude kann die Umgebung nicht unter {0} kühlen"
+msgstr "Dieses Objekt kann die Umgebung nicht unter {0} kühlen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
@@ -390,7 +390,7 @@ msgstr "Kaboom!"
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.NAME"
 msgid "Unarmed"
-msgstr "gesichert"
+msgstr "Gesichert"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.TOOLTIP"
@@ -545,7 +545,7 @@ msgstr "Maximale Temperatur erreicht"
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDHOTENV.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDHOTENV.TOOLTIP"
 msgid "This building cannot heat the surrounding environment beyond {0}"
-msgstr "Dieses Objekt  kann die Umgebung nicht über {0} erwärmen"
+msgstr "Dieses Objekt kann die Umgebung nicht über {0} erwärmen"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.NAME"
@@ -1045,7 +1045,7 @@ msgstr "Die Konstruktion ist nicht mit einem Stromnetz verbunden"
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING"
 msgid "Exhaust produced"
-msgstr "Abgase Produziert"
+msgstr "Abgase produziert"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
@@ -1865,12 +1865,12 @@ msgstr "Was deines ist, ist abgebaut, was abgebaut ist, ist dein."
 #. STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.EFFECT"
 msgid "Fractures and destroys unmined resources with an explosive shockwave.\n\nShockwaves travel further through hard substances."
-msgstr "Bricht und zerstört nicht abgebaute Ressourcen mit einer explosiven Schockwelle.\n\nSchockwellen werden durch harte Substanzen weiter übertragen."
+msgstr "Zricht und zerstört nicht abgebaute Ressourcen mit einer explosiven Schockwelle.\n\nSchockwellen werden durch harte Substanzen weiter übertragen."
 
 #. STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.NAME"
 msgid "Mining Mine"
-msgstr "Bergbau Mine"
+msgstr "Bergbau-Mine"
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC"
@@ -2256,7 +2256,7 @@ msgstr "Mit dieser einfachen, luftdichten Rohrleitung leicht transportieren."
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT"
 msgid "Transports <style=\"liquid\">Liquid</style> between building <style=\"LiquidPiping\">Intakes</style> and <style=\"LiquidPiping\">Outputs</style>.\n\nCan be run through Tile."
-msgstr "Transportiert <style=\"liquid\">Flüssigkeiten</style> zwischen Machinen <style=\"LiquidPiping\">Eingang</style> and <style=\"LiquidPiping\">Ausgang</style>.\n\nKann in Ziegeln verlegt werden."
+msgstr "Transportiert <style=\"liquid\">Flüssigkeiten</style> zwischen Maschinen-<style=\"LiquidPiping\">Eingang</style> und -<style=\"LiquidPiping\">Ausgang</style>.\n\nKann in Ziegeln verlegt werden."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME"
@@ -2286,12 +2286,12 @@ msgstr "Es ist fast wie eine echte Brise.\nWie erfrischend!"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.EFFECT"
 msgid "Dissipates a small amount of the <style=\"heat\">Heat</style>."
-msgstr "Verteilt eine kleine Menge der <style =\"heat\">Wärme </style>."
+msgstr "Führt eine kleine Menge <style =\"heat\">Wärme</style> ab."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME"
 msgid "Hydrofan"
-msgstr ""
+msgstr "Hydrolüfter"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC"
@@ -2301,7 +2301,7 @@ msgstr "Jemals versucht, Flüssigkeiten mit deinen bloßen Händen zu trennen?\n
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.EFFECT"
 msgid "Sieves the selected <style=\"liquid\">Liquid</style> out of a liquid mixture, sending it into a separate <style=\"LiquidPiping\">Pipe</style>."
-msgstr "Filtert  die ausgewählte <style=\"liquid\">Flüssigkeit</style> aus einer Mischung und sendet sie in eine separates <style=\"LiquidPiping\">Rohr</style>."
+msgstr "Filtert die ausgewählte <style=\"liquid\">Flüssigkeit</style> aus einer Mischung und sendet sie in ein separates <style=\"LiquidPiping\">Rohr</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME"
@@ -2316,7 +2316,7 @@ msgstr "Genau die richtige Temperatur für eine schöne, heiße Dusche."
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.EFFECT"
 msgid "Marginally <style=\"heat\">Warms</style> large bodies of <style=\"liquid\">Liquid</style>.\n\nMust be fully submerged."
-msgstr "<style=\"heat\">Erwärmt</style> geringfügig große mengen <style=\"liquid\">Flüssigkeit</style>.\n\nMuss vollständig untergetaucht sein."
+msgstr "<style=\"heat\">Erwärmt</style> große Mengen <style=\"liquid\">Flüssigkeit</style> geringfügig.\n\nMuss vollständig untergetaucht sein."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME"
@@ -2341,12 +2341,12 @@ msgstr "Flüssig-Pumpe"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC"
 msgid "Store your colony's liquids for those not-so-rainy days."
-msgstr "Lagern Sie die Flüssigkeiten Ihrer Kolonie für die nicht-regnerischen Tage."
+msgstr "Lagere die Flüssigkeiten deiner Kolonie für die nicht-so-regnerischen Tage."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT"
 msgid "Manually accepts <style=\"liquid\">Liquid</style> and moves it through the connected <style=\"LiquidPiping\">Pipe</style>."
-msgstr "Akzeptiert  <style=\"liquid\">Flüssigkeiten</style> und bewegt sie durch das angeschlossene <style=\"LiquidPiping\">Rohr</style>"
+msgstr "Akzeptiert <style=\"liquid\">Flüssigkeiten</style> und bewegt sie durch das angeschlossene <style=\"LiquidPiping\">Rohr</style>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.NAME"
@@ -2511,7 +2511,7 @@ msgstr "Mach deine Duplikanten schneller, stärker ... besser!"
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT"
 msgid "Uses <style=\"RawMetal\">Raw Metal</style> or <style=\"RefinedMetal\">Refined Metal</style> to craft <style=\"equipment\">Multitools</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Verwendet<style=\"RawMetal\">Rohmetalle</style> oder <style=\"RefinedMetal\">Raffinierte Metalle</style> um <style=\"equipment\">Multitools</style> herzustellen.\n\\\nDuplikanten werden nichts herstellen, wenn keine Rezepte in der Warteschlange stehen."
+msgstr "Verwendet <style=\"RawMetal\">Rohmetalle</style> oder <style=\"RefinedMetal\">raffinierte Metalle</style> um <style=\"equipment\">Multitools</style> herzustellen.\n\\\nDuplikanten werden nichts herstellen, wenn keine Rezepte in der Warteschlange stehen."
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"
@@ -2556,7 +2556,7 @@ msgstr "Gibt es etwas spannenderes als die Automatisierung von manuellen Prozess
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT"
 msgid "Creates an airtight seal that maintains atmosphere and pressure between areas.\n\nFunctions as a Manual Airlock when no <style=\"power\">Power</style> is available."
-msgstr "Erzeugt eine luftdichte Abdichtung, die die Atmosphäre und den Druck zwischen den Bereichen trennt.\n\nFunktionen als manuelle Luftschleuse, wenn kein <style=\"power\">Strom</style> verfügbar ist."
+msgstr "Erzeugt eine luftdichte Abdichtung, die die Atmosphäre und den Druck zwischen den Bereichen trennt.\n\nFunktioniert als manuelle Luftschleuse, wenn kein <style=\"power\">Strom</style> verfügbar ist."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
@@ -2596,12 +2596,12 @@ msgstr "Kühlschrank"
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC"
 msgid "Duplicants' first chemistry set."
-msgstr "Duplikant's erstes Chemie-Set."
+msgstr "Das erste Chemieset der Duplikanten."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT"
 msgid "Can be worked by Duplicants to conduct <style=\"research\">Novice Research</style> and unlock new technologies."
-msgstr "Kann von Duplikanten verwendet werden, um <style=\"research\">Novice Research</style> zu vermitteln und neue Technologien freizuschalten."
+msgstr "Kann von Duplikanten verwendet werden, um <style=\"research\">Novizenforschung</style> durchzuführen und neue Technologien freizuschalten."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
@@ -2651,7 +2651,7 @@ msgstr "Dusche"
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.DESC"
 msgid "Whoever smelt it, dealt it!\nOh, goodness, that was a vulgar crack."
-msgstr "Wer es roch, hat es erschaffen!\nOh, Güte, das war ein vulgärer spruch."
+msgstr "Wer es zuerst riecht, war es auch!\nOh Gott, war das ein vulgärer Spruch."
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT"
@@ -2666,7 +2666,7 @@ msgstr "Schmelzofen"
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC"
 msgid "Stave off frostbite with this heartwarming doodad.\n(Warms other body parts too!)"
-msgstr "Stave off frostbite with this heartwarming doodad.\n(Wärmt andere Körper auch!)"
+msgstr "Vertreibe Frostbeulen mit diesem herzerwärmenden Dingsbums.\n(Wärmt auch andere Körperteile!)"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT"
@@ -3891,7 +3891,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME"
 msgid "Meltdown Temperature"
-msgstr ""
+msgstr "Schmelztemperatur"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC"
@@ -3916,7 +3916,7 @@ msgstr "Die Isolierung gibt Auskunft über die Auswirkung von Umgebungstemperatu
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME"
 msgid "Insulation"
-msgstr ""
+msgstr "Isolierung"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME"
@@ -3931,7 +3931,7 @@ msgstr "$value% Temperaturspeicherung"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
 msgid "The Learning attribute determines a Duplicant's skill training and <style=\"research\">Research</style> effectiveness."
-msgstr "Lernen beeinflusst wie Schnell der Duplikant Fertigkeiten erlernt und wie effektiv er beim <style=\"research\">Forschen</style> ist."
+msgstr "Lernen beeinflusst wie schnell der Duplikant Fertigkeiten erlernt und wie effektiv er beim <style=\"research\">Forschen</style> ist."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
@@ -4016,7 +4016,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME"
 msgid "Overheat Temperature"
-msgstr ""
+msgstr "Überhitzungstemperatur"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
@@ -4241,7 +4241,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
 msgid "Work research stations to unlock new technologies."
-msgstr ""
+msgstr "Arbeite an Forschungsstationen um neue Technologien freizuschalten."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME"
@@ -11056,12 +11056,12 @@ msgstr ""
 #. STRINGS.RESEARCH.TYPES.ALPHA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
 msgid "<style=\"research\">Novice Research</style> is required to unlock basic technologies.\nIt can be conducted at a <style=\"research\">Research Station</style>."
-msgstr ""
+msgstr "<style=\"research\">Novizenforschung</style> wird für die Freischaltung von Basis-Technologien benötigt.\nSie wird an einer <style=\"research\">Forschungsstation</style> durchgeführt."
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
 msgid "Novice Research"
-msgstr ""
+msgstr "Novizenforschung"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC"
@@ -12496,22 +12496,22 @@ msgstr "Zeige Abschlussbericht für Zyklus {0}"
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME"
 msgid "<style=\"oxygen\">Oxygen</style> Generation:"
-msgstr "<style=\"oxygen\">Sauerstoff</style> Produktion:"
+msgstr "<style=\"oxygen\">Sauerstoff</style>-Produktion:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "Deine Kolonie hat heute {0} <style=\"oxygen\">Sauerstoff</style> verbraucht"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony generated {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "Deine Kolonie hat heute {0} <style=\"oxygen\">Sauerstoff</style> erzeugt"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
 msgid "Prev"
-msgstr "vorheriger"
+msgstr "Vorheriger"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
@@ -12541,22 +12541,22 @@ msgstr "Der gesamte <style=\"stress\">Stress</style> deiner Kolonie wurde um {0}
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME"
 msgid "Restroom Accidents:"
-msgstr ""
+msgstr "Toiletteunfälle:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP"
 msgid "{0} Duplicants didn't quite reach the toilet in time today"
-msgstr ""
+msgstr "{0} Duplikanten haben es nicht mehr ganz zur Toilette geschafft"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME"
 msgid "Travel Time:"
-msgstr ""
+msgstr "Reisezeit:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} traveling over the course of the day"
-msgstr ""
+msgstr "Deine Duplikanten sind heute insgesamt {0} durch die Gegend gelaufen"
 
 #. STRINGS.UI.EQUIPMENTTAB_HELD
 msgctxt "STRINGS.UI.EQUIPMENTTAB_HELD"
@@ -14830,12 +14830,12 @@ msgstr "Zeigt Umgebungstemperatur"
 #. STRINGS.UI.TOOLTIPS.TOOLTIP_SEPERATOR
 msgctxt "STRINGS.UI.TOOLTIPS.TOOLTIP_SEPERATOR"
 msgid "\n----------\n"
-msgstr ""
+msgstr "\n----------\n"
 
 #. STRINGS.UI.TOOLTIPS.TRASHREGIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.TRASHREGIONBUTTON"
 msgid "Drag to create storage regions for materials"
-msgstr ""
+msgstr "Ziehe um Lagerregionen für Material zu erzeugen"
 
 #. STRINGS.UI.TOOLTIPS.UNPAUSE
 msgctxt "STRINGS.UI.TOOLTIPS.UNPAUSE"
@@ -14855,62 +14855,62 @@ msgstr "Standard"
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_DISABLED"
 msgid "Passing Left through this door is not permitted\n\nClick to grant permission"
-msgstr ""
+msgstr "Nach links durch diese Tür zu gehen ist nicht gestattet\n\nKlicke um Zugang zu gewähren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_ENABLED"
 msgid "Passing Left through this door is permitted\n\nClick to revoke permission"
-msgstr ""
+msgstr "Nach links durch diese Tür zu gehen ist gestattet\n\nKlicke um Zugang zu verwehren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED"
 msgid "Passing Right through this door is not permitted\n\nClick to grant permission"
-msgstr ""
+msgstr "Nach rechts durch diese Tür zu gehen ist nicht gestattet\n\nKlicke um Zugang zu gewähren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED"
 msgid "Passing Right through this door is permitted\n\nClick to revoke permission"
-msgstr ""
+msgstr "Nach rechts durch diese Tür zu gehen ist gestattet\n\nKlicke um Zugang zu verwehren"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS"
 msgid "Duplicant Access Permissions"
-msgstr ""
+msgstr "Duplikanten-Zugangsrechte"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_CUSTOM
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_CUSTOM"
 msgid "Click to assign custom permissions"
-msgstr ""
+msgstr "Klicken um eigene Berechtigungen zu setzen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_DEFAULT
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_DEFAULT"
 msgid "Click to clear custom permissions"
-msgstr ""
+msgstr "Klicken um eigene Berechtigungen zu löschen"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.TITLE"
 msgid "Door Access Control"
-msgstr ""
+msgstr "Türzugriffskontrolle"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.USING_CUSTOM
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.USING_CUSTOM"
 msgid "Custom Access"
-msgstr ""
+msgstr "Eigene Rechte"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.USING_DEFAULT
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.USING_DEFAULT"
 msgid "Default Access"
-msgstr ""
+msgstr "Standard-Rechte"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO"
 msgid "Assigned to: {0}"
-msgstr ""
+msgstr "Zugewiesen an: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.GENERAL_CURRENTASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.GENERAL_CURRENTASSIGNED"
 msgid "(Owner)"
-msgstr ""
+msgstr "(Besitzer)"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGION
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGION"
@@ -14940,37 +14940,37 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE"
 msgid "Emergency Access Permissions:\nAll Duplicants are permitted to use this door until <style=\"power\">Power</style> is restored."
-msgstr ""
+msgstr "Notfall-Zugangsberechtigungen:\nAlle Duplikanten können diese Tür verwenden, bis die <style=\"power\">Stromversorgung</style> wieder hergestellt ist."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO"
 msgid "Door is automated."
-msgstr ""
+msgstr "Tür automatisiert."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING"
 msgid "Awaiting Duplicant to automate door."
-msgstr ""
+msgstr "Warte auf Duplikant für Automatisierung."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE"
 msgid "Door is locked shut."
-msgstr ""
+msgstr "Tür ist abgeschlossen."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING"
 msgid "Awaiting Duplicant to lock door."
-msgstr ""
+msgstr "Warte auf Duplikant zum Abschließen der Tür."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN"
 msgid "Door is open."
-msgstr ""
+msgstr "Tür ist offen."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING"
 msgid "Awaiting Duplicant to open door."
-msgstr ""
+msgstr "Warte auf Duplikant zum Öffnen der Tür."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.PENDING_FORMAT
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.PENDING_FORMAT"
@@ -14980,7 +14980,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.TITLE"
 msgid "Door Toggle"
-msgstr ""
+msgstr "Türschalter"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.CURRENTLY_EQUIPPED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.CURRENTLY_EQUIPPED"
@@ -15040,7 +15040,7 @@ msgstr "Abbrechen"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.COST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.COST"
 msgid "<b>Ingredients:</b>\n"
-msgstr ""
+msgstr "<b>Zutaten:</b>\n"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.COOL_VEST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.COOL_VEST"
@@ -15075,7 +15075,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "INFORMATOIN"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG"
@@ -15095,7 +15095,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS"
 msgid "<b>Effects:</b>"
-msgstr "<b>Effekte::</b>"
+msgstr "<b>Effekte:</b>"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.SELECTRECIPE
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.SELECTRECIPE"
@@ -15110,42 +15110,42 @@ msgstr "{0} Rezepte"
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS"
 msgid "Filtered Gas Output:\n{0}"
-msgstr ""
+msgstr "Gefilterte Gasausgabe:\n{0}"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.LIQUID
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.LIQUID"
 msgid "Filtered Liquid Output:\n{0}"
-msgstr ""
+msgstr "Gefilterte Flüssigkeitsausgabe:\n{0}"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.NOELEMENTSELECTED
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.NOELEMENTSELECTED"
 msgid "No element selected"
-msgstr ""
+msgstr "Kein Element ausgewählt"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.SELECTELEMENTHEADER
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.SELECTELEMENTHEADER"
 msgid "Select Element"
-msgstr ""
+msgstr "Element auswählen"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.TITLE"
 msgid "Filter Outputs"
-msgstr ""
+msgstr "Filter-Ausgaben"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.GAS
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.GAS"
 msgid "Gas Output:\nAll"
-msgstr ""
+msgstr "Gas-Ausgabe:\nAlle"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.LIQUID
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.LIQUID"
 msgid "Liquid Output:\nAll"
-msgstr ""
+msgstr "Flüssigkeits-Ausgabe:\nAlle"
 
 #. STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.CURRENT_THRESHOLD
 msgctxt "STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.CURRENT_THRESHOLD"
 msgid "Current Threshold: {0}%"
-msgstr "Aktueller Schwellenwert"
+msgstr "Aktueller Schwellenwert: {0}%"
 
 #. STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TITLE"
@@ -15155,7 +15155,7 @@ msgstr "Batterie-Ladeschwelle"
 #. STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TOOLTIP"
 msgid "Duplicants will operate this generator when battery charge falls below the selected percentage"
-msgstr ""
+msgstr "Duplikanten bedienen diesen Generator, wenn die Batterieladung unter den ausgewählten Prozentwert fällt"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NUMBEROFHARVESTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NUMBEROFHARVESTS"
@@ -15210,12 +15210,12 @@ msgstr "KEINE FORSCHUNG AUSGEWÄHLT"
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON"
 msgid "Open Research"
-msgstr ""
+msgstr "Forschung öffnen"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE"
 msgid "Research Station"
-msgstr ""
+msgstr "Forschungsstation"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGDELIVERY
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGDELIVERY"
@@ -15250,7 +15250,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.GAMEOVER
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.GAMEOVER"
 msgid "Colony Lost"
-msgstr ""
+msgstr "Kolonie verloren"
 
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.NEXTPRODUCTION
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.NEXTPRODUCTION"
@@ -15260,12 +15260,12 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.TITLE"
 msgid "Duplicant Printing"
-msgstr ""
+msgstr "Duplikanten drucken"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.ACTIVATE_IF
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.ACTIVATE_IF"
 msgid "Activate if:"
-msgstr ""
+msgstr "Aktiv wenn:"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.COLDER_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.COLDER_BUTTON"
