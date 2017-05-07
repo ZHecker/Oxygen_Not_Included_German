@@ -1534,8 +1534,8 @@ msgstr "Um ehrlich zu sein, die destillierten Algen sehen noch immer sehr schlei
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
-msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>."
-msgstr "Wandelt <style=\"misc\">Schleim</style> in <style=\"misc\">Algen</style> um."
+msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>.\nDrops algae every 10kg."
+msgstr "Wandelt <style=\"misc\">Schleim</style> in <style=\"misc\">Algen</style> um.\nLässt alle 10Kg Algen fallen."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
@@ -1875,7 +1875,7 @@ msgstr "Bergbau-Mine"
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC"
 msgid "Shag rugs are out. Farm floors are all the rage now!"
-msgstr ""
+msgstr "Shag rugs sind out. Farm Etagen sind der letzte Schrei jetzt!"
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT"
@@ -1894,8 +1894,8 @@ msgstr "Atme nicht so tief ein."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT"
-msgid "Uses <style=\"liquid\">Polluted Water</style> to produce <style=\"solid\">Fertilizer</style>."
-msgstr "Verbraucht <style=\"liquid\">Verschmutztes Wasser</style> um <style=\"solid\">Dünger</style> herzustellen."
+msgid "Uses <style=\"liquid\">Polluted Water</style> to produce <style=\"solid\">Fertilizer</style>.\nDrops fertilizer every 10kg."
+msgstr "Verbraucht <style=\"liquid\">Verschmutztes Wasser</style> um <style=\"solid\">Dünger</style> herzustellen.\\lässt alle 10kg Dünger fallen."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
@@ -2525,7 +2525,7 @@ msgstr "Toilettenhäuschen halten Duplikanten davon ab, in einer Müllhalde zu l
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT"
-msgid "Reduces <style=\"stress\">Stress</style> and the spread of <style=\"disease\">Disease</style> by regulating where Duplicants relieve themselves.\n\nRequires no <style=\"GasPiping\">Piping</style>.\n\nMust be periodically emptied of <style=\"solid\">Poluted Dirt</style> periodically."
+msgid "Reduces <style=\"stress\">Stress</style> and the spread of <style=\"disease\">Disease</style> by regulating where Duplicants relieve themselves.\n\nRequires no <style=\"GasPiping\">Piping</style>.\n\nMust be periodically emptied of <style=\"solid\">Poluted Dirt</style>."
 msgstr "Reduziert <style=\"stress\">Stress</style> und die Verbreitung von <style=\"disease\">Krankheiten</style>, indem du bestimmst, wo sich Duplikanten erleichtern.\n\nErfordert keine <style=\"GasPiping\">Rohrleitungen</style>.\n\nMuss regelmäßig von <style=\"solid\">Verschmutzter Erde</style> befreit werden."
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME
@@ -2696,12 +2696,12 @@ msgstr "Lager-Verdichter"
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
 msgid "Exosuits allow Duplicants to breathe in the harshest of environments.\nThey're also flatteringly form-fitting."
-msgstr ""
+msgstr "Exosuits erlauben Duplikanten, in den härtesten Umgebungen zu atmen.\nSie sind auch schmeichelhaft formschlüssig."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT"
 msgid "Uses <style=\"RawMetal\">Raw Metal</style> or <style=\"RefinedMetal\">Refined Metal</style> to craft protective <style=\"equipment\">Exosuits</style> for Duplicants.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "Verwendet <style=\"RawMetal\">Roh Metall</style> oder <style = \"RefinedMetal\"> Raffiniertes Metall </ style> um schützende <style=\"equipment\">Exosuits</style> für Duplikanten herzustellen.\n\nDuplikanten werden nichts herstellen, wenn Rezepte keine in der Warteschlange stehen."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME"
@@ -2716,12 +2716,12 @@ msgstr "Halte die Exosuits deiner Kolonie tiptop in schuss mit der Sauerstoff Na
 #. STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.EFFECT"
 msgid "Refills a depleted <style=\"equipment\">Exosuit</style> with <style=\"oxygen\">Oxygen</style>."
-msgstr ""
+msgstr "Füllt ein leeren <style=\"equipment\">Exosuit</style> mit <style=\"oxygen\">Oxygen</style> nach."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.NAME"
 msgid "Exosuit Recharger"
-msgstr ""
+msgstr "Exosuit Ladestation"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.DESC"
@@ -2781,7 +2781,7 @@ msgstr "Ziegel"
 #. STRINGS.BUILDINGS.PREFABS.WALLLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIGHT.DESC"
 msgid "The light helps imitate the Duplicants' natural aboveground habitat.\nSort of. Maybe."
-msgstr ""
+msgstr "Das Licht hilft, den natürlichen oberirdischen Lebensraum der Duplikanten nachzuahmen.\nirgendwie. Vielleicht."
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIGHT.EFFECT"
@@ -2896,22 +2896,23 @@ msgstr "Keuchwurz"
 #. STRINGS.CREATURES.SPECIES.FLUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.FLUT.DESC"
 msgid "A naturally friendly and easily outsmarted aquatic prey species.\n\nEvery organism in the known universe finds the Pacu extremely delicious."
-msgstr ""
+msgstr "Eine natürlich freundliche und leicht überlistete aquatische Beute.\n\nJeder Organismus im bekannten Universum findet den Pacu sehr lecker"
 
+# Südamerikanische Fischart
 #. STRINGS.CREATURES.SPECIES.FLUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.FLUT.NAME"
 msgid "Pacu"
-msgstr ""
+msgstr "Pacu"
 
 #. STRINGS.CREATURES.SPECIES.FLUTEGG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.FLUTEGG.DESC"
 msgid "A tiny Pacu is nestled inside.\n\nIt is not yet ready for the world."
-msgstr ""
+msgstr "Ein kleiner Pacu ist innen eingebettet.\n\nEs ist noch nicht bereit für die Welt."
 
 #. STRINGS.CREATURES.SPECIES.FLUTEGG.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.FLUTEGG.NAME"
 msgid "Pacu Egg"
-msgstr ""
+msgstr "Pacu Ei"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.DESC"
@@ -2926,82 +2927,82 @@ msgstr "Geysir"
 #. STRINGS.CREATURES.SPECIES.GLOM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.DESC"
 msgid "An agile, <style=\"disease\">Disease</style>-ridden invertebrate.\n\nIt is attracted to the decomposing carcasses of deceased organisms and frequently emits small bursts of <style=\"gas\">Polluted Oxygen</style>."
-msgstr ""
+msgstr "Eine agile, <style=\"disease\">Disease</style>-heimgesuchtes wirbelloses wesen.\n\nEs wird von den zersetzenden sich Körpern von verstorbenen Organismen angezogen und gibt häufig kleine Wölkchen von <style=\"gas\">Verschmutzter Luft</style> ab."
 
 #. STRINGS.CREATURES.SPECIES.GLOM.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.NAME"
 msgid "Morb"
-msgstr ""
+msgstr "Morb"
 
 #. STRINGS.CREATURES.SPECIES.GREEDYGREEN.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GREEDYGREEN.DESC"
 msgid "A rapidly growing, subterranean <style=\"plant\">Plant</style>."
-msgstr ""
+msgstr "Eine schnell wachsende, unterirdische <style=\"plant\">Pflanze</style>."
 
 #. STRINGS.CREATURES.SPECIES.GREEDYGREEN.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GREEDYGREEN.NAME"
 msgid "Avari Vine"
-msgstr ""
+msgstr "Avari Rebe"
 
 #. STRINGS.CREATURES.SPECIES.GRONEHOG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GRONEHOG.DESC"
 msgid "A skittish mammalian creature.\n\nIt moves in herds for safety."
-msgstr ""
+msgstr "Ein unruhiges Säugetier.\n\nEs bewegt sich zur Sicherheit in Herden."
 
 #. STRINGS.CREATURES.SPECIES.GRONEHOG.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GRONEHOG.NAME"
 msgid "Volgus"
-msgstr ""
+msgstr "Volgus"
 
 #. STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.DESC"
 msgid "The communal nesting ground of a Volgus herd."
-msgstr ""
+msgstr "Der gemeinschaftliche Nestboden einer Volgus Herde."
 
 #. STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.NAME"
 msgid "Volgus Den"
-msgstr ""
+msgstr "Volgus Höhle"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.DESC"
 msgid "A nocturnal scavenging creature.\n\nIt will consume any minerals within reach that fit into its wide mouth.\n\nDigging up Buried Objects may release a Hatch."
-msgstr ""
+msgstr "Eine nächtliche, fressende Kreatur.\n\nEs wird jegliche Mineralien in Reichweite essen, die in den breiten Mund passen.\n\nDas Ausgraben von vergrabenen Objekten kann einen Hatch freigeben."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.NAME"
 msgid "Hatch"
-msgstr ""
+msgstr "Hatch"
 
 #. STRINGS.CREATURES.SPECIES.HAUNT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HAUNT.DESC"
 msgid "An uncanny being that sprinkles dark thoughts on Duplicants at night. Fears <style=\"light\">Light</style>, craves shadow."
-msgstr ""
+msgstr "Ein unheimliches Wesen, das nachts den Duplikanten Alpträume verursacht. Fürchtet licht <style=\"light\">Licht</style> sehnt sich nach Schatten."
 
 #. STRINGS.CREATURES.SPECIES.HAUNT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HAUNT.NAME"
 msgid "Haunt"
-msgstr ""
+msgstr "Haunt"
 
 #. STRINGS.CREATURES.SPECIES.HEATBULB.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HEATBULB.DESC"
 msgid "A temperature reactive, subterranean <style=\"plant\">Plant</style>."
-msgstr ""
+msgstr "Eine temperaturreaktive, unterirdische <style=\"plant\">Pflanze</style>."
 
 #. STRINGS.CREATURES.SPECIES.HEATBULB.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HEATBULB.NAME"
 msgid "Fervine"
-msgstr ""
+msgstr "Fervine"
 
 #. STRINGS.CREATURES.SPECIES.HEATBULBSEED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HEATBULBSEED.DESC"
 msgid "A temperature reactive, subterranean <style=\"plant\">Plant</style>."
-msgstr ""
+msgstr "Eine temperaturreaktive, unterirdische <style=\"plant\">Pflanze</style>."
 
 #. STRINGS.CREATURES.SPECIES.HEATBULBSEED.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HEATBULBSEED.NAME"
 msgid "Fervine Bulb"
-msgstr ""
+msgstr "Fervine Birne"
 
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC"
@@ -3016,7 +3017,7 @@ msgstr "Eine große, in Chlor-Beheimatete <style=\"plant\">Pflanze</style>, die 
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.NAME"
 msgid "Palmera Tree"
-msgstr ""
+msgstr "Palmera Baum"
 
 #. STRINGS.CREATURES.SPECIES.MYSTERYEGG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.MYSTERYEGG.DESC"
@@ -3031,12 +3032,12 @@ msgstr "Myteriöses Ei"
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILSPOUT.DESC"
 msgid "A rocky vent that spouts crude oil."
-msgstr ""
+msgstr "Ein felsiges Loch, das Rohöl ausspuckt."
 
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILSPOUT.NAME"
 msgid "Oil Spout"
-msgstr ""
+msgstr "Ölquelle"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
@@ -3071,22 +3072,22 @@ msgstr "Dornenstrauch"
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC"
 msgid "A rocky vent that spouts <style=\"gas\">Propane</style>."
-msgstr ""
+msgstr "Ein felsiges Loch, das <style=\"gas\">Propan</style> ausstößt."
 
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME"
 msgid "Propane Spout"
-msgstr ""
+msgstr "Propan Quelle"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.DESC"
 msgid "An extremely buoyant, non-aggressive species.\n\nThe Puft rids itself of excess pathogens by excreting lumps of <style=\"solid\">Slime</style> with each breath."
-msgstr ""
+msgstr "Eine äußerst lebhafte, nicht aggressive Art.\n\nDer Puft befreit sich von überschüssigen Krankheitserregern, indem er mit jedem Atemzug Klumpen von <style=\"solid\">Schleim</style ausgibt."
 
 #. STRINGS.CREATURES.SPECIES.PUFT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.NAME"
 msgid "Puft"
-msgstr ""
+msgstr "Puft"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.DESC"
@@ -3121,12 +3122,12 @@ msgstr "Keuchwurz-Samen"
 #. STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Palmera Tree</style>.\n\nDigging up Buried Objects may uncover a Palmera Seed."
-msgstr ""
+msgstr "Der <style=\"seed\">Samen</style> von einem <style=\"plant\">Palmera Baum</style>.\n\nDas Ausgraben von vergrabenen Gegenständen kann Palmera-Saatgut aufdecken."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.NAME"
 msgid "Palmera Seed"
-msgstr ""
+msgstr "Palmera Samen"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC"
@@ -3151,47 +3152,47 @@ msgstr "Strauchsamen"
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Swamp Lily</style>.\n\nDigging up Buried Objects may uncover a Swamp Lily Seed."
-msgstr ""
+msgstr "Der  <style=\"seed\">Samen</style> von einer <style=\"plant\">Sumpflilie</style>.\n\nDas Ausgraben von vergrabenen Gegenständen kann  Sumpflilien Saatgut aufdecken."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME"
 msgid "Swamp Lily Seed"
-msgstr ""
+msgstr "Sumpflilien Samen"
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC"
 msgid "An exceptionally aggressive, insectoid species.\n\nIt has three specialized organs which discharge electrical shocks to stun prey."
-msgstr ""
+msgstr "Eine außergewöhnlich aggressive, Insektoide Art.\n\nEs hat drei spezialisierte Organe, die Elektroschocks abgeben, um Beute zu betäuben."
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.NAME"
 msgid "Shockworm"
-msgstr ""
+msgstr "Shockwurm"
 
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC"
 msgid "A rocky vent that spouts <style=\"gas\">Steam</style>."
-msgstr ""
+msgstr "Eine felsige Spalt, der <style =\"gas\">Dampf</style> ausstößt."
 
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME"
 msgid "Steam Spout"
-msgstr ""
+msgstr "Dampf Quelle"
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC"
 msgid "An elegant, warm climate <style=\"plant\">Plant</style> that can be grown domestically in Planter Boxes.\n\nIt produces long, fragrant leaves with natural medicinal properties."
-msgstr ""
+msgstr "Eine elegante, warm Klima <style =\"plant\">Pflanze</style> die in Pflanzkästen angebaut werden kann.\n\nSie produziert lange, duftende Blätter mit natürlichen medizinischen Eigenschaften."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC"
 msgid "An elegant, warm climate <style=\"plant\">Plant</style> that produces long, fragrant leaves with natural medicinal properties."
-msgstr ""
+msgstr "Eine elegante, warm Klima <style =\"plant\">Pflanze</style>, die lange, duftende Blätter mit natürlichen medizinischen Eigenschaften produziert."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME"
 msgid "Swamp Lily"
-msgstr ""
+msgstr "Sumpflilie"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER"
@@ -3251,22 +3252,22 @@ msgstr "Diese <style=\"plant\">Pflanze</style> wächst gerade nicht"
 #. STRINGS.CREATURES.STATS.ROT.NAME
 msgctxt "STRINGS.CREATURES.STATS.ROT.NAME"
 msgid "Freshness Percent"
-msgstr ""
+msgstr "Frische Prozent"
 
 #. STRINGS.CREATURES.STATS.ROT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.ROT.TOOLTIP"
 msgid "Freshness\n----------\n<style=\"food\">Food</style> items will become stale at fifty percent freshness, and will rot at zero percent"
-msgstr ""
+msgstr "Frische\n----------\n<style=\"food\">Nahrungs</style> Gegenstände werden bei fünfzig Prozent Frische alt und werden bei null Prozent verrotten"
 
 #. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME
 msgctxt "STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME"
 msgid "Thermal Conductivity"
-msgstr ""
+msgstr "Wärmeleitfähigkeit"
 
 #. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.TOOLTIP"
 msgid "The rate at which  <style=\"heat\">Heat</style> passes through this object (W/m)/K"
-msgstr ""
+msgstr "Die Rate, mit der <style=\"heat\">wärme</style> durch dieses Objekt übertragen wird (W/m)/K"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME"
@@ -3281,7 +3282,7 @@ msgstr "Diese Pflanze braucht einen Druck von mindestens {TargetPressure}"
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.NAME"
 msgid "Barren"
-msgstr ""
+msgstr "Unfruchtbar"
 
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP"
@@ -3331,7 +3332,7 @@ msgstr "Diese Kreatur kann in dieser Umgebung nicht genug Wärme speichern, um i
 #. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME"
 msgid "Tempted by lure"
-msgstr ""
+msgstr "Von Köder angezogen"
 
 #. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.TOOLTIP"
@@ -3341,12 +3342,12 @@ msgstr "Diese Kreatur versucht einen Köder in der nähe zu beißen"
 #. STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.NAME"
 msgid "Polluted Atmosphere"
-msgstr ""
+msgstr "Verschmutzte Atmosphäre"
 
 #. STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.TOOLTIP"
 msgid "Ambient conditions are accelerating this <style=\"food\">Food</style>'s rate of decay"
-msgstr ""
+msgstr "Umgebungsbedingungen beschleunigen die verfallsrate der <style=\"food\">Nahrung</style>"
 
 #. STRINGS.CREATURES.STATUSITEMS.COOLING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COOLING.NAME"
@@ -3381,7 +3382,7 @@ msgstr "Diese Kreatur verdaut eine große Mahlzeit"
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME"
 msgid "Drowning"
-msgstr ""
+msgstr "ertrinkt"
 
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP"
@@ -3391,12 +3392,12 @@ msgstr "Zu wenig Sauerstoff"
 #. STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME"
 msgid "Beached"
-msgstr ""
+msgstr "gestrandet"
 
 #. STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.TOOLTIP"
 msgid "This plant must be submerged in liquid to grow"
-msgstr ""
+msgstr "Diese Pflanze muss in Flüssigkeit eingetaucht sein, um zu wachsen"
 
 #. STRINGS.CREATURES.STATUSITEMS.EATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EATING.NAME"
@@ -3411,7 +3412,7 @@ msgstr "diese Kreatur findet etwas Lecker"
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
 msgid "Emerging"
-msgstr ""
+msgstr "Entstehenden"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP"
@@ -3431,17 +3432,17 @@ msgstr "Diese Kreatur ist vergraben und muss ausgegraben werden"
 #. STRINGS.CREATURES.STATUSITEMS.EXHALING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXHALING.NAME"
 msgid "Exhaling"
-msgstr ""
+msgstr "Ausatmen"
 
 #. STRINGS.CREATURES.STATUSITEMS.EXHALING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXHALING.TOOLTIP"
 msgid "Expelling gas from lungsac"
-msgstr ""
+msgstr "Ausatmen von Gas aus dem Lungensack"
 
 #. STRINGS.CREATURES.STATUSITEMS.FALLING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FALLING.NAME"
 msgid "Falling"
-msgstr ""
+msgstr "Fallen"
 
 #. STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP"
@@ -3451,7 +3452,7 @@ msgstr "Diese Kreatur befindet sich im Freien fall"
 #. STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME"
 msgid "Fleeing"
-msgstr ""
+msgstr "Fliehen"
 
 #. STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP"
@@ -3461,7 +3462,7 @@ msgstr "diese Kreatur versucht zu fliehen\nSchnapp sie!"
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.NAME"
 msgid "Fresh {RotPercentage}"
-msgstr ""
+msgstr "Frisch  {RotPercentage}"
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP"
@@ -3585,8 +3586,8 @@ msgstr "Benötigt Dünger"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP"
-msgid "This <style=\"plant\">Plant</style> needs additional nutrients to grow"
-msgstr "Diese <style=\"plant\">Pflanze</style> braucht zusätzliche Nährstoffe  umzu wachsen"
+msgid "This plant needs additional nutrients to grow"
+msgstr "Diese Pflanze braucht zusätzliche Nährstoffe  umzu wachsen"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
@@ -3666,12 +3667,12 @@ msgstr "Sterile Atmosphäre"
 #. STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.TOOLTIP"
 msgid "Ambient conditions are preventing this <style=\"food\">Food</style>'s from decaying"
-msgstr ""
+msgstr "Umgebungsbedingungen verhindern, dass diese <style=\"food\">Nahrung</style> verdirbt"
 
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME"
 msgid "Struggling"
-msgstr ""
+msgstr "abmühen"
 
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP"
@@ -3886,7 +3887,7 @@ msgstr "$value% Abbaugeschwindigkeit"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC"
 msgid "A building at Meltdown <style=\"heat\">Temperature</style> will lose functionality and require repairs"
-msgstr ""
+msgstr "Ein Gebäude bei Schmelz<style =\"heat\">Temperatur</style> verliert seine Funktionalität und erfordert Reparaturen"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME"
@@ -4011,7 +4012,7 @@ msgstr "$value% Krankheitsresistentz"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC"
 msgid "A building at Overheat <style=\"heat\">Temperature</style> will begin taking damage and will meltdown if not cooled"
-msgstr ""
+msgstr "Ein Objekt bei Überhitzungs<style =\"heat\">temperatur</style> wird anfangen, Schaden zu nehmen und schmelzen, wenn es nicht gekühlt wird"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME"
@@ -4026,12 +4027,12 @@ msgstr "Dieser Duplikant ist am erfahrensten in: {0}"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.DESC"
 msgid "The Sneeziness attribute determines how frequently a Duplicant sneezes."
-msgstr ""
+msgstr "Das Niesanfällig-Attribut bestimmt, wie oft ein Duplikant niest."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.NAME"
 msgid "Sneeziness"
-msgstr ""
+msgstr "Niesanfällig"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC"
@@ -4076,12 +4077,12 @@ msgstr "Stresslevel Änderung"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME"
 msgid "Conductivity Barrier"
-msgstr ""
+msgstr "Leitfähigkeitsbarriere"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP"
 msgid "Barrier thickness dampens the rate of <style=\"heat\">Heat</style> conduction"
-msgstr ""
+msgstr "Barrieredicke dämpft die Rate der <style=\"heat\">Temperatur</style> Übertragung"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
@@ -5285,7 +5286,7 @@ msgstr "Anspruchsvoll"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP"
-msgid "Duplicants will demand better decor and accommodations with each skill level they gain"
+msgid "Duplicants will demand better decor and accommodations with each Profession level they gain"
 msgstr "Duplikanten verlangen bessere Dekoration und Unterkünfte mit jedem Skill-level, den sie bekommen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.CAUSE
@@ -5695,7 +5696,7 @@ msgstr "Dieser Duplikant wurde vor kurzem von etwas angegriffen und es Stresste 
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME"
-msgid "Well-fed"
+msgid "Well fed"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP
@@ -9166,7 +9167,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC"
 msgid "A seedless fruit with an upsettingly bland aftertaste.\n\nIt cannot be replanted.\n\nDigging up Buried Objects may uncover a Muckroot."
-msgstr "Eine samenlose Frucht mit beleidigend fadem Nachgeschmack.\n\nKann nicht neugepflanzt werden.\n\Schmutzwurzeln können unter anderen Objekten vergraben sein."
+msgstr "Eine samenlose Frucht mit beleidigend fadem Nachgeschmack.\n\nKann nicht neugepflanzt werden.\n\\Schmutzwurzeln können unter anderen Objekten vergraben sein."
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME"
@@ -13003,6 +13004,7 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.COLDBREATHER"
 msgid "<style=\"heat\">Cooling Effect</style>"
 msgstr ""
 
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED"
 msgid "Circuit Overload Damage"
 msgstr ""
