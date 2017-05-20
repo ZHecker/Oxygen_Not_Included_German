@@ -2201,12 +2201,12 @@ msgstr "Wasserstoff-Generator"
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.DESC"
 msgid "Reduce irritation with this automatic irrigation."
-msgstr ""
+msgstr "Reduzierte die Irritation mit dieser automatischen Irrigation."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.EFFECT"
 msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nAllows <style=\"liquid\">Liquid</style> delivery for plant irrigation.\n\nCan be used as floor tile.\n\nCan be rotated before construction."
-msgstr ""
+msgstr "Beherbergt eine einzelne <style=\"plant\">Pflanze</style>, wenn ein<style=\"seed\">Samen</style> gepflanzt wird.\n\nGestattet <style=\"liquid\">Flüssigkeitslieferung</style> zur Bewässerung.\n\nKann als Bodenziegel genutzt werden.\n\nKann vor dem Bau rotiert werden."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME"
@@ -3447,7 +3447,7 @@ msgstr "Düngung"
 #. STRINGS.CREATURES.STATS.FERTILIZATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.TOOLTIP"
 msgid "Plants absorb solid nutrients over time when fertilized"
-msgstr ""
+msgstr "Pflanzen absorbieren feste Nährstoffe, wenn sie gedüngt sind"
 
 #. STRINGS.CREATURES.STATS.HEALTH.NAME
 msgctxt "STRINGS.CREATURES.STATS.HEALTH.NAME"
@@ -3457,27 +3457,27 @@ msgstr "Gesundheit"
 #. STRINGS.CREATURES.STATS.IRRIGATION.ABSORBING_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.IRRIGATION.ABSORBING_MODIFIER"
 msgid "Absorbing"
-msgstr ""
+msgstr "Absorbiert"
 
 #. STRINGS.CREATURES.STATS.IRRIGATION.CONSUME_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.IRRIGATION.CONSUME_MODIFIER"
 msgid "Consuming"
-msgstr ""
+msgstr "Verbraucht"
 
 #. STRINGS.CREATURES.STATS.IRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATS.IRRIGATION.NAME"
 msgid "Irrigation"
-msgstr ""
+msgstr "Bewässerung"
 
 #. STRINGS.CREATURES.STATS.IRRIGATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.IRRIGATION.TOOLTIP"
 msgid "Plants absorb liquid nutrients over time when irrigated"
-msgstr ""
+msgstr "Pflanzen absorbieren flüssige Nährstoffe, wenn sie bewässert werden"
 
 #. STRINGS.CREATURES.STATS.MATURITY.AMOUNT_DESC_FMT
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.AMOUNT_DESC_FMT"
 msgid "{0}: {1}\nNext harvest in {2}"
-msgstr ""
+msgstr "{0}: {1}\nNächste Ernte in {0}"
 
 #. STRINGS.CREATURES.STATS.MATURITY.GROWING
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.GROWING"
@@ -3687,22 +3687,22 @@ msgstr "Diese Kreatur versucht sich zu verstecken"
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.NAME"
 msgid "Cannot Fertilize"
-msgstr ""
+msgstr "Düngung unmöglich"
 
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.TOOLTIP"
 msgid "This farm plot does not accept fertilizer\n\nMove the selected plant to a fertilizable plot for optimal growth"
-msgstr ""
+msgstr "Diese Farm kann nicht gedüngt werden\n\nVerschiebe die Pflanze auf einen düngbares Feld für optimales Wachstum"
 
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME"
 msgid "Cannot Irrigate"
-msgstr ""
+msgstr "Bewässerung unmöglich"
 
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.TOOLTIP"
 msgid "This farm plot does not accept irrigation\n\nMove the selected plant to an irrigatable plot for optimal growth"
-msgstr ""
+msgstr "Diese Farm kann nicht bewässert werden\n\nVerschiebe die Pflanze auf ein bewässerbares Feld für optimales Wachstum"
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.NAME"
@@ -3982,12 +3982,12 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.NAME"
 msgid "Standard Yield"
-msgstr ""
+msgstr "Standardertrag"
 
 #. STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.TOOLTIP"
 msgid "This plant produced an average yield"
-msgstr ""
+msgstr "Diese Pflanze hat einen durchschnittlichen Ertrag geliefert"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.LINE_ITEM"
@@ -3997,7 +3997,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
 msgid "Awaiting Fertilizer"
-msgstr ""
+msgstr "Warte auf Düngung"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP"
@@ -4012,12 +4012,12 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME"
 msgid "Awaiting Irrigation"
-msgstr ""
+msgstr "Warte auf Bewässerung"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.TOOLTIP"
 msgid "This plant requires additional liquid to improve growth:\n{Required}"
-msgstr ""
+msgstr "Diese Pflanze benötigt für verbessertes Wachstum diese Flüssigkeit:\n{Required}"
 
 #. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM"
@@ -4027,37 +4027,37 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.NAME"
 msgid "Good Yield"
-msgstr ""
+msgstr "Guter Ertrag"
 
 #. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.TOOLTIP"
 msgid "Comfortable conditions allowed this plant to produce a better yield\n{Effects}"
-msgstr ""
+msgstr "Angenehme Bedingungen haben es gestattet, dass diese Pflanze eine bessere Ernte geliefert\n{Effects}"
 
 #. STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.NAME"
 msgid "Ideal Air Pressure"
-msgstr ""
+msgstr "Idealer Luftdruck"
 
 #. STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.TOOLTIP"
 msgid "This creature is comfortable in the current atmospheric pressure\n\nIdeal Range: {0} - {1}"
-msgstr ""
+msgstr "Diese Kreatur fühlt sich bei diesem Luftdruck sehr wohl\n\nIdealer Bereich: {0} - {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.NAME"
 msgid "Ideal Temperature"
-msgstr ""
+msgstr "Idealtemperatur"
 
 #. STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.TOOLTIP"
 msgid "This creature is comfortable with the current ambient temperature\n\nIdeal Range: {0} - {1}"
-msgstr ""
+msgstr "Diese Kreatur fühlt sich bei dieser Umgebungstemperatur sehr wohl\n\nIdealer Bereich: {0} - {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
 msgid "Harvest Ready"
-msgstr ""
+msgstr "Ernte bereit"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP"
@@ -4072,7 +4072,7 @@ msgstr "Gekühlt"
 #. STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.TOOLTIP"
 msgid "Ideal temperature storage is slowing this food's decay rate"
-msgstr ""
+msgstr "Die ideale Lagertemperatur reduziert die Verfallsrate dieser Nahrung"
 
 #. STRINGS.CREATURES.STATUSITEMS.SCALDING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SCALDING.NAME"
@@ -4497,17 +4497,17 @@ msgstr "Überhitzungstemperatur"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
 msgid "This Duplicant's highest attribute is {0}\n----------\nDuplicants develop higher expectations as their profession level increases"
-msgstr ""
+msgstr "Das höchste Attribut dieses Duplikanten ist {0}\n----------\nDuplicanten entwickeln höhere Erwartungen, wenn ihr Fertigkeitsstufen sich verbessern"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC"
 msgid "Determines the minimum body heat a Duplicant prefers to maintain."
-msgstr ""
+msgstr "Bestimmt die minimale Körperwärme, die ein Duplikant beibehalten möchte"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.NAME"
 msgid "Temperature Preference"
-msgstr ""
+msgstr "Temperaturpräferenz"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.PROFESSION_NAME"
@@ -12492,7 +12492,7 @@ msgstr "Warte auf Duplikanten der wischt"
 #. STRINGS.MISC.TAGS.AGRICULTURE
 msgctxt "STRINGS.MISC.TAGS.AGRICULTURE"
 msgid "Agriculture"
-msgstr ""
+msgstr "Landwirtschaft"
 
 #. STRINGS.MISC.TAGS.ALLOY
 msgctxt "STRINGS.MISC.TAGS.ALLOY"
@@ -12502,7 +12502,7 @@ msgstr "Legierung"
 #. STRINGS.MISC.TAGS.ANYWATER
 msgctxt "STRINGS.MISC.TAGS.ANYWATER"
 msgid "Water Based"
-msgstr ""
+msgstr "Wasserbasiert"
 
 #. STRINGS.MISC.TAGS.BED
 msgctxt "STRINGS.MISC.TAGS.BED"
@@ -12542,7 +12542,7 @@ msgstr "Klinik"
 #. STRINGS.MISC.TAGS.CLOTHES
 msgctxt "STRINGS.MISC.TAGS.CLOTHES"
 msgid "Clothing"
-msgstr ""
+msgstr "Kleidung"
 
 #. STRINGS.MISC.TAGS.COAL
 msgctxt "STRINGS.MISC.TAGS.COAL"
@@ -12552,7 +12552,7 @@ msgstr "Kohle"
 #. STRINGS.MISC.TAGS.COMPOSTABLE
 msgctxt "STRINGS.MISC.TAGS.COMPOSTABLE"
 msgid "Compostable"
-msgstr ""
+msgstr "Kompostierbar"
 
 #. STRINGS.MISC.TAGS.CONSUMABLEORE
 msgctxt "STRINGS.MISC.TAGS.CONSUMABLEORE"
@@ -12562,12 +12562,12 @@ msgstr "Verbrauchbares Erz"
 #. STRINGS.MISC.TAGS.COOKINGINGREDIENT
 msgctxt "STRINGS.MISC.TAGS.COOKINGINGREDIENT"
 msgid "Cooking Ingredient"
-msgstr ""
+msgstr "Kochzutat"
 
 #. STRINGS.MISC.TAGS.EDIBLE
 msgctxt "STRINGS.MISC.TAGS.EDIBLE"
 msgid "Edible"
-msgstr ""
+msgstr "Essbar"
 
 #. STRINGS.MISC.TAGS.EMITSLIGHT
 msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
@@ -12602,12 +12602,12 @@ msgstr "Eis"
 #. STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT
 msgctxt "STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT"
 msgid "Industrial Ingredient"
-msgstr ""
+msgstr "Industrielle Zutat"
 
 #. STRINGS.MISC.TAGS.INDUSTRIALPRODUCT
 msgctxt "STRINGS.MISC.TAGS.INDUSTRIALPRODUCT"
 msgid "Industrial Product"
-msgstr ""
+msgstr "Industrielles Produkt"
 
 #. STRINGS.MISC.TAGS.LIFE
 msgctxt "STRINGS.MISC.TAGS.LIFE"
@@ -12667,7 +12667,7 @@ msgstr "Phosphor"
 #. STRINGS.MISC.TAGS.PLUMBABLE
 msgctxt "STRINGS.MISC.TAGS.PLUMBABLE"
 msgid "Plumbable"
-msgstr ""
+msgstr "Pumpbar"
 
 #. STRINGS.MISC.TAGS.PRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.PRECIOUSMETAL"
@@ -12692,7 +12692,7 @@ msgstr "Freizeitbereich"
 #. STRINGS.MISC.TAGS.SEED
 msgctxt "STRINGS.MISC.TAGS.SEED"
 msgid "Seed"
-msgstr ""
+msgstr "Samen"
 
 #. STRINGS.MISC.TAGS.SOLID
 msgctxt "STRINGS.MISC.TAGS.SOLID"
@@ -12712,7 +12712,7 @@ msgstr "Speziell"
 #. STRINGS.MISC.TAGS.SUIT
 msgctxt "STRINGS.MISC.TAGS.SUIT"
 msgid "Suit"
-msgstr ""
+msgstr "Anzug"
 
 #. STRINGS.MISC.TAGS.TOXIC
 msgctxt "STRINGS.MISC.TAGS.TOXIC"
@@ -14717,12 +14717,12 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.ALLOWS_FERTILIZER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ALLOWS_FERTILIZER"
 msgid "Plant <style=\"solid\">Fertilization</style>"
-msgstr ""
+msgstr "Pflanzen-<style=\"solid\">Düngung</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ALLOWS_IRRIGATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ALLOWS_IRRIGATION"
 msgid "Plant <style=\"LiquidPiping\">Irrigation</style>"
-msgstr ""
+msgstr "Pflanzen-<style=\"LiquidPiping\">Bewässerung</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT"
@@ -14927,17 +14927,17 @@ msgstr "<style=\"stress\">Stress</style>: <style=\"consumed\">{0} pro Minute</st
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_FERTILIZER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_FERTILIZER"
 msgid "This farm plot enables plant fertilization to improve Harvest Rating and improve yield"
-msgstr ""
+msgstr "Dieses Feld gewährt Zugang zur Pflanzendüngung um die Erntebewertung und den Ertrag zu erhöhen"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_IRRIGATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_IRRIGATION"
 msgid "This farm plot enables plant irrigation to improve Harvest Rating and improve yield"
-msgstr ""
+msgstr "Dieses Feld gewährt Zugang zur Pflanzenbewässerung um die Erntebewertung und den Ertrag zu erhöhen"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT"
@@ -15212,12 +15212,12 @@ msgstr "Drücke <color=#F44A47>[ESC]</color> um zu einer früheren Kolonie zurü
 #. STRINGS.UI.CONFIRMDIALOG.CANCEL
 msgctxt "STRINGS.UI.CONFIRMDIALOG.CANCEL"
 msgid "CANCEL"
-msgstr ""
+msgstr "ABBRECHEN"
 
 #. STRINGS.UI.CONFIRMDIALOG.OK
 msgctxt "STRINGS.UI.CONFIRMDIALOG.OK"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. STRINGS.UI.CONSUMABLES
 msgctxt "STRINGS.UI.CONSUMABLES"
@@ -15227,77 +15227,77 @@ msgstr "ERNÄHRUNG"
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_AVAILABLE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_AVAILABLE"
 msgid "Available: {0}"
-msgstr ""
+msgstr "Verfügbar: {0}"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_CANT_CONSUME
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_CANT_CONSUME"
 msgid "<b>{0}</b> cannot eat\n<b>{1}</b>"
-msgstr ""
+msgstr "<b>{0}</b> kann\n<b>{1}</b> nicht essen"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_EXPECTATIONS
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_EXPECTATIONS"
 msgid "Expectations"
-msgstr ""
+msgstr "Erwartungen"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_OFF
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_OFF"
 msgid "<b>{0}</b> will not eat\n<b>{1}</b>"
-msgstr ""
+msgstr "<b>{0}</b> wird\n<b>{1}</b> nicht essen"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_ON
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_ON"
 msgid "<b>{0}</b> will eat\n<b>{1}</b>"
-msgstr ""
+msgstr "<b>{0}</b> wird\n<b>{1}</b> essen"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY"
 msgid "Quality: {0}"
-msgstr ""
+msgstr "Qualität: {0}"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_REFUSE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_REFUSE"
 msgid "<b>{0}</b> refuses to eat\n<b>{1}</b>"
-msgstr ""
+msgstr "<b>{0}</b> weigert sich,\n<b>{1}</b> zu essen"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_FOOD_PERMISSION_OFF
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_FOOD_PERMISSION_OFF"
-msgid "<b>New Duplicants</b> will not eat \n<b>{0}</b> by default"
-msgstr ""
+msgid "<b>New Duplicants</b> will not eat\n<b>{0}</b> by default"
+msgstr "<b>Neue Duplikanten</b> werden\n<b>{0}</b> standardmäßig nicht essen"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_FOOD_PERMISSION_ON
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_FOOD_PERMISSION_ON"
 msgid "<b>New Duplicants</b> will eat \n<b>{0}</b> by default"
-msgstr ""
+msgstr "<b>Neue Duplikanten</b> werden \n<b>{0}</b> standardmäßig essen"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW"
 msgid "Toggle all food permissions for <b>new Duplicants</b>"
-msgstr ""
+msgstr "Alle Nahrungsberechtigungen für <b>neue Duplikanten</b> umschalten"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.STRESS
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.STRESS"
 msgid "Stress"
-msgstr ""
+msgstr "Stress"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.TITLE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TITLE"
 msgid "CONSUMABLES"
-msgstr ""
+msgstr "ERNÄHRUNG"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ALL"
 msgid "Toggle all food permissions colonywide"
-msgstr ""
+msgstr "Alle Nahrungsberechtigungen der Kolonie umschalten"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_COLUMN
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_COLUMN"
 msgid "Toggle colonywide <b>{0}</b> permission"
-msgstr ""
+msgstr "Für die gesamte Kolonie die Rechte für <b>{0}</b> umschalten"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ROW"
 msgid "Toggle all food permissions for <b>{0}</b>"
-msgstr ""
+msgstr "Alle Nahrungsberechtigungen für <b>{0}</b> umschalten"
 
 #. STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO"
@@ -16567,7 +16567,7 @@ msgstr "Grafik"
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE"
 msgid "Choose a different Language"
-msgstr ""
+msgstr "Sprache ändern"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
@@ -16647,7 +16647,7 @@ msgstr "Speichern"
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVEAS
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVEAS"
 msgid "Save As"
-msgstr "Speichern als"
+msgstr "Speichern unter"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE"
@@ -16687,42 +16687,42 @@ msgstr "SPEICHERSLOTS"
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD"
 msgid "Start Download"
-msgstr ""
+msgstr "Download starten"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL"
 msgid "Install"
-msgstr ""
+msgstr "Installieren"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED"
 msgid "Installed"
-msgstr ""
+msgstr "Installiert"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_PACKS
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_PACKS"
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Steam Workshop"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_STEAM
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_STEAM"
 msgid "Unable to get language list from Steam"
-msgstr ""
+msgstr "Liste der Sprachen konnte nicht von Steam abgefragt werden"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PLEASE_RESTART
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PLEASE_RESTART"
 msgid "This requires a restart, press ok to continue"
-msgstr ""
+msgstr "Neustart erforderlich, klicke OK zum Fortfahren"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.TITLE"
 msgid "TRANSLATIONS"
-msgstr ""
+msgstr "ÜBERSETZUNGEN"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UNINSTALL
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UNINSTALL"
 msgid "Uninstall"
-msgstr ""
+msgstr "Deinstallieren"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS"
@@ -16767,7 +16767,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "Fertig"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.ENABLE_BUTTON"
@@ -16887,7 +16887,7 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_QUALITY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_QUALITY"
 msgid "Quality: {0}"
-msgstr ""
+msgstr "Qualität: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER"
@@ -16902,122 +16902,122 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME"
 msgid "Growth: {0}"
-msgstr ""
+msgstr "Wachstum: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_REGROWTH
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_REGROWTH"
 msgid "Lifecycle: {0} / {1}"
-msgstr ""
+msgstr "Lebenszyklus: {0} / {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_SIMPLE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_SIMPLE"
 msgid "Lifecycle: {0}"
-msgstr ""
+msgstr "Lebenszyklus: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_FERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_FERTILIZER"
 msgid "<style=\"solid\">{0}</style>: <style=\"consumed\">{1}</style>"
-msgstr ""
+msgstr "<style=\"solid\">{0}</style>: <style=\"consumed\">{1}</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_PRESSURE"
 msgid "<style=\"gas\">Gas</style> Pressure: {0}"
-msgstr ""
+msgstr "<style=\"gas\">Gasdruck</style>: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_TEMPERATURE"
 msgid "<style=\"heat\">Temperature</style>: {0} to {1}"
-msgstr ""
+msgstr "<style=\"heat\">Temperatur</style>: {0} bis {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME"
 msgid "Initial Growth: {0}"
-msgstr ""
+msgstr "Anfangswachstum: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.LIFECYCLETITLE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.LIFECYCLETITLE"
 msgid "Growth:"
-msgstr ""
+msgstr "Wachstum:"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_DO_NOT_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_DO_NOT_HARVEST"
 msgid "Manual Harvest"
-msgstr ""
+msgstr "Manuelle Ernte"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_MARK_FOR_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_MARK_FOR_HARVEST"
 msgid "Autoharvest"
-msgstr ""
+msgstr "Automatische Ernte"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME"
 msgid "Regrowth: {0}"
-msgstr ""
+msgstr "Neuwachstum: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE"
 msgid "<style=\"gas\">Gas</style> Pressure: {0} minimum"
-msgstr ""
+msgstr "<style=\"gas\">Gasdruck</style>: mindestens {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION"
 msgid "<style=\"liquid\">Liquid</style> Submersion"
-msgstr ""
+msgstr "Untergetaucht in <style=\"liquid\">Flüssigkeit</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE"
 msgid "<style=\"heat\">Temperature</style>: {0} to {1}"
-msgstr ""
+msgstr "<style=\"heat\">Temperatur</style>: {0} bis {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER"
 msgid "<style=\"solid\">{0}</style>: <style=\"consumed\">{1}</style>"
-msgstr ""
+msgstr "<style=\"solid\">{0}</style>: <style=\"consumed\">{1}</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN"
 msgid "Rotten"
-msgstr ""
+msgstr "Verdorben"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY"
 msgid "Consumes 1 <style=\"seed\">Seed</style>"
-msgstr ""
+msgstr "Verbraucht 1 <style=\"seed\">Samen</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FINAL_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FINAL_HARVEST"
 msgid "Final harvest yields <style=\"seed\">Seeds</style>"
-msgstr ""
+msgstr "Letzte Ernte liefert <style=\"seed\">Samen</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT"
 msgid "Fruit produces <style=\"seed\">Seeds</style>"
-msgstr ""
+msgstr "Frucht produziert <style=\"seed\">Samen</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST"
 msgid "Harvest yields <style=\"seed\">Seeds</style>"
-msgstr ""
+msgstr "Ernte liefert <style=\"seed\">Samen</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_REQUIREMENT_CEILING
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_REQUIREMENT_CEILING"
 msgid "Plot Orientation: Downward"
-msgstr ""
+msgstr "Ausrichtung: Unten"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_REQUIREMENT_WALL
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_REQUIREMENT_WALL"
 msgid "Plot Orientation: Sideways"
-msgstr ""
+msgstr "Ausrichtung: Seitwärts"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES"
 msgid "<style=\"produced\">+{0}</style>"
-msgstr ""
+msgstr "<style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER"
 msgid "Lowers ambient air temperature"
-msgstr ""
+msgstr "Senkt die Umgebungstemperatur"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT"
@@ -17032,7 +17032,7 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FOOD_QUALITY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FOOD_QUALITY"
 msgid "Quality: {0}"
-msgstr ""
+msgstr "Qualität: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FRIEDMUSHBARREMOVESDISEASE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FRIEDMUSHBARREMOVESDISEASE"
@@ -17047,87 +17047,87 @@ msgstr "Diese Pflanze benötigt {0} zum Wachsen"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_REGROWTH
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_REGROWTH"
 msgid "This plant takes {0} to grow, and {1} to mature again after first harvest"
-msgstr ""
+msgstr "Diese Pflanze benötigt {0} zum Wachsen, und dann {1} um nach der ersten Ernte erneut zu reifen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_SIMPLE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_SIMPLE"
 msgid "This plant takes {0} to grow"
-msgstr ""
+msgstr "Diese Pflanze benötigt {0} zum Wachsen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_FERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_FERTILIZER"
 msgid "This plant will gain Harvest Rating Points if provided with {1} of {0}"
-msgstr ""
+msgstr "Diese Pflanze erhält Erntebewertungspunkte wenn sie mit {1} {0} versorgt wird"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_PRESSURE"
 msgid "This plant will gain Harvest Rating Points if atmospheric pressure is kept above {0}"
-msgstr ""
+msgstr "Diese Pflanze erhält Erntebewertungspunkte, wenn der Druck über {0} bleibt"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_TEMPERATURE"
 msgid "This plant will gain Harvest Rating Points if atmospheric temperature is kept between {0} and {1}"
-msgstr ""
+msgstr "Diese Pflanze erhält Erntebewertungspunkte wenn der Druck zwischen {0} und {1} bleibt"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME"
 msgid "This plant takes {0} to mature again once replanted"
-msgstr ""
+msgstr "Diese Pflanze benötigt {0} um nach dem Einpflanzen erneut zu reifen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REGROWTHTIME"
 msgid "This plant takes {0} to mature again once harvested"
-msgstr ""
+msgstr "Diese Pflanze benötigt {0} um nach der Ernte erneut zu reifen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE"
 msgid "Atmospheric gas pressure must be at least {0} for basic growth"
-msgstr ""
+msgstr "Luftdruck muss mindestens {0} für Standardwachstum sein"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
 msgid "This plant must be fully submerged in liquid for basic growth"
-msgstr ""
+msgstr "Pflanze muss für Standardwachstum vollständig untergetaucht sein"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE"
 msgid "Atmospheric temperature must be kept between {0} and {1} for basic growth"
-msgstr ""
+msgstr "Luftdruck muss zwischen {0} und {1} für Standardwachstum sein"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
 msgid "This plant requires {1} {0} for basic growth"
-msgstr ""
+msgstr "Diese Pflanze benötigt {1} {0} für Standardwachstum"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
 msgid "This plant can be replanted but will produce no further seeds"
-msgstr ""
+msgstr "Diese Pflanze kann erneut gepflanzt werden, produziert aber keine weiteren Samen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FINAL_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FINAL_HARVEST"
 msgid "This plant will yield new seeds on the final harvest of its lifecycle"
-msgstr ""
+msgstr "Diese Pflanze produziert bei der letzten Ernte ihres Lebenszyklus neue Samen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT"
 msgid "Consuming this plant's fruit will yield new plant seeds"
-msgstr ""
+msgstr "Das Konsumieren der Frucht dieser Pflanze erzeugt neue Samen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
 msgid "Harvesting this plant will yield new seeds"
-msgstr ""
+msgstr "Die Ernte dieser Pflanze erzeugt neue Samen"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING"
 msgid "This seed must be planted in a downward facing plot\n\nPress <color=#F44A47>[O]</color> while building farm plots to rotate them"
-msgstr ""
+msgstr "Dieser Samen muss in einem nach unten gerichteten Feld gepflanzt werden\n\nDrücke <color=#F44A47>[O]</color> beim Bau, um Farmen zu rotieren"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_WALL
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_WALL"
 msgid "This seed must be planted in a side facing plot\n\nPress <color=#F44A47>[O]</color> while building plots to rotate them"
-msgstr ""
+msgstr "Dieser Samen muss in einem seitwärts gerichteten Feld gepflanzt werden\n\nDrücke <color=#F44A47>[O]</color> beim Bau, um Farmen zu rotieren"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.BACK"
@@ -17137,7 +17137,7 @@ msgstr "ZURÜCK"
 #. STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON"
 msgid "Cancel"
-msgstr "Abrechen"
+msgstr "Abbrechen"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
@@ -17192,7 +17192,7 @@ msgstr "ZUFALL"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME"
 msgid "Randomize colony name"
-msgstr ""
+msgstr "Kolonienamen zufällig wählen"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
@@ -17207,12 +17207,12 @@ msgstr "JOBS"
 #. STRINGS.UI.JOBSCREEN_DEFAULT
 msgctxt "STRINGS.UI.JOBSCREEN_DEFAULT"
 msgid "New Duplicants"
-msgstr ""
+msgstr "Neue Duplikanten"
 
 #. STRINGS.UI.JOBSCREEN_EVERYONE
 msgctxt "STRINGS.UI.JOBSCREEN_EVERYONE"
 msgid "Everyone"
-msgstr "Jeder"
+msgstr "Alle"
 
 #. STRINGS.UI.JOBSCREEN_HIGH
 msgctxt "STRINGS.UI.JOBSCREEN_HIGH"
@@ -17232,62 +17232,62 @@ msgstr "Priorität"
 #. STRINGS.UI.JOBSSCREEN.COLUMN_SORT_BY_JOB_SKILL
 msgctxt "STRINGS.UI.JOBSSCREEN.COLUMN_SORT_BY_JOB_SKILL"
 msgid "Sort colony by {0} skill"
-msgstr ""
+msgstr "Kolonie nach Fähigkeit {0} sortieren"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME"
 msgid "<b>{0}</b> cannot perform \n<b>{1} Tasks</b>"
-msgstr ""
+msgstr "<b>{0}</b> kann Aufgaben der\nKategorie <b>{1}</b> nicht ausführen"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF"
 msgid "<b>{0}</b> will not perform \n<b>{1} Tasks</b>"
-msgstr ""
+msgstr "<b>{0}</b> wird Aufgaben der\nKategorie <b>{1}</b> nicht ausführen"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON"
 msgid "<b>{0}</b> will perform \n<b>{1} Tasks</b>"
-msgstr ""
+msgstr "<b>{0}</b> wird Aufgaben der\nKategorie <b>{1}</b> ausführen"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_REFUSE
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_REFUSE"
 msgid "<b>{0}</b> refuses to perform \n<b>{1} Tasks</b>"
-msgstr ""
+msgstr "<b>{0}</b> weigert sich, Aufgaben der\nKategorie <b>{1}</b> auszuführen"
 
 #. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_OFF
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_OFF"
 msgid "<b>New Duplicants</b> will not perform \n<b>{0} Tasks</b> by default"
-msgstr ""
+msgstr "<b>Neue Duplikanten</b> werden Aufgaben der\nKategorie <b>{0}</b> standardmäßig nicht ausführen"
 
 #. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_ON
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_ON"
 msgid "<b>New Duplicants</b> will perform \n<b>{0} Tasks</b> by default"
-msgstr ""
+msgstr "<b>Neue Duplikanten</b> werden Aufgaben der\nKategorie <b>{0}</b> standardmäßig ausführen"
 
 #. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW"
 msgid "Toggle all tasks for <b>new Duplicants</b>"
-msgstr ""
+msgstr "Alle Aufgaben für <b>neue Duplikanten</b> umschalten"
 
 #. STRINGS.UI.JOBSSCREEN.TITLE
 msgctxt "STRINGS.UI.JOBSSCREEN.TITLE"
 msgid "JOBS"
-msgstr ""
+msgstr "JOBS"
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL"
 msgid "Toggle all tasks colonywide"
-msgstr ""
+msgstr "Alle Aufgaben für die ganze Kolonie umschalten"
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_COLUMN
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_COLUMN"
 msgid "Toggle <b>{0} Tasks</b> colonywide"
-msgstr ""
+msgstr "Aufgaben der Kategorie <b>{0}</b> kolonieweit umschalten"
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ROW"
 msgid "Toggle all tasks for <b>{0}</b>"
-msgstr ""
+msgstr "Alle Aufgaben für <b>{0}</b> umschalten"
 
 #. STRINGS.UI.LISTENTRYSTRING
 msgctxt "STRINGS.UI.LISTENTRYSTRING"
@@ -18062,7 +18062,7 @@ msgstr "Aufgenommen: {0} {1}"
 #. STRINGS.UI.PLACEINRECEPTACLE
 msgctxt "STRINGS.UI.PLACEINRECEPTACLE"
 msgid "Plant"
-msgstr ""
+msgstr "Pflanze"
 
 #. STRINGS.UI.POSITIVE_FORMAT
 msgctxt "STRINGS.UI.POSITIVE_FORMAT"
@@ -18152,22 +18152,22 @@ msgstr "Forschungspunkte"
 #. STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP
 msgctxt "STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP"
 msgid "Unlocks: {0}"
-msgstr ""
+msgstr "Freischaltung: {0}"
 
 #. STRINGS.UI.RESOURCESCREEN.AVAILABLE_TOOLTIP
 msgctxt "STRINGS.UI.RESOURCESCREEN.AVAILABLE_TOOLTIP"
 msgid "Available: {0}"
-msgstr ""
+msgstr "Available: {0}"
 
 #. STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP
 msgctxt "STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP"
 msgid "Click to expand\n------------------\nCounts resources within Duplicant reach that are not allocated to construction"
-msgstr ""
+msgstr "Klicken zum Ausklappen\n------------------\nZählt Ressourcen in Reichweite von Duplikanten, die nicht für den Bau verplant sind"
 
 #. STRINGS.UI.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULE"
 msgid "SCHEDULE"
-msgstr ""
+msgstr "ZEITPLAN"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
@@ -18282,17 +18282,17 @@ msgstr ""
 #. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_EXPECTATIONS
 msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_EXPECTATIONS"
 msgid "Sort by quality expectations"
-msgstr ""
+msgstr "Sortiere nach Qualitätserwartungen"
 
 #. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_NAME
 msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_NAME"
 msgid "Sort by name"
-msgstr ""
+msgstr "Sortiere nach Name"
 
 #. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_STRESS
 msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_STRESS"
 msgid "Sort by stress level"
-msgstr ""
+msgstr "Sortiere nach Stresslevel"
 
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
@@ -18312,7 +18312,7 @@ msgstr "Ernte-Tool"
 #. STRINGS.UI.TOOLS.BUILD.NAME
 msgctxt "STRINGS.UI.TOOLS.BUILD.NAME"
 msgid "Build {0}"
-msgstr "{0} Bauen"
+msgstr "{0} bauen"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION"
@@ -18747,32 +18747,32 @@ msgstr "Zeigt Komponenten des Rohrsystems an"
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_CONSUMABLES
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_CONSUMABLES"
 msgid "Manage Duplicant diets"
-msgstr ""
+msgstr "Nahrungspläne der Duplikanten verwalten"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT"
 msgid "View daily Colony Reports"
-msgstr ""
+msgstr "Tägliche Kolonieberichte anzeigen"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS"
 msgid "Manage Duplicant job priorities"
-msgstr ""
+msgstr "Aufgabenprioritöten der Duplikanten verwalten"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH"
 msgid "Build a Research Station to unlock\n------------------\nResearch buildings can be found in the Stations Tab <color=#F44A47>[9]</color> of the Build Menu"
-msgstr ""
+msgstr "Benötigt Forschungsstation zur Freischaltung\n------------------\nForschungsgebäude befinden sich im Stationstab <color=#F44A47>[9]</color> des Baumenüs"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH"
 msgid "View the Research Tree"
-msgstr ""
+msgstr "Forschungsbaum anzeigen"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE"
 msgid "Adjust colony timetable"
-msgstr ""
+msgstr "Zeitplan der Kolonie anpassen"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS"
@@ -18782,7 +18782,7 @@ msgstr "Zeigt die Vitalwerte der Duplikanten an"
 #. STRINGS.UI.TOOLTIPS.MATIERIAL_MOD
 msgctxt "STRINGS.UI.TOOLTIPS.MATIERIAL_MOD"
 msgid "Made out of {0}"
-msgstr ""
+msgstr "Hergestellt aus {0}"
 
 #. STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP"
@@ -18817,7 +18817,7 @@ msgstr "Nächste Nachricht"
 #. STRINGS.UI.TOOLTIPS.NOMATERIAL
 msgctxt "STRINGS.UI.TOOLTIPS.NOMATERIAL"
 msgid "Not enough materials"
-msgstr ""
+msgstr "Nicht genug Material"
 
 #. STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING"
@@ -18827,17 +18827,17 @@ msgstr "Zeigt Sauerstoffdichte der Umgebung"
 #. STRINGS.UI.TOOLTIPS.PAUSE
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSE"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 #. STRINGS.UI.TOOLTIPS.PAUSEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSEBUTTON"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 #. STRINGS.UI.TOOLTIPS.PLAYBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PLAYBUTTON"
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 #. STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING"
@@ -18892,12 +18892,12 @@ msgstr "Alarmstufe Rot aktivieren"
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_CONTENT
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_CONTENT"
 msgid "Colony enters a state of emergency. Duplicants ignore basic needs to work."
-msgstr ""
+msgstr "Kolonie geht in Notfallzustand über. Duplikanten ignorieren Grundbedürnisse, um zu arbeiten"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_TITLE
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_TITLE"
 msgid "Toggle Red Alert"
-msgstr ""
+msgstr "Alarmstufe Rot umschalten"
 
 #. STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING"
@@ -18907,7 +18907,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.COLLAPSE
 msgctxt "STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.COLLAPSE"
 msgid "Click to collapse"
-msgstr ""
+msgstr "Klicken zum Einklappen"
 
 #. STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.DESC
 msgctxt "STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.DESC"
@@ -18937,7 +18937,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.SORTCOLUMN
 msgctxt "STRINGS.UI.TOOLTIPS.SORTCOLUMN"
 msgid "Click to sort"
-msgstr ""
+msgstr "Klicken zum Sortieren"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST"
@@ -19362,32 +19362,32 @@ msgstr "Duplikanten bedienen diesen Generator, wenn die Batterieladung unter den
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.HARVESTDETAILS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.HARVESTDETAILS"
 msgid "<b>Harvest Rating Tiers</b>:"
-msgstr ""
+msgstr "<b>Erntebewertungsränge</b>:"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.HIGH_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.HIGH_YIELD"
 msgid "Excellent (80+ Points):"
-msgstr ""
+msgstr "Exzellent (80+ Punkte):"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.LOW_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.LOW_YIELD"
 msgid "Standard (0+ Points):"
-msgstr ""
+msgstr "Standard (0+ Points):"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NORMAL_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NORMAL_YIELD"
 msgid "Good (40+ Points):"
-msgstr ""
+msgstr "Gut (40+ Punkte):"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NUMBEROFHARVESTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NUMBEROFHARVESTS"
 msgid "Harvests: {0}"
-msgstr ""
+msgstr "Ernten: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.OPTIMUMCONDITIONS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.OPTIMUMCONDITIONS"
 msgid "<style=\"harvestQuality\">Harvest Rating</style>: Max <style=\"produced\">+{0} Points</style>/cycle:"
-msgstr ""
+msgstr "<style=\"harvestQuality\">Erntebewertung</style>: Maximal <style=\"produced\">+{0} Punkte</style>/Zyklus:"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS"
@@ -19397,22 +19397,22 @@ msgstr "<b>Effekte</b>:"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS"
 msgid "<b>Growth Requirements</b>:"
-msgstr ""
+msgstr "<b>Wachstumsanforderungen</b>:"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_CEILING
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_CEILING"
 msgid "<style=\"consumed\"><b>Requires downward plot orientation.</b></style>"
-msgstr ""
+msgstr "<style=\"consumed\"><b>Benötigt nach unten gerichtetes Feld.</b></style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_FLOOR
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_FLOOR"
 msgid "<style=\"consumed\"><b>Requires upward plot orientation.</b></style>"
-msgstr ""
+msgstr "<style=\"consumed\"><b>Benötigt nach oben gerichtetes Feld.</b></style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_WALL
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_WALL"
 msgid "<style=\"consumed\"><b>Requires sideways plot orientation.</b></style>"
-msgstr ""
+msgstr "<style=\"consumed\"><b>Benötigt seitwärts gerichtetes Feld.</b></style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC"
@@ -19427,62 +19427,62 @@ msgstr "Wähle Samen"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HARVESTDETAILS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HARVESTDETAILS"
 msgid "Yield bonuses for Harvest Ratings"
-msgstr ""
+msgstr "Ertragsbonus für Erntebewertungen"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HIGH_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HIGH_YIELD"
 msgid "If a plant reaches maturity with more than {0} Harvest Rating Points it will produce an Excellent yield"
-msgstr ""
+msgstr "Reift eine Pflanze mit mehr als {0} Erntebewertungspunkten, wird ein exzellenter Ertrag erzielt"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.LOW_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.LOW_YIELD"
 msgid "If a plant reaches maturity with fewer than 40 Harvest Rating Points it will produce a Standard yield"
-msgstr ""
+msgstr "Reift eine Pflanze mit weniger als 40 Erntebewertungspunkten, wird ein Standardertrag erzielt"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NORMAL_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NORMAL_YIELD"
 msgid "If a plant reaches maturity with more than {0} Harvest Rating Points it will produce a Good yield"
-msgstr ""
+msgstr "Reift eine Pflanze mit mehr als {0} Erntebewertungspunkten, wird ein guter Ertrag erzielt"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS"
 msgid "This plant will yield {0} harvests in its lifecycle"
-msgstr ""
+msgstr "Diese Pflanze wird {0} Erntevorgänge in ihrem Lebenszyklus anbieten"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.OPTIMUMCONDITIONS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.OPTIMUMCONDITIONS"
 msgid "A plant will continuously generate Harvest Rating Points when kept within ideal conditions, generating up to {1} points per condition in a day.\n\nThis plant's maximum Harvest Rating Point generation is +{0} per cycle. It will generate additional points the longer it stays within ideal conditions."
-msgstr ""
+msgstr "Eine Pflanze generiert laufend Erntebewertungspunkte, wenn sie unter idealen Bedingungen steht, bis zu einem Maximum von {1} für jede Bedingung pro Tag\n\nDie maximale Rate für Erntebewertungspunkt pro Zyklus ist +{0}. Zusätzliche Punkte werden erzeugt, wenn die Pflanze länger unter Idealbedingungen steht."
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANTEFFECTS"
 msgid "Harvest Rating Point generation and additional effects"
-msgstr ""
+msgstr "Rate für Erntebewertungspunkte und Zusatzeffekte"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANTREQUIREMENTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANTREQUIREMENTS"
 msgid "Lifecycle and growth requirements"
-msgstr ""
+msgstr "Lebenszyklus- und Wachstumsanforderungen"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD"
 msgid "<style=\"produced\">{2}</style> produced in this tier (<style=\"produced\">{1}</style> per unit)"
-msgstr ""
+msgstr "<style=\"produced\">{2}</style> produziert auf diesem Rang (<style=\"produced\">{1}</style> pro Einheit)"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED"
 msgid "Can be sown to grow more of this plant"
-msgstr ""
+msgstr "Kann ausgesät werden, um diese Pflanze zu vermehren"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED_FINAL_HARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED_FINAL_HARVEST"
 msgid "{0}\n\nThese seeds will be produced in the final harvest of a plant's lifecycle"
-msgstr ""
+msgstr "{0}\n\nDiese Samen werden im letzten Erntevorgang des Lebenszyklus der Pflanze produziert"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIES
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIES"
 msgid "<style=\"produced\">{0}</style>"
-msgstr ""
+msgstr "<style=\"produced\">{0}</style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIESWITHPERUNIT
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIESWITHPERUNIT"
@@ -19492,37 +19492,37 @@ msgstr "<style=\"produced\">{0}</style> (<style=\"produced\">{1}</style> pro Ein
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD"
 msgid "{1} <style=\"food\">{0}</style>"
-msgstr ""
+msgstr "{1} <style=\"food\">{0}</style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED"
 msgid "{1} <style=\"seed\">{0}</style>"
-msgstr ""
+msgstr "{1} <style=\"seed\">{0}</style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_FINAL_HARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_FINAL_HARVEST"
 msgid "{1} <style=\"seed\">{0}</style> (Final harvest only)"
-msgstr ""
+msgstr "{1} <style=\"seed\">{0}</style> (Nur bei der letzten Ernte)"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_SINGLE
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_SINGLE"
 msgid "<style=\"seed\">{0}</style>"
-msgstr ""
+msgstr "<style=\"seed\">{0}</style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_SINGLE_FINAL_HARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_SINGLE_FINAL_HARVEST"
 msgid "<style=\"seed\">{0}</style> (Final harvest only)"
-msgstr ""
+msgstr "<style=\"seed\">{0}</style> (Nur bei der letzten Ernte)"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SINGLE
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SINGLE"
 msgid "<style=\"food\">{0}</style>"
-msgstr ""
+msgstr "<style=\"food\">{0}</style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELDPERHARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELDPERHARVEST"
 msgid "{0} <style=\"food\">{1}</style> per harvest"
-msgstr ""
+msgstr "{0} <style=\"food\">{1}</style> pro Ernte"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.CURRENTLYRESEARCHING
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.CURRENTLYRESEARCHING"
@@ -19537,7 +19537,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON"
 msgid "RESEARCH"
-msgstr ""
+msgstr "FORSCHUNG"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE"
@@ -19557,22 +19557,22 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGREQUEST
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGREQUEST"
 msgid "PLANT: {0}"
-msgstr ""
+msgstr "PFLANZE: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.ENTITYDEPOSITED
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.ENTITYDEPOSITED"
 msgid "PLANTED: {0}"
-msgstr ""
+msgstr "GEPFLANZT: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.INFORMATION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "INFORMATION"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.TITLE"
 msgid "{0} Seeds"
-msgstr ""
+msgstr "Samen für {0}"
 
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.GAMEOVER
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.GAMEOVER"
@@ -19582,7 +19582,7 @@ msgstr "Kolonie verloren"
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.NEXTPRODUCTION
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.NEXTPRODUCTION"
 msgid "Next Production: {0}"
-msgstr ""
+msgstr "Nächste Produktion: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.TITLE"
@@ -20254,12 +20254,12 @@ msgstr "Heute gegessen"
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
 msgid "The amount of food your Duplicant has eaten this cycle"
-msgstr ""
+msgstr "Die Nahrungsmenge, die der Duplikant in diesem Zyklus konsumiert hat"
 
 #. STRINGS.UI.VITALSSCREEN_HEALTH
 msgctxt "STRINGS.UI.VITALSSCREEN_HEALTH"
 msgid "Health"
-msgstr ""
+msgstr "Gesundheit"
 
 #. STRINGS.UI.VITALSSCREEN_NAME
 msgctxt "STRINGS.UI.VITALSSCREEN_NAME"
