@@ -5,4 +5,4 @@ Dieses Repository enthält die deutsche Community-Übersetzung für [Oxygen Not 
 
 ## AKTUELLE VERSION
 
-AKTUELLE VERSION [HIER] (https://github.com/Ni42/Oxygen_Not_Included_German)
+AKTUELLE VERSION [HIER] (https://github.com/Ni42/Oxygen_Not_Included_German) 
